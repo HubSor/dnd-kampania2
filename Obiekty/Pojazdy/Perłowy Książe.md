@@ -1,0 +1,31 @@
+- Kecz/brygantyna
+- Nazwany na cześć [[Olimpijczyk]]
+- Pomieszczenia
+	- Kajuta kapitana na pokładzie
+	- Górny podpokład
+		- Kajuty załogi
+		- 2 małe klatki
+		- Kuchnia
+	- Dolny podpokład
+		- Ładownia
+- Statystyki
+	- Załoga
+		- 16 osób (1 oficer + 6 graczy + 9 marynarzy)
+	- Wymiary
+		- 35m x 8m
+		- Do tego długi dziób
+	- Średnia prędkość
+		- Na godzinę
+			- 5,2 węzła
+			- 6 mile
+			- 9,6 km
+		- Dziennie (20h rejsu)
+			- 120 mile
+			- 193 km
+	- Pojemność
+		- 25 t
+		- 55 000 lbs
+		- 100 skrzyń
+		- 40 osób bez przeludnienia
+
+![[Perłowy Książe.jpg]]

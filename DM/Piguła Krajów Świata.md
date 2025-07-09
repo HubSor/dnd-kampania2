@@ -1,0 +1,104 @@
+Poniżej są informacje, które nawet laik wie. Postaci pochodzące z danego kraju lub obyte na świecie mogą wiedzieć więcej.
+# Austurland
+(Stary Świat, wschodni kontynent)
+- Królestwo Nimros
+	- Jedno z największych państw na świecie
+	- Głównie ludzie, ale pełno innych ras
+	- Słynne z powodu walk gladiatorów
+- Drakonia
+	- Mieszkają tam prawie sami drakonowie
+	- Zamknięci na świat, ale wpuszczają obcokrajowców do portów
+	- Żyją w wielkich plemiennych wioskach
+- Imperium Północy
+	- Kraj nordów - ludzi z północy
+	- Mieszkają głównie w lasach i małych osadach
+	- Wojowniczy ludzie, twardo doświadczeni przez klimat
+	- Na ich terenie są enklawy firbolgów, którzy koegzystują w spokoju
+- Środkowe Karaki
+	- Państwo krasnoludów z niższych gór
+	- Dużo handlują z sąsiadami
+	- Mieszkają w podziemnych fortecach - karakach, do których mało który obcokrajowiec ma wstęp
+- Ziemia Niziołków i Gnomów
+	- Mała spokojna kraina pod opieką Nimros
+	- Żyją w lasach lub miasteczkach z podziemnymi norami
+	- Ludzie z zewnątrz mile widziani tylko na drodze lub targu
+- Księstwo Leśnych Elfów
+	- Kraina prawie w całości pokryta lasem 
+	- Znacie wiele opowieści o podróżnikach, którzy stamtąd nie wrócili
+	- Ponoć elfowie mieszkają wysoko na drzewach w wiszących miastach
+- Emirat Południa
+	- Kraj ludzi z południa
+	- Najcieplejszy kraj na kontynencie, ale ponoć nie ma tam pustyń
+	- Często zajmują się korsarstwem lub najemnictwem, gdy nie toczą wojen
+- Wolne Miasto Borros
+	- Największe miasto na kontynencie
+	- Wielkie centrum handlu i mieszanka kultur
+	- Słynna wielka flota wojenna
+- Chanat
+	- Kraj nomadów - ludzi stepów i koni
+	- Cała kraina to równiny i stepy pomiędzy górami
+	- Nie zakładają miast
+- Kraj Goblinów
+	- O tej krainie nasłuchaliście się najwięcej strasznych historii za młodu
+	- Siedlisko tysiąca plemion goblinów, trolli, orków, hobgoblinów i podobnych
+	- Nie słyszeliście o nikim, kto by tam przybył i powrócił
+- Wschodnie Karaki
+	- Państwo krasnoludów z wyższych gór
+	- Mało handlują z obcokrajowcami - w odróżenieniu od pobratymców ze środka kontynentu
+	- Mieszkają w podziemnych fortecach - karakach, do których mało który obcokrajowiec ma wstęp
+- Święte Księstwo Barlia
+	- Rządzą tam kapłani bóstw odpowiedzialnych za rzemiosło, wiedzę i handel
+	- Głównie ludzie
+	- Jako jedni z niewielu handlują z krasnoludami ze wschodu
+# Nyrland
+(Nowy Świat - skolonizowany przez ludzi później - zachodni kontynent)
+- Hatamia
+	- Wielkie państwo, chełpiące się, że tam rządzi lud a nie monarcha
+	- Bardzo religijni
+	- Głównie ludzie
+- Unia Wolnych Portów
+	- (Andrash stamtąd był)
+	- Rozpięta na archipelagu Solita
+	- Założona przez kapitanów z całego świata, którzy mieli dosyć podatków i ceł
+	- Zbiór setek portów i miast, każde rządzone inaczej
+	- Ponoć w stolicy - Wolnej Przystani - można kupić lub ukraść każdą rzecz
+- Dzika Kraina
+	- Wielkie połacie niekolonizowanych lądów w centrum i na północy kontynentu
+	- Uważane za siedlisko przeróżnych potworów i mitycznych bestii
+- Królestwo Undali
+	- Wojskowy kraj ludzi na północy Nyrlandu
+	- Tam trenuje się najwięcej łowców potworów, przewodników po dziczy i nawigatorów
+- Magokracja Arrenberg
+	- Miasto państwo, gdzie rządzą mistrzowie magii
+	- Każdy młody adept sztuk tajemnych chce udać się tam na studia
+	- Ponoć wysyłają różne ekspedycje w poszukiwaniu artefaktów na całym świecie
+	- Kwitnący handel magicznymi przedmiotami i minerałami
+- Orkowa Horda
+	- Luźne określenie na krainy przemierzane przez wiele orkowych plemion
+	- Orkowe armie stamtąd nieustannie napadają sąsiadujące kraje
+	- Nie zakładają prawdziwych miast
+- Księstwo Amhahil
+	- Górska dolina zamieszkana przez wysokie elfy
+	- Rzekomo najpiękniejsze miejsce na świecie
+	- Ale nie słyszeliście nigdy rzetelnej relacji człowieka, który by tam trafił
+- Żółwi Półwysep
+	- Bagnista i tropikalna kraina Żółwioludzi
+	- Ponoć to najbardziej zdeterminowani pacyfiści ze wszystkich ras
+- Wietrzna Wyspa
+	- Państwo aarakokrów - ludzi ptaków
+	- Bardzo wiele załóg rekrutuje tam marynarzy
+	- Ale samo podpłynięcie do wyspy jest ponoć trudne ze względu na zdradliwe wichury
+- Druidzi Północy
+	- Niewielka enklawa ludzi, leśnych gnomów i elfów w Dzikiej Krainie
+	- Uważani za odludków, którzy nie lubią cywilizacji i obcokrajowców
+- Kraj Tabaxich
+	- Państwo tabaxich - ludzi kotów
+	- Ponoć połowa żyje w wioskach, a połowa wędruje po górzystych krainach
+	- Niektórzy z was mogli spotkać tabaxich na swoich wędrówkach, ale bardzo niechętnie opowiadają o swoim domu
+- Pustokowia Gigantów
+	- Legendy mówią, że mieszkają tam przeróżne plemiona gigantów
+	- Krążą opowieści, że śmiałkowie, którzy tam byli, wędrowali tygodniami i nie widzieli śladu tych plemion
+	- Ale kraina ma złą sławę i mało kto się tam zapuszcza
+- Plemiona Goliatów
+	- Mieszkają tam goliaci - ludzie spokrewnieni z gigantami
+	- Ponoć jako jedyni mogą wejść na ich pustkowa, ale mają zakaz rozmawiania o tym

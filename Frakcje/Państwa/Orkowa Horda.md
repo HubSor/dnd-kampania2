@@ -1,0 +1,22 @@
+- Stolica
+	- Mogg
+- Ustrój
+	- Horda
+	- Brak zjednoczonej władzy
+	- Wiele hord i plemion walczących między sobą
+	- Czasem wybitny dowódca zgromadzi kilka z nich na krótki czas
+- Religie
+	- Goblinoidowe
+- Kultura
+	- Gobliny
+	- Orkowie
+	- Niedźwieżuki
+	- Hobgobliny
+	- Ogry
+- Styl życia
+	- Nieustanne walki i konflikty
+	- Brak handlu
+	- Częste napady na sąsiadów w celu grabieży
+	- Nękają sąsiadów latami na zmianę, żeby nie prowokować inwazji
+- Klimat
+	- Średni górski

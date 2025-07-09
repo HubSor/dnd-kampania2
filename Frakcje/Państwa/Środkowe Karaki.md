@@ -1,0 +1,17 @@
+- Stolica
+	- Ulgab
+- Ustrój
+	- Federacja
+	- Niezależne karaki rządzą się same i ustalają tylko najważniejsze sprawy
+- Religie
+	- Krasnoludzkie
+- Kultura
+	- Krasnoludy
+- Styl życia
+	- Typowo krasnoludzki
+		- Oparty na handlu i rzemiośle
+	- Nikt poza samymi Krasnoludami nie wie, ile jest karaków
+	- Do stolicy nie wpuszczają obcych
+	- Nunamunz jest wielkim centrum handlu
+- Klimat
+	- Zimny górski

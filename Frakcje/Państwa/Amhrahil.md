@@ -1,0 +1,21 @@
+- Stolica
+	- Rinqelraq
+- Ustrój
+	- Księstwo
+	- Władza w czasie pokoju jest tylko formalna
+	- Prawie zupełne samowładztwo
+- Religie
+	- Elfie
+- Kultura
+	- Wysokie elfy
+		- Mieszkają w pięknych dolinach
+- Styl życia
+	- Powolny, kontemplatywny, skupiony na społeczności
+	- Obcokrajowcy mogą trzymać się tylko głównych szlaków handlowych
+	- Elfowie strzegą swojego pokoju i prywatności
+	- Częste konflikty z orkami z północy
+	- Centrum życia jest jezioro Amrahil
+		- Święte w wierze elfickiej
+- Klimat
+	- Średni dolinny
+	- Rosną tam rośliny niespotykane nigdzie indziej

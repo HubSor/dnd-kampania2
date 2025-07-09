@@ -1,0 +1,19 @@
+- Stolica
+	- Pachaten
+- Ustrój
+	- Monarchia
+	- Książe ma rolę ceremonialną
+		- Ale dostaje też procent od handlu
+	- Wiele niewielkich półniezależnych miast handlowych
+- Religie
+	- Aarakokrańskie
+- Kultura
+	- Aarakocra
+- Styl życia
+	- Handel i żeglarstwo
+	- Wysokie cła
+	- Wiele załóg rekrutuje tutaj
+		- Ze względu na naturalną możliwość lotu
+- Klimat
+	- Zimny borealny
+	- Podpłynięcie do wyspy jest trudne ze względu na zdradliwe wichury

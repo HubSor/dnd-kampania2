@@ -1,0 +1,17 @@
+- Stolica
+	- Arrenberg
+- Ustrój
+	- Magokratyczne państwo-miasto
+	- Rada wybierana spośród najważniejszych czarodziejów
+- Religie
+	- Ludzcy bogowie magii i kreacji
+- Kultura
+	- Ludzie
+	- Sporo gnomów i elfów
+- Styl życia
+	- Największe uczelnie magiczne
+	- Spore wydobycie magicznych minerałów
+	- Handel rzadkimi przedmiotami magicznymi
+	- Ponoć wysyłają różne ekspedycje w poszukiwaniu artefaktów na całym świecie 
+- Klimat
+	- Średni deszczowy

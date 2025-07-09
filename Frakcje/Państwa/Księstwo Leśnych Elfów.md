@@ -1,0 +1,18 @@
+- Stolica
+	- Rhalit
+- Ustrój
+	- Księstwo
+	- Władza w czasie pokoju jest tylko formalna
+	- Prawie zupełne samowładztwo
+- Religie
+	- Elfie
+- Kultura
+	- Leśne elfy
+		- Czerpią inspirację z piękna natury
+- Styl życia
+	- Powolny, kontemplatywny, skupiony na społeczności
+	- Obcokrajowcy mogą trzymać się tylko głównych szlaków handlowych
+	- Elfowie strzegą swojego pokoju i prywatności
+- Klimat
+	- Średni
+	- Rosną tam rośliny niespotykane nigdzie indziej

@@ -1,0 +1,20 @@
+- Stolica
+	- Nulkug
+- Ustrój
+	- Anarchia
+	- Plemiona żyjące prawie bez kontaktu ze sobą
+	- Neutralność
+- Religie
+	- Gigancie
+- Kultura
+	- Giganci różnych rodzajów
+- Styl życia
+	- Zakaz wstępu obcokrajowcom
+		- Tylko goliatom wolno wejść na ich pustkowia
+			- Ale tylko na krótko i nie do wiosek
+	- Każde plemię żyje wg swoich zasad
+	- Z rzadka zdarzają się wojny
+	- Czasem plemiona jednoczą się, żeby pokonać smoka
+	- Podróżnik może przez tygodnie nie zobaczyć żadnego śladu gigantów
+- Klimat
+	- Górski zimny

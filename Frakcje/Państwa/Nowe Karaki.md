@@ -1,0 +1,20 @@
+- Stolica
+	- Gatharba
+- Ustrój
+	- Federacja
+	- Niezależne karaki rządzą się same i ustalają tylko najważniejsze sprawy
+- Religie
+	- Krasnoludzkie
+- Kultura
+	- Krasnoludy
+- Styl życia
+	- Typowo krasnoludzki
+		- Oparty na handlu i rzemiośle
+	- Nikt poza samymi Krasnoludami nie wie, ile jest karaków
+	- Do większości karaków nie wpuszczają obcych
+	- Wielu gońców, ze względu na długość kraju
+	- Państwo emigrantów z karaków z Austurlandu
+		- Wyemigrowali po wojnach z goblinami
+- Klimat
+	- Średni górski
+	- Sporo bagien na zachodzie

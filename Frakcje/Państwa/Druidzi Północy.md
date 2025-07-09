@@ -1,0 +1,19 @@
+- Stolica
+	- Isag
+- Ustrój
+	- Krąg druidzki
+	- Rządzi rada najstarszych druidów
+	- Skupienie na społecznościach i ich potrzebach
+	- Brak sztywnych granic
+- Religie
+	- Związane z naturą
+- Kultura
+	- Ludzie
+	- Leśne Gnomy
+	- Leśne Elfy
+- Styl życia
+	- Życie zgodnie z naturą
+	- Zbieractwo, łowiectwo
+	- Niezainteresowani resztą świata i handlem
+- Klimat
+	- Borealny

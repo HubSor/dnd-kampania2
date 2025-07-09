@@ -1,0 +1,16 @@
+- Stolica
+	- Barlianberg
+- Ustrój
+	- Teokracja
+	- Najwyżsi kapłani tworzą Radę, która rządzi
+- Religie
+	- Bogowie związani z handlem i rzemiosłem
+		- Tyr, Gond
+- Kultura
+	- Ludzie
+- Styl życia
+	- Ludzie handlu, religii i rzemiosła
+	- Dużo handlują z Nordami i Krasnoludami
+	- Nieźli marynarze
+- Klimat
+	- Średni

@@ -1,0 +1,66 @@
+Kampania zaczyna się 01.05.555 o 18:00.
+Dzień jest deszczowy i pochmurny. Robi się już ciemno.
+# Intro graczy
+- [[Darin]]
+	- Uciekasz przed [[Froic]] i jego oprychami
+		- Minęło już kilka tygodni od tamtego turnieju
+		- Ale dalej uważasz, że depczą ci po piętach
+	- Zostałeś zapędzony w kozi róg
+		- [[Apten]] jest na półwyspie, z którego możesz nie wyślizgnąć się tak łatwo
+		- Jedyną nadzieją pozostaje ucieczka morska
+	- Znalazłeś ogłoszenie, że poszukują do załogi
+		- Uznałeś, że na morzu nie znajdą cię tak łatwo
+		- A może i nawet zdobędziesz jakiś skarb, jak w opowieściach
+- [[Olimpijczyk]]
+	- Podczas swojej długiej wędrówki powoli zaczynasz zbliżać się do miejsca, gdzie ją zacząłeś
+	- Ale zostały ci jeszcze miesiące lub parę lat podróży
+	- Wieczorem, pewnego chłodniowego wiosennego dnia podpłynąłeś do małej portowej miejscowości
+	- W skromnym porcie zastałeś raptem parę łódek rybackich i jedną kogę
+	- Z oddali widziałeś postać palącą fajkę na pokładzie tej kogi
+	- Wtedy już wiedziałeś, dlaczego los przyprowadził cię do tego miejsca - po tytoń
+	- Pod osłoną nocy, gdy postać zniknęła z pola widzenia, wskoczyłeś na pokład
+	- Szybko zwęszyłeś, gdzie znajduje się skład tytoniu i udałeś się ku niemu
+	- Pod pokładem znalazłeś w wielkiej skrzyni sporo dobrego towaru
+	- Dałeś nura wgłąb skrzyni, zamknąłeś wieko i oddałeś się swojej pasji
+	- (Po wielu godzinach palenia znajdą cię inni gracze, zastanów się nad odegraniem tej sceny)
+- [[Wasser]]
+	- Wiosną 555 roku znajdowałeś się akurat w Nemire, średniej wielkości mieście w Królestwie [[Nimros]]
+		- Tamtejsi marynarze znają cię najlepiej i najchętniej słuchają twoich rad i błogosławieństw
+		- To też w tamtej okolicy wypluło cię morze
+		- Towarzyszył ci twój kompan [[Pijo Junior]]
+	- Ale pewnej burzowej nocy usłyszałeś znajomy głos w głowie
+	- Głęboki i niepokojący jak bezdenne jezioro, nakazał ci udać się do miejsca, gdzie wszystko się zaczęło
+	- Nie czekając na świt, udałeś się do Apten, małego portu gdzie twoje nowe życie się zaczęło
+		- [[Pijo Junior]] wyruszył razem z tobą 
+	- 2 dni później, pewnego pochmurnego poranka, przekroczyliście skromne bramy mieściny
+	- Byłeś tutaj niedawno i jedyne, co się zmieniło, to ogłoszenia o naborze do załogi
+	- Przyjrzałeś się mu, a w twojej głowie rozległ się aprobujący pomruk 
+	- (Spotkasz graczy, gdy wyjdą z Domu Morskiego Bractwa i pójdą w stronę przystani, możesz zastanowić się jak klimatycznie przedstawić postać)
+- [[Pijo Junior]]
+	- Wiosną 555 roku znajdowałeś się akurat w Nemire, średniej wielkości mieście w Królestwie [[Nimros]]
+		- Niedawno w tamtej okolicy spotkałeś [[Wasser]]a
+	- Pewnej nocy [[Wasser]] nagle uznał, że koniecznie musi wyruszyć do pobliskiej miejscowości [[Apten]]
+	- Zrozumiałeś, że to jakaś mistyczna siła nakazała mu to zrobić, więc zaciekawiony ruszyłeś z nim
+	- 2 dni później, pewnego pochmurnego poranka, przekroczyliście skromne bramy mieściny
+	- Nigdy wcześniej tutaj nie byłeś, ale mieścina nie wywarła na tobie wrażenia
+		- Zobaczyłeś niewielkie miasteczko z niewysoką drewnianą palisadą, jedną tawerną i skromną przystanią
+	- Twój kompan zwrócił uwagę na ogłoszenie przybite do tablicy
+		- Było tam napisane, że nowy kapitan szuka załogi do swojego statku
+	- (Spotkasz graczy, gdy wyjdą z Domu Morskiego Bractwa i pójdą w stronę przystani, możesz zastanowić się jak klimatycznie przedstawić postać)
+- [[Voanir]]
+- [[Verdnir]]
+# Przybycie do [[Apten#Dom Morskiego Bractwa]]
+- Karczma jest praktycznie opustoszała
+	- 2 zakapturzone postaci szepczą gdzieś w kącie
+	- paru pijaków śpi lub zasypia przy piwie
+- Przy wejściu karczmarka spyta [[Darin]]a o cel
+	- Karczmarka Frada, znana w mieścinie
+	- Może dopytać, czy chce do załogi [[Andrash]]
+	- Po usłyszeniu odpowiedzi poprosi o podpisanie dokumentu
+		- To będzie potwierdzenie dołączenia do załogi
+	- Potem powie, że piętro niżej już czeka dwóch chętnych
+		- [[Verdnir]] i [[Voanir]] siedzą przy stole na dole
+			- Atmosfera między nimi jest raczej napięta
+- Powie, że następnego dnia o świcie ma się stawić w porcie
+	- W doku 5
+	- Łatwo znajdziecie, bo to jedyna krypa nadająca się do rejsu

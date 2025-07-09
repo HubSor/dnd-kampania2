@@ -1,0 +1,49 @@
+- Założenia o nowej kampanii
+	- Ponieważ lubicie mieć swobodę, szybko będę chciał wam dać morski środek transportu i misje umożliwiające różne podejścia i w bardzo różnych miejscach
+	- Kreacja postaci
+		- Nie czujcie się zobowiązani do brania postaci z morskimi umiejętnościami
+		- Zaczynacie na lvl 3
+		-  WAŻNE ŻEBYŚCIE WIEDZIELI JAK ODGRYWAĆ TĄ POSTAĆ
+			- Jeśli po zrobieniu postaci, nie będziecie potrafili się w nią "wczuć" to coś pozmieniajcie, bo będzie wam ciężko roleplayować
+		- Co musicie ustalić
+			- Imię
+			- Wygląd (najlepiej od razu wygenerować sobie portret)
+			- Rasa
+			- Klasa i podklasa (będę ostrzegał jak będzie się powtarzać)
+				- Błagam nie róbmy customowych mechanik XD
+			- Rozkład cech
+				- https://chicken-dinner.com/5e/5e-point-buy.html
+				- Rasowe modyfikatory możecie pozmieniać wg woli
+			- Backstory
+				- Może być tego tak dużo albo mało jak potrzebujecie
+				- Obowiązkowe elementy
+					- Jakiekolwiek powiązanie ze światem (miejsce, przedmiot, wydarzenie, osoba)
+					- Dlaczego podróżujesz?
+						- Albo konkretniej: Twoja postać przybyła do niewielkiego miasta portowego, znalazła ogłoszenie, że poszukują do załogi i uznała, że je zaakceptuje. Dlaczego?
+					- Dostatecznie dużo informacji, żeby wybrać 4 biegłości (biegłość może być do skilla, narzędzi, pojazdów, broni, pancerza lub instrumentu)
+				- Przy określaniu konkretnych miejsc/ludzi ze świata możecie pisać ogólniki albo placeholdery, ja ten świat będę dopiero potem generował
+		- Przed pierwszą sesją będę chciał z wami się spotkać i wrzucić postać do diceright i upewnić się, że wszystko jest na miejscu
+			- Wtedy też zrobimy sobie jakąś testową walkę, żebyście się zapoznali
+	- Postaram się przygotować mapę świata z różnymi państwami i ją wam dać żebyście mogli wybierać, gdzie i jak płyniecie
+		- Np. w pewnym porcie nie można przewozić towaru X, a w drugim obcokrajowcy płacą 2x więcej, a przy trzecim grasują piraci
+	- Postaram się też opracować wspólny ekwipunek, reprezentujący ładownie waszego statku
+- Do dyskusji
+	- Bądźcie bardziej asertywni w roleplayu
+		- Wiadomo, że przy mało ważnych decyzjach to bez sensu
+		- Ale np. przed okradnięciem kogoś, być może moralnie dobre postaci powinny się postawić
+		- Wasze postaci też będą robić błędy, może czasami warto coś postanowić i się tego trzymać
+		- To znacznie polepszy roleplay, bo będzie więcej interakcji między wami i będą naturalne
+	- HP przeciwników
+		- Diceright nie daje możliwości pokazania tego
+		- Ile i jak mówić?
+			- Zostawić opisy słowne
+			- Ale większy przedział
+	- Wspólne notatki?
+		- Jakiś docs online?
+	- Co wam się podobało, co nie? Co do zmiany? Jakieś propozycje nowych elementów?
+- Wnioski
+	- Być bardziej chamski
+	- Większe konsekwencje wobec słabego roleplayu
+	- Więcej małych map
+	- Stawki muszą rosnąć
+	- Kraken

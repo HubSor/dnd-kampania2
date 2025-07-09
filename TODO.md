@@ -1,0 +1,26 @@
+#TODO
+- na teraz
+	- podmienić obrazek księcia
+	- walka zakończyła się zabójstwem froica przez darina
+- na kiedyś
+	- questy graczy
+		- Wasser
+			- odkrywanie prawdziwej historii życia Wassera
+			- ślady Ag'drerana
+		- Oli
+			- spotkanie z innymi sumami
+		- Pijo Jr
+			- rozmowy z duchami
+		- Vaonir, Verdnir
+			- wątek z ich patronami
+	- świątynia Lathandera
+	- Vforband
+	- rozbudowanie wątków śledzenia graczy
+- lvl 5
+	- Pijo
+		- update cantripów
+		- update inspiracji, że na short reście
+	- Wasser
+		- update cantripów
+	- Voanir, Verdnir
+		- update cantripów

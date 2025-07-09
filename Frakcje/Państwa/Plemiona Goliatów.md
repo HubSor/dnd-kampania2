@@ -1,0 +1,19 @@
+- Stolica
+	- Gomrud
+- Ustrój
+	- Luźno powiązane plemiona
+	- Spore poczucie wspólnoty pomiędzy plemionami
+	- Brak centralnej władzy
+- Religie
+	- Goliackie
+- Kultura
+	- Goliaci
+- Styl życia
+	- Obcokrajowcy niemile widziani poza portami
+	- Miasta to po prostu niewiele większe wsie
+		- Porty obsługują z reguły zaufani ludzie z zewnątrz
+	- Niechęć do handlu
+	- Częste starcia pomiędzy klanami
+		- Ale często kończące się pozytywnie
+- Klimat
+	- Górski zimny

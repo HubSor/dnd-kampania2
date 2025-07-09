@@ -1,0 +1,21 @@
+- Stolica
+	- Buckerton
+- Ustrój
+	- Unia dwóch podmiotów
+		- Ziemi Gnomów
+		- Ziemi Niziołków
+	- Oba mają podobny ustrój
+	- Praktycznie brak centralnego rządu
+- Religie
+	- Gnomskie
+	- Hobbicie
+- Kultura
+	- Gnomy
+	- Niziołki
+- Styl życia
+	- Sielankowy agrarianizm
+	- Do niektórych miast zakaz wstępu mają wysocy ludzie
+	- Ale handel jest mile widziany i częsty
+- Klimat
+	- Średni
+	- Wiele równin

@@ -1,0 +1,17 @@
+- Stolica
+	- Hvolstad
+- Ustrój
+	- Imperium
+	- Zdecentralizowane, chociaż w teorii Imperator ma pełnię władzy
+- Religie
+	- Ludzkie, ale głównie bogowie przyrody
+	- Firbolgowie też wierzą w bogów przyrody
+- Kultura
+	- Nordowie
+	- Firbolgowie
+- Styl życia
+	- Ludzie lasów
+	- Łowiectwo, rybołówstwo, leśnictwo
+	- Niska urbanizacja
+- Klimat
+	- Borealny

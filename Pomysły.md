@@ -1,0 +1,40 @@
+- Nowa władza
+	- Zły władca przejął jakiś czas temu władzę w krainie
+	- Tereny wyglądają jak po katakliźmie, ogółem jest cienko
+	- Polega na najemnikach, bo wybił poprzednich specjalistów
+	- Odnalazł awanturników do znalezienia dysydentów
+	- Poszukiwany (zbir, mag, władca, szlachcic?) zakłada nowy zakon do walki
+	- Ukrywa się w małej wsi, wyróżnia się w dzień święta, znajdują go służby, walka z siepaczami wroga i założenie nowego zakonu?
+	- Rekrutacja członków w regionie
+- Diabeł
+	- Uwięziony w krypcie, która była kiedyś świątynią
+	- Ma dużą moc i siatkę powiązań
+	- Seria misji zakończona uwolnieniem go i pokonaniem
+	- Jakiś pakt?
+	- Walki z demonami?
+- Turniej bokserski
+- Zagubiony rycerz
+	- Spotkanie na drodze zagubionego, starego rycerza
+	- Od lat szuka celu i nie może go znaleźć przez klątwę
+- Turniej ze spiskiem
+	- W mieście jest wielki turniej rycerski robiony
+	- Różne konkurencje
+	- W tle spisek
+		- Zwabienie konkretnych rycerzy?
+		- Kradzież nagród?
+		- Kompromitacja organizatora?
+		- Dywersja?
+	- Gracze szukają poszlak
+- Pojmani
+	- Na szlaku gracze mijają krasnoluda wiodącego grupę pojmanych
+		- Elfów?
+		- Obcych ludzi?
+		- Niedźwieżuków?
+		- Orków?
+- Jeden z graczy jest poszukiwany
+	- Gracze dostaną info, że jeden z nich jest poszukiwany żywy
+- Najstarsze drzewo
+	- Jest duży las
+	- Na środku chata starego druida
+	- Gracze muszą ściąć najstarsze drzewo
+	- Tym drzewem jest drzewo genealogiczne tego druida

@@ -1,0 +1,27 @@
+- 01.05.555
+	- Spotkanie graczy w [[Apten]]
+- 02.05.555
+	- Walka [[Darin]]a i [[Verdnir]]a
+	- Trening morski z [[Andrash]]em
+	- Spotkanie [[Olimpijczyk]]a
+- 03-04.05.555
+	- Rejs do jaskini
+- 04.05.555
+	- Znalezienie wejścia do jaskini
+	- Nocna walka z utopcami
+- 05.05.555
+	- Eksploracja [[Jaskinia Klucza]]
+	- Śmierć i pogrzeb [[Andrash]]a
+	- Wybranie [[Darin]]a na kapitana
+- 06-11.05.555
+	- Rejs do [[Miasto Nimros]]
+	- Przepisanie bandery [[Andrash]]a na [[Darin]]a przez [[Muriel]]
+	- Wzięcie pożyczki w [[Bank Winifredów]]
+	- Zapisanie się do turnieju gladiatorów
+	- Zamówienie naprawy dla statku
+	- Przepadnięcie [[Pijo Junior]] w zamtuzie
+	- Wyznaczenie nagrody za ukradnięcie folgierza
+	- Znalezienie potencjalnego kupca na [[Pękata Helena]]
+	- Nocleg w [[Miasto Nimros#Karczma pod Tonącym Źrebakiem]]
+- 12.05.555
+	- Pobudka w [[Miasto Nimros#Karczma pod Tonącym Źrebakiem]]

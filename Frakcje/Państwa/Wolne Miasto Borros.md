@@ -1,0 +1,18 @@
+- Stolica
+	- Borros
+- Ustrój
+	- Państwo-miasto
+	- Rada wybierana spośród najważniejszych obywateli miejskich w wyborach ale i przez nominację
+- Religie
+	- Ludzcy bogowie, głównie związani z handlem
+- Kultura
+	- Ludzie
+	- Wielu obcokrajowców
+- Styl życia
+	- Ludzie handlu i marynarki
+	- Tolerancyjne społeczeństwo, wierzące głównie w pieniądz
+	- Wydobywają sporo minerałów w sąsiednich górach
+		- Dzięki temu są bardzo bogaci
+- Klimat
+	- Średni
+	- Sporo bagien

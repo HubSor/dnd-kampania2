@@ -1,0 +1,16 @@
+- Stolica
+	- Undal
+- Ustrój
+	- Monarchia
+	- Rządzi monarchia, ale wojskowi mają sporo władzy
+	- Zdarzały się przewroty przeprowadzone przez generałów
+- Religie
+	- Ludzkie
+- Kultura
+	- Ludzie
+- Styl życia
+	- Silne tradycje wojskowe
+	- Łowiectwo, rybactwo
+	- Przedsiębiorcze podejście do trudnego klimatu
+- Klimat
+	- Średnio-borealny

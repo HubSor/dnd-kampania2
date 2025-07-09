@@ -1,0 +1,22 @@
+- Stolica
+	- Wroggang
+- Ustrój
+	- Horda
+	- Brak zjednoczonej władzy
+	- Wiele hord i plemion walczących między sobą
+	- Czasem wybitny dowódca zgromadzi kilka z nich na krótki czas
+- Religie
+	- Goblinoidowe
+- Kultura
+	- Gobliny
+	- Orkowie
+	- Niedźwieżuki
+	- Hobgobliny
+	- Ogry
+- Styl życia
+	- Nieustanne walki i konflikty
+	- Tylko najodważniejsi przychodzą tutaj handlować
+		- Czasem handel odbywa się w portach bez wychodzenia na brzeg
+	- Częste napady na sąsiadów w celu grabieży
+- Klimat
+	- Średni

@@ -1,0 +1,22 @@
+- Stolica
+	- Wolna Przystań
+		- Założona jako porto otwarty dla każdego przybysza i każdego towaru
+- Ustrój
+	- Luźna unia państw-miast
+	- Każdym miastem rządzi rada, burmistrz, lord lub książę
+		- W większości to ludzie wątpliwej reputacji
+	- Chaotyczna równość
+- Religie
+	- Przeróżni bogowie
+	- Można tu spotkać najdziwniejsze kombinacje rasy i wiary
+- Kultura
+	- Ludzie
+	- Bardzo wielu obcokrajowców
+- Styl życia
+	- Reputacja siedliska piratów i zbirów
+	- Wielu marynarzy, szkutników i rybaków
+	- Żyją z wytworów morza i gęstych lasów na wyspach
+	- Częste konflikty morskie, wojny handlowe i blokady
+		- Ale nigdy podboje
+- Klimat
+	- Średni deszczowy

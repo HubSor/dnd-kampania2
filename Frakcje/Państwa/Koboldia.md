@@ -1,0 +1,19 @@
+- Stolica
+	- Durhar
+- Ustrój
+	- Monarchia
+	- Król ma rolę ceremonialną
+	- Plemiona rządzą się praktycznie same
+- Religie
+	- Drakoniczne
+	- Kult smoków
+- Kultura
+	- Koboldy
+	- Pomniejsze smoki
+- Styl życia
+	- Izolacja i neutralność
+	- Od czasu do czasu napadają sąsiadów ale tylko po zasoby
+	- Budują wielkie podziemne bazy
+	- Czasem smok zyskuje wielki kult i wyruszana wojnę z elfami lub tabaximi
+- Klimat
+	- Średni górski

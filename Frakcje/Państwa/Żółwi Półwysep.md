@@ -1,0 +1,19 @@
+- Stolica
+	- Zarres
+- Ustrój
+	- Praktycznie brak centralnego rządu
+	- Sąsiednie wioski i miasta dogadują się w potrzebie
+	- Miastami rządzi rada z często zmieniającymi się członkami
+- Religie
+	- Żółwioludzkie
+		- Głównie związane z morzem i mokradłami
+- Kultura
+	- Żółwioludzie
+- Styl życia
+	- Wiele osób stale zmienia miejsce zamieszkania
+	- Żyją z lasów, mokradeł i morza
+	- Pacyfiści
+	- Czasem nękani przez piratów z [[Unia Wolnych Portów]]
+- Klimat
+	- Średni mokry
+	- Wiele bagien

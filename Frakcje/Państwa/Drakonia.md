@@ -1,0 +1,18 @@
+- Stolica
+	- Agnorthatath
+- Ustrój
+	- Republika
+	- Drakoni wybierają przedstawicieli, którzy mieszkają w stolicy i dbają o interesy swojego regionu
+- Religie
+	- Drakońskie
+	- Firbolgowie wierzą w bogów przyrody
+- Kultura
+	- Drakoni
+	- Firbolgowie
+- Styl życia
+	- Ludzie lasów
+	- Cenią sobie spokój i mają politykę neutralności
+	- Łowiectwo, leśnictwo
+	- Niska urbanizacja
+- Klimat
+	- Borealny

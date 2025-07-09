@@ -1,0 +1,19 @@
+- Stolica
+	- Johar
+- Ustrój
+	- Emirat
+	- Emir i jego dwór mają zupełną władzę
+	- Częste spiski i intrygi
+- Religie
+	- Ludzkie, bardzo zróżnicowane
+- Kultura
+	- Południowcy
+		- Śniadzi ludzie o żywiołowej i bezwzględnej naturze
+- Styl życia
+	- Intensywne, brak nudy
+	- Dosyć płaska struktura społeczna
+	- Wielu handlarzy, rzemieślników i najemników
+	- Słynni zabójcy
+- Klimat
+	- Średniociepły deszczowy
+	- Kilka obszarów savanny

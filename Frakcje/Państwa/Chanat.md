@@ -1,0 +1,19 @@
+- Stolica
+	- Bagaan
+- Ustrój
+	- Monarchia w formie chanatu
+	- Brak centralnego rządu
+		- Chan jest bardziej dowódcą wojsk niż władcą
+- Religie
+	- Ludzkie animistyczne i stepowe
+- Kultury
+	- Nomadzi
+		- Ludzie o charakterystycznych rysach i długich włosach i brodach
+- Styl życia
+	- Jedne miasto - Bagaan
+		- Jest wielkim centrum handlu
+		- jest uświęconą ziemią - zakaz walk
+	- Poza nim wiele plemion ciągle się ścierających
+	- Częste najazdy na sąsiadów 
+- Klimat
+	- Zimny stepowy

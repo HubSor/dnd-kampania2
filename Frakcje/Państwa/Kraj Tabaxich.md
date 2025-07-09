@@ -1,0 +1,17 @@
+- Stolica
+	- Zarjin
+- Ustrój
+	- Luźno powiązane plemiona
+	- Spore poczucie wspólnoty pomiędzy plemionami
+	- Brak centralnej władzy
+- Religie
+	- Tabaxowe
+- Kultura
+	- Tabaxi
+- Styl życia
+	- Wioski w dolinach
+	- Łowiectwo, leśnictwo
+	- Wielu tabaxich wędruje po krainie lub wyrusza zagranicę
+	- Neutralność
+- Klimat
+	- Średni

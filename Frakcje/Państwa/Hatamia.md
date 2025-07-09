@@ -1,0 +1,29 @@
+- Stolica
+	- Eldfield
+- Ustrój
+	- Oligarchia
+	- Rządzi senat, do którego wybiera się przez nominację
+	- Ale najwyżsi kapłani też mają dużą władzę
+		- Często siedzą w senacie
+- Religie
+	- Ludzkie
+	- Głównie Lathlander
+- Kultura
+	- Ludzie
+- Styl życia
+	- Wszechstronny rozwój
+	- Rozbudowany stan szlachecki
+		- Duża grupa bardzo bogatych magnatów
+		- Realnie 5-8 rodzin kontroluje cały kraj
+	- Spore tradycje militarne
+		- Przez nieustanne walki z orkami i piratami
+	- Religia ma ważne miejsce w życiu ludzi
+		- Zwłaszcza kult Lathandera
+- Klimat
+	- Średni
+- Tabu
+	- Wielbienie bóstw ciemności
+	- Palenie tytoniu
+- Niepożądany towar
+	- Mroczne magiczne artefakty
+	- Tytoń
