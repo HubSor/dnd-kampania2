@@ -11,6 +11,7 @@ Przedstawiciel nieznanej organizacji handlowej.
 - W [[Miasto Nimros#Karczma pod Tonącym Źrebakiem]] próbował poszukać ciekawych ofert lub opcjonalnie załogi
 - Spotkał tam [[Wasser]]a oferującego kupno kogi
 - Zgodził się spotkać i zobaczyć następnego dnia
+- Zakupił [[Pękata Helena]] od graczy za 1250 gp
 
 # Wygląd
 - Człowiek mężczyzna w średnim wieku

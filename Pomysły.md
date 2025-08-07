@@ -38,3 +38,6 @@
 	- Na środku chata starego druida
 	- Gracze muszą ściąć najstarsze drzewo
 	- Tym drzewem jest drzewo genealogiczne tego druida
+- Walka w przebraniu albo mgle
+	- ograniczona widoczność
+	- te same tokeny

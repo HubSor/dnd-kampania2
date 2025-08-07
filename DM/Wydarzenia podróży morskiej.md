@@ -25,5 +25,8 @@ Za każdy dzień podróży rzucić 1d3. Każde 3 to jeden event.
 22. Mała wyrwa w kadłubie - spowolnienie
 23. Morski stwór - łatwy
 24. Morski stwór - średni
+	1. 1
 25. Morski stwór - cieżki
+	1. 1
+26. Fala psionicznej energii wywołuje kryptyczne wiadomości
 

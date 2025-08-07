@@ -9,6 +9,7 @@
 9. W straży szukają szpiega, który współpracuje z miejscowym półświatkiem
 10. Zaraz ma zacząć się wojna między lokalnymi kryminalistami
 11. Najlepszy piekarz w mieście oszalał i trzeba będzie znaleźć następcę
+	1. 1
 12. W pobliskim lesie znaleziono groźne ślady
 13. Ktoś znalazł złoty wisiorek na plaży
 14. Miejski pijak widział statek duchów w przystani nocą

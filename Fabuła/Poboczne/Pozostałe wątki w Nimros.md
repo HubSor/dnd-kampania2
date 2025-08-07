@@ -55,3 +55,8 @@
 	- Został tam na bardzo przyjemny dzień i noc
 	- Niech sobie 5 gp odejmie, ale nie musi płacić
 - (Jeśli Igor będzie) Wróci rano rozchłestany z zaczerwienioną szyją
+
+# Płatnerz
+- [[Verdnir]] zakupił tańszą kolczugę od płatnerza, gdyż obiecał mu część z nagrody za turniej gladiatorów
+	- Płatnerz czeka na pozostałe 80 gp
+	- Zostało mu obiecane na 14.05.555

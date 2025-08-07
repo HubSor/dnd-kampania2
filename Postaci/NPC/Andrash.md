@@ -1,6 +1,5 @@
 Półork kapitan w średnim wieku.
 
-
 # Charakter
 - Optymistyczny i raczej przyjazny, chociaż zdyscyplinowany.
 - Po prawdzie już mu się nudzi żegluga i chce się ustatkować.

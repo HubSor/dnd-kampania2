@@ -28,4 +28,4 @@
 		- 100 skrzyń
 		- 40 osób bez przeludnienia
 
-![[Perłowy Książe.jpg]]
+![[Perłowy Książe.png]]

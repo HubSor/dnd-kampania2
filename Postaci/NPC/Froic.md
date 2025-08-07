@@ -1,6 +1,7 @@
 Goblin, patron gladiatorów.
 Były patron, obecnie wróg [[Darin]]a.
 Bardzo zamożny dzięki szemranym interesom i ustawianiom walk.
+Zmarł zabity glewią [[Darin]]a ([[Akt IV - Ucieczka z Nimros#Chaos po śmierci Froic a]]).
 
 # Charakter
 - Gadatliwy, szyderczy, raczej tchórzliwy

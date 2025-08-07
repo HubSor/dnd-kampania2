@@ -90,8 +90,7 @@
 		- [[Halbeck]] (Druid 2 CR)
 		- Thuvark (Bugbear 1 CR)
 			- Wielki niedźwieżuk z maczugą
-		- Anis Szybkie Ostrze (Spy 1 CR)
-			- Kobieta obwieszona sztyletami i nożami
+		- [[Anis Szybkie Ostrze]] (Spy 1 CR)
 - Pomagierzy
 	- [[Enimorn Felhim]]
 		- Rozmawia z potencjalnymi sponsorami
@@ -106,11 +105,11 @@
 
 # Drabinka turniejowa
 
-| [[Meldrom]] | [[Meldrom]] |             |     |     | [[Halbeck]]         |
-| ----------- | ----------- | ----------- | --- | --- | ------------------- |
-| Śliski Sam  |             | [[Meldrom]] |     |     | [[Verdnir]]         |
-| Thuvark     | Thuvark     |             |     |     | [[Darin]]           |
-| Thomas      |             |             |     |     | Anis Szybkie Ostrze |
+| [[Meldrom]] | [[Meldrom]] |             |     |     | [[Halbeck]]             |
+| ----------- | ----------- | ----------- | --- | --- | ----------------------- |
+| Śliski Sam  |             | [[Meldrom]] |     |     | [[Verdnir]]             |
+| Thuvark     | Thuvark     |             |     |     | [[Darin]]               |
+| Thomas      |             |             |     |     | [[Anis Szybkie Ostrze]] |
 
 # Cele [[Froic]]a
 - Z samych biletów i wpisowych nie zwróci mu się turniej

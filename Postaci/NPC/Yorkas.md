@@ -24,6 +24,11 @@ Pół-elf marynarz-łotr. Szpieguje graczy na rzecz [[Froic]]a.
 	- W pozostałych przypadkach
 		- Sending stone, ale ukradkiem
 
+## Po śmierci [[Froic]]a
+- Nie miał miłości do [[Froic]]a, ale zdenerwuje go brak możliwości zdobycia wielkich bogactw
+- Będzie szukał okazji do okradnięcia graczy
+	- Ale nie będzie chciał ich zabić
+
 # Charakter
 - Spokojny, lakonicznny, małomówny
 - Wyraz jego twarzy mało się zmienia, gdy mówi

@@ -3,7 +3,8 @@
 3. Wezwij ogień, ogień wypala chorobę
 4. Sen zaprasza zjawy, nie możesz spać
 5. Ubrania to fałszywa maska
-6. ~~Jedz, jedz, musisz być silny i wielki~~
+6. Jedz, jedz, musisz być silny i wielki
+	1. 1
 7. Krew to życie, krew to dar, krew to nagroda
 8. Starzec w koronie będzie starcem w kapturze
 9. Największe skarby czają się w głębinach
@@ -14,7 +15,8 @@
 14. Szalone oko nigdy się nie zamyka
 15. Bój się pokornego, bój się słów jego
 16. 3 razy spróbujesz sił, 3 razy polegniesz
-17. ~~Woda jest twoim domem, skocz do niej~~
+17. Woda jest twoim domem, skocz do niej
+	1. 1
 18. Prawo silniejszego to prawo boskie
 19. Nie ufaj nikomu, nie ufaj niczemu, ufaj tylko umarłemu
 20. Złoto to kajdan człowieka
@@ -24,3 +26,5 @@
 24. Szukaj podobnych sobie, braci w wierze, sióstr w niedoli
 25. Sługa drzewa to twój wróg
 26. Chwała nie czeka na cierpliwego
+27. Bucha i chucha, gorący miech, wprost do brzucha
+28. Dymem i łajnem plugawiłeś, dymem i łajnem się staniesz

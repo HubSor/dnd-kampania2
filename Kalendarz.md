@@ -25,3 +25,40 @@
 	- Nocleg w [[Miasto Nimros#Karczma pod Tonącym Źrebakiem]]
 - 12.05.555
 	- Pobudka w [[Miasto Nimros#Karczma pod Tonącym Źrebakiem]]
+	- Ponowne spotkanie z [[Pijo Junior]]
+	- Zrekrutowanie [[Yorkas]]a do załogi
+	- Skompletowanie reszty załogi i spotkanie [[Trigani Fensys]]
+	- Naprawienie i sprzedanie [[Pękata Helena]] za 1250 gp
+	- Odebranie [[Perłowy Książe]] i pozostałych 1000 gp pożyczki
+	- Zamontowanie folgierza na [[Perłowy Książe]] i nocleg na statku
+- 13.05.555
+	- Kwalifikacje na turniej gladiatorów
+		- [[Darin]] i [[Verdnir]] przechodzą z łatwością
+	- Zakupy przed turniejem
+	- Turniej gladiatorów
+		- Załoga wchodzi jako obstawa księcia [[Olimpijczyk]]
+		- [[Verdnir]] ledwo wygrywa pierwszą walkę
+		- [[Darin]] przed walką zabija [[Froic]]a
+		- Wielka walka ze strażnikami i gladiatorami
+	- Ucieczka przez [[Miasto Nimros]]
+	- Odpłynięcie z [[Nimros]]
+- 14-16.05.555
+	- Rejs na wschód
+- 17-20.05.555
+	- Rozbicie się na Wyspie Luster
+	- Walka z samymi sobą
+		- Porażka
+	- Obudzenie się na [[Perłowy Książe]] na północny wschód od [[Barlia]]
+	- Zniknięcie [[Trigani Fensys]]
+- 21-23.05.555
+	- Rejs do [[Barlianberg]]u
+	- Szukanie informacji o wyspach na Morzu Północnym
+	- Spotkanie z wróżbitą
+		- Opętanie przez [[Ag'dreran]]a
+		- Informacje o [[Akt V - Wyspa Luster]]
+	- Zakupy w [[Barlianberg]]u
+	- Śmierć [[Zerin]]a z miechem w dupie
+	- Wyrżnięcie kapłanów Tyra z [[Barlianberg#Świątynia Tyra]]
+- 24-29.05.555
+	- Przybycie do [[Gundram]]
+	- 

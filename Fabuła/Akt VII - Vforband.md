@@ -1,0 +1,93 @@
+# Głębiny [[Vforband]]u
+- Wielka mapa jaskini
+	- 20 stóp na godzinę
+	- Po 120 stopach musicie odpocząć
+	- Nie więcej niż 240 stóp dziennie
+		- Chyba że testy
+	- Nie wszędzie jest zupełna ciemność
+		- W większych przestrzeniach czasem pojawiają się fluorescencyjne grzyby
+		- Dają delikatną poświatę, ale z reguł wystarczającą do nawigacji
+- Wydarzenia
+	- Spotkanie z [[Cregast]]em
+		- Będzie im obojętny
+		- Ale odpowie na pytania, nie przestając pracować
+		- Nie opuści miejsca pracy
+		- Rytmiczny dźwięk kilofa niesie się po okolicach
+	- Duży skład rudy złota i szarego złoża
+	- Górniczy tunel
+		- Znacznie różni się od pozostałych, które są naturalne
+	- Roper
+		- #Walka Roper CR 5++
+		- Po środku dosyć płaskiej przestrzeni stoi duży wolnostojący stalagmit
+		- Obok niego płynie niewielki strumyk
+		- Kwaśny, nieprzyjemny odór w okolicy 
+		- Gdy zbliżacie się do niego
+			- 6 macek nagle wystrzeliwuje z ziemi w waszą stronę
+			- Wielkie oko i wielka paszcza otwierają się w tym stalagmicie
+			- Rozlega się głośny ryk, ktory odbija się od ścian jaskini
+	- Most z magiczną ciemnością
+		- Nagle gracze zauważą, że przestaja cokolwiek widzieć
+		- Po parunastu krokach będą widzieć tylko delikatny kontur ognia pochodni, który trzymają
+		- Zorientują się, że ta ciemność jes nienaturalna, bo nawet [[Olimpijczyk]] nic nie widzi
+		- Jedynie [[Verdnir]] pozostanie niewzruszony
+			- Zobaczy wąski most linowy przed mini
+			- Pod nim głęboka przepaść
+				- Na 30 metrów
+				- 10d6 obrażeń
+	- Zasypane pomieszczenie
+		- Jedna odnoga tunelu jest prawie całkowicie zasypana
+			- Ale widać, że po drugiej stronie jest dalszy korytarz
+			- (Niezbyt trudny test na przewalenie gruzu)
+		- Dalsza część zaraz kończy się i są tam
+			- 2 skrzynie
+				- 679 gp
+				- Tarcza +1
+				- 5x bazowa trucizna
+			- Szkielety elfów (mrocznych)
+				- Ich zbroje były skórzane i już się nie nadają do niczego
+				- 2x Shortsword
+				- 2x Longbow
+				- 4x Dagger
+	- Zapadnięty warsztat
+		- Dookoła jest mnóstwo gruzu i odłamków
+		- Wygląda jakby całe pomieszczenie zapadło się pod ziemię
+		- Większość przedmiotów w środku jest zniszczonych
+			- Ale można zobaczyć, że był to warsztat, albo coś podobnego
+		- Loot
+			- Leatherworker's Tools
+			- Tinker's Tools
+			- Jeweler's tools
+			- Buty Pasikonika
+	- Czarne łuski
+		- Ściany wyglądają nienaturalnie, jakby były stopione
+		- Nieprzyjemny odór żrącego kwasu roznosi się w powietrzu
+		- Na ziemi leży czarna łuska wielkości puklerza
+			- Jest źródłem nieprzyjemnego zapachu
+			- Delikatnie dymi
+			- Parzy po dotknięciu
+	- Kępka trawy
+		- Widzicie zieloną plamę na szarej podłodze jaskini
+		- To kępka trawy wyrastająca na kamieniu
+		- Gdy podchodzicie bliżej, znajdujecie złoty amulet z rubinem, leżący w jej centrum
+			- Amulet Odrodzenia
+	- Stadko nothiców
+		- Jesteście w miejscu, gdzie jest podziemny strumyk i bardzo wiele stalagnatów, które przysłaniają widok
+		- Słyszycie niepokojące dźwięki
+			- Warczenie
+			- Trzaskanie
+			- Klekotanie
+			- Szuranie ostrego przedmiotu po ziemi
+		- Z oddali widzicie stadko drapieżników
+			- Fluorescencyjne grzyby oświetlają wam ten widok
+			- Kilka dziwnych czteronożnych kształtów konsumuje w kółku coś z ziemi
+				- To 7 nothiców konsumuje resztki z jakiegoś podziemnego, dużego stawonoga
+		- Potencjalnie #Walka vs 7 nothiców
+	- Odnawiający grzyb
+		- Grzyb wielkości człowieka rośnie przy ścieżce
+		- Jest pomarańczowo-zielony i daje dużo światła
+		- Widać chmurę zarodników unoszącą się przy nim
+		- Możecie obejść go ostrożnie i z daleka albo przyjrzeć się mu bliżej, ryzykując kontakt z zarodnikami
+			- Zarodniki działają uspokajająco, a nawet odnawiająco
+			- Możecie przywrócić sobie 1 zużyty zasób (spell slot albo umiejętność) albo rzucić za darmo hit dicem
+	- Tajemnicza krypta
+		- [[Krypta Nieosiągalnego Klucza#Wejście]]

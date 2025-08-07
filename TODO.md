@@ -1,26 +1,43 @@
 #TODO
 - na teraz
-	- podmienić obrazek księcia
-	- walka zakończyła się zabójstwem froica przez darina
+	- zaktualizować notatki
+	- przypomnienie o lvl upie w poniedziałek
+	- spirit session
+	- hidden step
+	- rework topielca
+		- powiązanie ze skarbem
+		- wyspa znajdzie ich sama
+		- chce żeby rośli w siłę
+		- jakóś chce ich potem wykorzystać
+		- umiejętności od topielca?
+	- status opętania
+		- relacje z patronami
+		- każdy gracz status
+	- tajemniczna krypta
+		- półsmok
+			- CR 10
+			- + lair
+			- + legendary resist
+			- tarcza + siekiera
+		- dialog
+			- opcja pokojowa
+		- dalszy rozkład krypty
+		- magiczne itemki
+			- pozostałe z etapu 1
+		- nieużyte encountery z etapu 1
+		- lvl up?
+	- zdrada Yorkasa i załogi
+		- łowcy nagród
+			- Krasnoludzki łowca nagród wyznawca Tyra i kuzyn Zerina
+			- Magiczne moce od Tyra, żęby wymierzył sprawieliwość
+	- lvl na 7
+- na nastęną
 - na kiedyś
-	- questy graczy
-		- Wasser
-			- odkrywanie prawdziwej historii życia Wassera
-			- ślady Ag'drerana
-		- Oli
-			- spotkanie z innymi sumami
-		- Pijo Jr
-			- rozmowy z duchami
-		- Vaonir, Verdnir
-			- wątek z ich patronami
+	- mroczna trigani
 	- świątynia Lathandera
-	- Vforband
-	- rozbudowanie wątków śledzenia graczy
-- lvl 5
-	- Pijo
-		- update cantripów
-		- update inspiracji, że na short reście
-	- Wasser
-		- update cantripów
-	- Voanir, Verdnir
-		- update cantripów
+	- skarbiec 
+	- drugi encounter z wyspą
+	- więcej questów graczy
+		- szepczący
+		- brauniel
+		- duchy Pijo

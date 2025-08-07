@@ -2,6 +2,7 @@ Starszy skalny gnom.
 Pomagier [[Froic]]a.
 Łysy, z elegancką siwą brodą.
 Gnome Bard 2 CR
+Zabity przez [[Olimpijczyk]]a.
 
 # Praca u [[Froic]]a
 - Jest mistrzem ceremonii, jeśli gobliny nie są mile widziane

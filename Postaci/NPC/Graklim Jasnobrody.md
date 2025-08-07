@@ -1,6 +1,7 @@
 Jasnobrody krasnoludzki wojownik.
 Osobisty ochroniarz i zarządca gladiatorów [[Froic]]a.
 Veteran 3 CR
+Zabity przez drużynę.
 
 # Praca u [[Froic]]a
 - Niegdyś był wybitnym gladiatorem

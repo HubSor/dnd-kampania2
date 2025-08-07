@@ -13,5 +13,6 @@
 	- Nikt poza samymi Krasnoludami nie wie, ile jest karaków
 	- Do stolicy nie wpuszczają obcych
 	- Dużo handlują w Gundum
+	- Nie rozmawiają na temat [[Vforband]]u
 - Klimat
 	- Średni górski
