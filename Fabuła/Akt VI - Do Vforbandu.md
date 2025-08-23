@@ -107,11 +107,13 @@ Za Vforband-Khaldûm… nasz grobowy plan.
 			- Testy na ukrywanie się
 				- Troll ma węch z ułatwieniem
 				- (Potenjalnie) Komunikat od [[Szepczący]] do [[Voanir]]a
-					- Ten co wyżej
+					- "Wróciłeś, Voanirze. Ale nie jesteś sam i nie ja jedyny jestem ci Panem. Pozbądź się wpływu Topiciela."
 					- "Spadobierco Krasnystawa, udowodnij, że dalej jesteś waleczny. Oddaj serce tego trolla pobliskim drzewom."
 			- Jeśli znajdą, #Walka
 				- Jeśli [[Voanir]] wypełni misję
-					- "Doskonale, waleczny synu. Gdy skończysz sprawy tutaj, potrzebuję cię na zachodzie, za morzem. Szukaj mnie w domenie Lathandera. Może tam pozbędziesz się fałszywego pana."
+					- "Doskonale, waleczny synu. Gdy skończysz sprawy tutaj, potrzebuję cię na zachodzie, za morzem. Szukaj mnie niedaleko domeny mojego wielkiego wroga - Pana Światła i Życia. Może tam pozbawię się fałszywego pana."
+				- Jeśli nie
+					- "Synu firbolgowego plemienia, twój morski pan spaczył ci myśli. Udaj się za morze, do domu mojego wielkiego wroga - Pana Światła i Życia. Tam pozbawię cię złudzeń."
 			- Jeśli nie, jeden uderzy drugiego, bo nie znalazł ryby
 				- Zaczną walczyć na śmierć
 				- Potem jeden zje ciało drugiego

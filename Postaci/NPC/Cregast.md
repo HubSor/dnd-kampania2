@@ -1,4 +1,5 @@
 Duch krasnoluda spod [[Vforband]]u.
+Odesłany ponownie w zaświaty przez [[Pijo Junior]].
 
 # Wygląd
 - Jest półprzezroczysty i bladoniebieski

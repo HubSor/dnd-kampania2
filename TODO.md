@@ -1,42 +1,42 @@
 #TODO
+- spakować
+	-  kości
+	- piórnik
+	- głośnik
+	- lapek z softem
+	- hubrad
+		- mapa
+		- marker
+		- żetony
+	- żetony z terra
 - na teraz
-	- zaktualizować notatki
-	- przypomnienie o lvl upie w poniedziałek
-	- spirit session
-	- hidden step
-	- rework topielca
-		- powiązanie ze skarbem
-		- wyspa znajdzie ich sama
-		- chce żeby rośli w siłę
-		- jakóś chce ich potem wykorzystać
-		- umiejętności od topielca?
-	- status opętania
-		- relacje z patronami
-		- każdy gracz status
-	- tajemniczna krypta
-		- półsmok
-			- CR 10
-			- + lair
-			- + legendary resist
-			- tarcza + siekiera
-		- dialog
-			- opcja pokojowa
-		- dalszy rozkład krypty
-		- magiczne itemki
-			- pozostałe z etapu 1
-		- nieużyte encountery z etapu 1
-		- lvl up?
-	- zdrada Yorkasa i załogi
-		- łowcy nagród
-			- Krasnoludzki łowca nagród wyznawca Tyra i kuzyn Zerina
-			- Magiczne moce od Tyra, żęby wymierzył sprawieliwość
-	- lvl na 7
+	- wstęny termin 26.08 17:00
+		- żetony duże
+		- logistyka walk
+	- wiadomości od patronów
+		- Wasser
+	- wyjście z krypty logistyka
+	- passywna percepcja
+	- sprawdzić hortusa
+	- loot z krypty
+	- wyspa luster v2
+		- dialog z opiekunem
+		- zniszczyć najstarsze drzewo
+			- failsave, jeśli nie ogarną
+		- walka z wasserem
+			- mechaniki
+			- trigani
+		- buffy
+			- pogłebienie przeklęcia
+			- loot?
+		- epilog
+			- wasser zajął miejsce
 - na nastęną
+	- lvl up 8
 - na kiedyś
-	- mroczna trigani
 	- świątynia Lathandera
+		- motyw pozbycia się Topiciela
 	- skarbiec 
-	- drugi encounter z wyspą
 	- więcej questów graczy
 		- szepczący
 		- brauniel

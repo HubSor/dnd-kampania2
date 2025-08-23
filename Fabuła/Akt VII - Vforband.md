@@ -18,6 +18,7 @@
 		- Znacznie różni się od pozostałych, które są naturalne
 	- Roper
 		- #Walka Roper CR 5++
+		- W okolicy widzicie dużo więcej świecących grzybów niż zwykle
 		- Po środku dosyć płaskiej przestrzeni stoi duży wolnostojący stalagmit
 		- Obok niego płynie niewielki strumyk
 		- Kwaśny, nieprzyjemny odór w okolicy 
@@ -91,3 +92,9 @@
 			- Możecie przywrócić sobie 1 zużyty zasób (spell slot albo umiejętność) albo rzucić za darmo hit dicem
 	- Tajemnicza krypta
 		- [[Krypta Nieosiągalnego Klucza#Wejście]]
+	- Szczelina
+		- Tunel się kończy, ale znajduje się to szczelina skalna
+		- (Natura 10) Wygląda jakby skały się osunęły i zamknęły naturalny tunel
+		- Nie wygląda to stabilnie i jest możliwe do rozkopania
+			- 4h pracy albo coś wybuchowego
+			- Odblokowuje się dalszy tunel

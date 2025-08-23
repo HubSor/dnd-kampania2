@@ -45,9 +45,9 @@
               "state": {
                 "file": "Fabuła/_.canvas",
                 "viewState": {
-                  "x": 6897.436488024876,
-                  "y": 383.5639495843463,
-                  "zoom": 1.1102230246251565e-16
+                  "x": 9130.405555469904,
+                  "y": 362.409515538033,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "pinned": true,
@@ -73,33 +73,33 @@
             }
           },
           {
-            "id": "efc544196349c186",
+            "id": "6f38467a34ca20de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postaci/NPC/Ag'dreran.md",
+                "file": "DM/Sesja stacjonarna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ag'dreran"
+              "title": "Sesja stacjonarna"
             }
           },
           {
-            "id": "8e1cfa2f66d2af89",
+            "id": "2f0714ff0b43a736",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postaci/NPC/Bofur Odludek.md",
+                "file": "Fabuła/Akt IX - Powrót na Wyspę Luster.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bofur Odludek"
+              "title": "Akt IX - Powrót na Wyspę Luster"
             }
           }
         ]
@@ -216,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,31 +226,31 @@
   "active": "dcb7955b4305001c",
   "lastOpenFiles": [
     "Fabuła/_.canvas",
+    "Fabuła/Akt IX - Powrót na Wyspę Luster.md",
     "TODO.md",
-    "Postaci/NPC/Ag'dreran.md",
     "DM/Wydarzenia podróży morskiej.md",
-    "Postaci/NPC/Bofur Odludek.md",
+    "DM/Sesja stacjonarna.md",
+    "Fabuła/Poboczne/Śledzący graczy.md",
+    "Postaci/NPC/Balagon.md",
+    "Postaci/NPC/Tendral.md",
+    "Fabuła/Akt VIII - Konsekwencje Masakry.md",
+    "Miejsca/Krypta Nieosiągalnego Klucza.md",
     "Fabuła/Poboczne/Lojalność załogi.md",
+    "Fabuła/Poboczne/Pozostałe wątki w Nimros.md",
+    "Fabuła/Poboczne/Opętanie przez Topiciela.md",
+    "Postaci/NPC/Hortus.md",
+    "Postaci/NPC/Trigani Fensys.md",
+    "Fabuła/Akt VI - Do Vforbandu.md",
+    "Postaci/NPC/Cregast.md",
+    "Postaci/NPC/Szepczący.md",
+    "Obiekty/Klucze/Nieosiągalny Klucz.md",
+    "Postaci/NPC/Ag'dreran.md",
+    "Obiekty/Trójząb Topiciela.md",
+    "Miejsca/Skarbiec.md",
+    "Obiekty/Klucze/Zapomniany Klucz.md",
+    "Postaci/NPC/Bofur Odludek.md",
     "DM/Kryptyczne wiadomości.md",
     "Obiekty/Księga - Przepowiednie i Omeny.md",
-    "Frakcje/Państwa/Barlia.md",
-    "DM/Stany miasta.md",
-    "DM/Sea events.md",
-    "Postaci/NPC/Tendral.md",
-    "Fabuła/Akt VII - Vforband.md",
-    "Miejsca/Krypta Nieosiągalnego Klucza.md",
-    "Obiekty/Klucze/Nieosiągalny Klucz.md",
-    "Obiekty/Klucze/Zapomniany Klucz.md",
-    "Obiekty/Klucze/Bezpieczny Klucz.md",
-    "Postaci/NPC/Cregast.md",
-    "Frakcje/Państwa/Hatamia.md",
-    "Miejsca/Barlianberg.md",
-    "DM/Plotki.md",
-    "Postaci/NPC/Zerin.md",
-    "Pomysły.md",
-    "Fabuła/Poboczne/Śledzący graczy.md",
-    "Miejsca/Vforband.md",
-    "Fabuła/Akt VI - Do Vforbandu.md",
     "Fabuła/Poboczne",
     "nimros.png",
     "Obrazki/Perłowy Książe.png",

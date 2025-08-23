@@ -1,0 +1,11 @@
+- Spotykamy się we wtorek 26.08 17:00 na Marymonckiej 83/87
+- Pewnie zaczniemy koło 18 i pogramy do 23
+- Musicie ogarnąć sobie kartę postaci
+	- Może być diceright na telefonie
+	- Może być inna aplikacja
+	- Możecie sobie wydrukować
+- Wbijcie level 7 przed sesją
+- Kości wezmę ja i/lub Hubrad
+- Możecie pomyśleć nad przyniesieniem tokena postaci
+	- Mapki są w kratę 2,5 cm, więc nie może być większy
+	- Może być cokolwiek

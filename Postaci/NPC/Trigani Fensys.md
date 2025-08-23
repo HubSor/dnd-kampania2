@@ -24,3 +24,6 @@ Ok. 110 lat.
 - Po wie
 - Trafiła do [[Miasto Nimros]] po wielu latach w głuszy i na szlaku
 - Zrekrutowana przez [[Yorkas]] do załogi graczy
+- Wyrzucona za burtę i wciągnięta na pokład poczas spotkania [[Akt V - Wyspa Luster]]
+	- Prawie się wtedy utopiła
+	- Potem zniknęła i słuch o niej zaginął

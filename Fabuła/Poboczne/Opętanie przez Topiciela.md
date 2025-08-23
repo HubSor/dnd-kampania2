@@ -19,5 +19,10 @@
 - [[Voanir]] i [[Olimpijczyk]] pokonali odbicia [[Darin]]a, [[Verdnir]]a i [[Wasser]]a
 	- Zostali naznaczeni Piętnem
 - Reszta poległa w boju
-	- [[Wasser]] uzyskał status słuygi nieudacznika, wyklętego przez [[Ag'dreran]]a
+	- [[Wasser]] uzyskał status sługi nieudacznika, wyklętego przez [[Ag'dreran]]a
 		- Nie słyszy więcej głosów
+
+# Wizja w beczce piwa w [[Gundram]]
+- [[Wasser]] odciął sobie 4 palce lewej dłoni i uzyskał przebaczenie [[Ag'dreran]]a
+- [[Verdnir]] sprzeciwił się mu i ma status wroga
+	- [[Brauniel]] zachęca go do sprzeciwienia się Topielcowi

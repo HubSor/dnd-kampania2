@@ -59,6 +59,26 @@
 	- Zakupy w [[Barlianberg]]u
 	- Śmierć [[Zerin]]a z miechem w dupie
 	- Wyrżnięcie kapłanów Tyra z [[Barlianberg#Świątynia Tyra]]
-- 24-29.05.555
+- 24-26.05.555
+	- Przybycie do Nightle
+		- Festyn
+		- Zrobienie zapasów
+- 26-29.05.555
 	- Przybycie do [[Gundram]]
+	- Spotkanie kultystki w [[Gundram#Tawerna Pod Pustą Ręką]]
+	- Wizje od [[Ag'dreran]]a w beczce piwa
+	- Spotkanie i [[Bofur Odludek]]
+	- Wyruszenie w stronę [[Vforband]]u
+- 30-31.05.555
+	- Droga do [[Vforband]]u
+	- Pieśń [[Bofur Odludek]]
+	- Pokonanie trolli
+- 01.06.555
+	- Dojście pod [[Vforband]]
+	- Śmierć [[Bofur Odludek]]
+	- Rozpoczęcie eksploracji [[Vforband]]
+- 01-.06.555
+	- Eksploracja [[Vforband]]
+	- Odesłanie [[Cregast]] w zaświaty
+	- Wejście do [[Krypta Nieosiągalnego Klucza]]
 	- 

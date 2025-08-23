@@ -8,7 +8,7 @@
 
 
 # Pozytywne wydarzenia
-- Piwo?
+- Dłuższy odpoczynek w [[Gundram]]
 
 
 # Negatywne wydarzenia
@@ -30,3 +30,9 @@
 	- Oraz braku spalenia ziemi w następnym porcie
 	- Chcą też wiedzieć, gdzie zawiniemy następnie
 		- Podpowie [[Gundram]]
+
+# Próba przekupstwa [[Hortus]]a
+- [[Hortus]] nawiązał kontakt z załogą tropiąc graczy
+	- Poradził zdjąć banderę po czym rozpuścił wieści o wydarzeniach w [[Barlianberg]]u
+	- Wyczuł, że są gotowi zdradzić graczy za odpowiednią cenę
+	- Ale nie dogadał się na konkretną kwotę
