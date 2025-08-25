@@ -1,43 +1,13 @@
 #TODO
-- spakować
-	-  kości
-	- piórnik
-	- głośnik
-	- lapek z softem
-	- hubrad
-		- mapa
-		- marker
-		- żetony
-	- żetony z terra
 - na teraz
-	- wstęny termin 26.08 17:00
-		- żetony duże
-		- logistyka walk
-	- wiadomości od patronów
-		- Wasser
-	- wyjście z krypty logistyka
-	- passywna percepcja
-	- sprawdzić hortusa
-	- loot z krypty
-	- wyspa luster v2
-		- dialog z opiekunem
-		- zniszczyć najstarsze drzewo
-			- failsave, jeśli nie ogarną
-		- walka z wasserem
-			- mechaniki
-			- trigani
-		- buffy
-			- pogłebienie przeklęcia
-			- loot?
-		- epilog
-			- wasser zajął miejsce
+	- 
 - na nastęną
 	- lvl up 8
-- na kiedyś
 	- świątynia Lathandera
 		- motyw pozbycia się Topiciela
-	- skarbiec 
-	- więcej questów graczy
-		- szepczący
-		- brauniel
-		- duchy Pijo
+		- motyw szeptucha
+		- motyw brauniela
+		- może jakiś wybór?
+- na kiedyś
+	- skarbiec
+		- przeklęta kraina

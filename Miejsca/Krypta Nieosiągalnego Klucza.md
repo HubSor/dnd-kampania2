@@ -93,12 +93,13 @@
 		- Prowadzą do krętej klatki schodowej
 			- Kamienna, wyryta w skale
 			- Prowadzi na powierzchnię, na zbocze, z którego widać wejście do [[Vforband]]u
+		- Droga na górę zajmie 3 godziny
 - Wiadomości od patronów
 	- [[Ag'dreran]] do [[Wasser]]a, [[Voanir]]a, [[Olimpijczyk]]a
-		- "Zdobyliście klucz, ale są aż trzy. Następny czeka was w [[Eldfield]]."
+		- "Zdobyliście klucz, ale są trzy. Następny czeka za zachodnim morzem. Ale przedtem... powrót w znajome miejsce..."
 		- Wspólna wiadomość telepatyczna
 	- [[Brauniel]] do [[Verdnir]]a
-		- "Położyłeś potężnego wroga. Ale być może twoi kompani służą gorszemu."
+		- "Pokonałeś potężnego wroga. Ale być może twoi kompani służą gorszemu."
 		- Napisane na ręce
 	- [[Szepczący]] do [[Voanir]]a
 		- "Teraz nic cię nie powstrzymuje. Wyruszaj na zachód."

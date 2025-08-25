@@ -45,9 +45,9 @@
               "state": {
                 "file": "Fabuła/_.canvas",
                 "viewState": {
-                  "x": 9130.405555469904,
-                  "y": 362.409515538033,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 8955.870131626052,
+                  "y": 482.52857797649347,
+                  "zoom": 0.3333333333333334
                 }
               },
               "pinned": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,13 +224,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dcb7955b4305001c",
+  "active": "b0e8abb8bcf4098d",
   "lastOpenFiles": [
-    "Fabuła/_.canvas",
     "Fabuła/Akt IX - Powrót na Wyspę Luster.md",
-    "TODO.md",
-    "DM/Wydarzenia podróży morskiej.md",
     "DM/Sesja stacjonarna.md",
+    "TODO.md",
+    "Fabuła/_.canvas",
+    "DM/Wydarzenia podróży morskiej.md",
     "Fabuła/Poboczne/Śledzący graczy.md",
     "Postaci/NPC/Balagon.md",
     "Postaci/NPC/Tendral.md",

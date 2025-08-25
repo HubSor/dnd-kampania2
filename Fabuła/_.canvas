@@ -49,12 +49,12 @@
 		{"id":"72102d609b17d487","type":"file","file":"Fabuła/Akt VII - Vforband.md","x":7140,"y":43,"width":475,"height":629},
 		{"id":"b9a49c5d487c79e4","type":"text","text":"Powrót do [[Gundram]]\n- 2.5 dnia drogi\n- Po 1 dniu\n\t- [[Akt VIII - Konsekwencje Masakry#Spotkanie z Hortus em]]\n- W [[Gundram]]\n\t- Brak specjalnych okoliczności\n\t- Spotkanie z [[Yorkas]]em i załogą","x":8200,"y":-463,"width":475,"height":265,"color":"4"},
 		{"id":"95ce59b052269841","type":"file","file":"Fabuła/Akt VIII - Konsekwencje Masakry.md","x":8200,"y":43,"width":475,"height":626},
-		{"id":"2838a4ac22c77cb5","type":"file","file":"Fabuła/Akt IX - Powrót na Wyspę Luster.md","x":8740,"y":43,"width":475,"height":626},
 		{"id":"d803cee424f872a8","type":"text","text":"Powrót na Wyspę Luster\n- Po 2 dniach rejsu spotkanie Wyspy Luster\n\t- [[Akt IX - Powrót na Wyspę Luster]]\n- ","x":8740,"y":-463,"width":475,"height":265,"color":"4"},
 		{"id":"77e7061e3494e503","type":"text","text":"Głębiny [[Vforband]]u cz. 1\n- Eksploracja wejścia do karaku\n- [[Akt VI - Do Vforbandu#Głębiny Vforband u]]\n- Zagadki\n\t- `Nie waży, nie rzuca cienia, ale tańczy i się mnoży`\n\t- `Możesz mnie zawiązać, ale nie możesz mnie zgiąć`\n\t- `Niewolnik jest na łańcuchu, który ma 10 metrów. Ściął drzewo 50 metrów od niego? Jak?`","x":7140,"y":-523,"width":475,"height":385,"color":"4"},
 		{"id":"a1f7363f8f7479dd","type":"text","text":"Sesja 10 20.08.2025","x":7788,"y":-660,"width":220,"height":50,"color":"1"},
 		{"id":"382020bad47bf9ea","type":"text","text":"Sesja 11 26.08.2025","x":8868,"y":-660,"width":220,"height":50,"color":"1"},
-		{"id":"3367ccafd061c69a","type":"text","text":"Głębiny [[Vforband]]u cz. 2\n- [[Krypta Nieosiągalnego Klucza]]\n\t- Wejście\n\t- Wielka sala\n\t\t- Obrazek\n\t- [[Tendral]]\n- 06.06 7:00\n\n\t- Loot\n\t- Lvl up\n\t- Otwarcie wyjścia\n\t- Wiadomości od patronów","x":7660,"y":-523,"width":475,"height":385,"color":"4"}
+		{"id":"3367ccafd061c69a","type":"text","text":"Głębiny [[Vforband]]u cz. 2\n- [[Krypta Nieosiągalnego Klucza]]\n\t- Wejście\n\t- Wielka sala\n\t- [[Tendral]]\n- 06.06 7:00\n\t- Ponad stołem\n\t\t- Lvl up\n\t\t- Loot\n\t- Otwarcie wyjścia\n\t- Wiadomości od patronów","x":7660,"y":-523,"width":475,"height":385,"color":"4"},
+		{"id":"2838a4ac22c77cb5","type":"file","file":"Fabuła/Akt IX - Powrót na Wyspę Luster.md","x":8740,"y":40,"width":475,"height":626}
 	],
 	"edges":[
 		{"id":"8f5fa96d169da73d","fromNode":"d93d413a98cb6799","fromSide":"right","toNode":"19dd4a1154171878","toSide":"left"},

@@ -7,7 +7,14 @@
 	- W 2 miejscach trawa jest obumarła
 
 # Spotkanie z [[Hortus]]em
+- Passive Percep
+	- [[Olimpijczyk]] 15
+	- [[Pijo Junior]], [[Darin]] 13
+	- [[Wasser]] 11
+	- Reszta 10
 - (Rzut na skradanie całej bandy)
+	- 4x Stealth +9
+	- 2x Stealth -2
 - [[Hortus]] wyjdzie sam graczom na drogę
 	- Przedstawi się grzecznie, ale będzie trzymał odlegość
 	- Spyta o imię, dopyta, czy nie jest to kapitan [[Darin]] z załogą
@@ -28,7 +35,7 @@
 			- (Kłamstwo) Jeśli nie przyjdę pierwszy do miasta i nie dam sygnału, wywieszą banderę i zgłoszą was władzom
 - #Walka 
 	- [[Hortus]] Transmuter 5 CR
-	- 2x Archer 3 CR
+	- 4x Archer 3 CR
 	- 2x Zombie Troll 4 CR
 		- Padają w momencie straty przytomności [[Hortus]]a
 - Loot

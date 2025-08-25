@@ -16,6 +16,8 @@
 - Wyspa wydaje się większa
 - Jest mniej wulkanicznych skał
 - Rzeźba terenu się zmieniła
+	- Ale niektóre formacje skalne wyglądają znajomo
+	- Nie widać tych samych szczątków co wcześniej
 - Las palmowy jest dużo gęstszy niż wcześniej
 
 # Spotkanie z Opiekunem
@@ -24,15 +26,83 @@
 	- Niezwykle stary i zgarbiony starzec
 	- Zostały mu pojedyncze kosmyki białych włosów
 	- Oczy pokryte bielmem
+	- Ubrany w łachmany
+	- Opiera się na drewnianej lasce
+	- (Nie widać)
+		- Brakuje mu 4 palców u lewej dłoni
+		- Nosi u pasa 3 sztylety z narwala
 - Dialog
-	- 
+	- 45 lat temu rozbił się tu, tylko on przeżył
+	- Często słyszy głosy od Topielca, dużo się dowiedział
+	- Opiekuje się wyspą
+	- Wita podróżnych, ale od dawna nie widział
+		- Z reguły nie wracają żywi
+	- Ma misję od [[Ag'dreran]]a dla graczy
+		- "ZETNIJCIE NAJSTARSZE DRZEWO NA WYSPIE"
+		- [[Ag'dreran]] chce zobaczyć coś innego niż wywijanie mieczem
 
-
-#TODO
-
+# Ścinanie drzewa
+- Chodzi o zabicie Opiekuna
+	- Konkretnie jego drzewo genealogiczne
+	- Zapytany, opowie o swojej rodzinie, że od pokoleń byli marynarzami
+	- W ostateczności podpowie
+- Zmyłki
+	- Na wyspie jest kilkaset drzew
+		- Głównie palmy, ale jest też kilka mniej egzotycznych
+	- Kilkanaście z nich wygląda dosyć staro
+	- (Natura albo Survival) W odosobnionym miejscu rośnie malutkie drzewko
+		- Jest niezwykle poskręcane
+	- Drzewo wyrastające ze szklanej butelki
+		- Jeden z korzeni stamtąd wyrasta 
+	- Stara, spróchniała szalupa wyrzucona na jednej z plaż
+- Jeśli zabiją Opiekuna
+	- Gracze zobaczą sztylety i palce
+	- Jego ciało zamieni się w wodę
+	- [[Ag'dreran]] powie
+		- "Podołaliście... Ale Wyspa potrzeubje opiekuna... A jeden z was długo mi służy... Ostatni sprawdzian..."
+- Jeśli nie podołają
+	- Czyli
+		- Spytają Opiekuna kilka razy bez sukcesu
+		- Minie mnóstwo czasu
+		- Poddadzą się
+	- [[Ag'dreran]] powie
+		- "Nie podołaliście... Niegodni służby u mnie... Jeden z was wymierzy wam karę..."
+- Opętanie [[Wasser]]a
+	- Magiczna energia z oceanu wsiąknie w [[Wasser]]a
+		- Formuje magiczną barierę dookoła niego
+		- Jego oczy świecą na biało
+		- Jego kostur skrzy się od piorunowej mocy
+	- Co [[Wasser]] czuje
+		- Czujesz się potężny jak nigdy
+		- Czujesz, że wyspa jest twoim domem i domeną twojego pana
+		- Zamiast swoich przyjaciół, widzisz niegodnych służby parobków
+			- Przecież nie znają Topielca jak Ty
+			- Przecież nie służą mu od dekady
+		- Musisz ich sprawdzić w boju, gdyż ostatnio polegli
+	- Rzut na inicjatywę
 # Walka z [[Wasser]]em
-	
-
+- #Walka
+	- Wasser CR ~12
+	- 2 x Trigani Specter CR 2
+- Bufy do [[Wasser]]a
+	- 150 temp HP
+	- 3 legendarne rezystancje
+	- Jedna runda to 2 akcje i 2 bonusowe akcje
+	- Gdy skończą ci się spell sloty, odnawiasz sobie jeden na początku akcji
+	- Legendarna akcja raz na turę
+		- Po prostu możesz zrobić akcję po turze innego gracza
+	- Może sterować zjawami [[Trigani Fensys]]
+- Akcje środowiskowe z inicjatywą 10 co rundę
+	- Jeśli jest ich mniej niż 6
+		- Pojawia się 2 zjawy [[Trigani Fensys]]
+	- Jeśli jest więcej
+		- Każda zjawa w ramach swojej akcji może wybuchnąć
+- Koniec walki
+	- Zjawy przestają się spawnować, gdy [[Wasser]] padnie
+	- Ciało wassera zamienia się w wodę i wsiąka w piach
+	- Zostają po nim tylko przedmioty i łachmany
+	- [[Ag'dreran]] powie
+		- "Zostali tylko godni... Znajcie łaskę swojego Pana..."
 
 # Buffy od [[Ag'dreran]]a
 - [[Darin]]
@@ -52,4 +122,14 @@
 - Pogłębienie opętania
 	- [[Darin]]owi, [[Pijo Junior]] i [[Verdnir]]owi pojawiają się znamiona
 	- [[Olimpijczyk]]owi i [[Voanir]]owi
-		- #TODO
+		- Możecie komunikować się między sobą telepatycznie
+
+# Epilog
+- Jeśli którys z graczy umrze
+	- Może przyjść na następną sesję z nową postacią
+	- Może obudzić się na łodzi, ale będą konsekwencje
+- Pożegnanie [[Wasser]]a
+	- Gdy będą wybierać się na statek, zobaczą machającego im Opiekuna
+	- Ale tym razem będzie wyprostowany
+	- Jego kij będzie też miał muszlę na końcu
+	- Ręka, którą im odmachuje ma 4 ucięte palce
