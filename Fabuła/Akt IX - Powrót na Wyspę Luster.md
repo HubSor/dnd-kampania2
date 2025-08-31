@@ -86,6 +86,7 @@
 	- 2 x Trigani Specter CR 2
 - Bufy do [[Wasser]]a
 	- 150 temp HP
+	- 16 AC
 	- 3 legendarne rezystancje
 	- Jedna runda to 2 akcje i 2 bonusowe akcje
 	- Gdy skończą ci się spell sloty, odnawiasz sobie jeden na początku akcji

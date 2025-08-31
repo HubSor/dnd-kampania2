@@ -77,6 +77,7 @@
 - Topór Tendrala
 - Hełm Rozumienia Języków
 - Mikstura Hibernacji
+	- 3 użycia
 	- Po zażyciu, cel zapada w głęboki magiczny sen
 	- Trwa 24h albo do otrzymania pożądnych obrażeń
 	- Mała, niebieska buteleczka

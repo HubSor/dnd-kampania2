@@ -1,6 +1,7 @@
 #TODO
 - na teraz
-	- 
+	- jedzenie serca półsmoka
+	- back to barlianberg?
 - na nastęną
 	- lvl up 8
 	- świątynia Lathandera
