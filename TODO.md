@@ -2,13 +2,21 @@
 - na teraz
 	- jedzenie serca półsmoka
 	- back to barlianberg?
+	- świątynia lathandera
+		- opis miasta
+		- wielka świątynia
+			- 2 piętrowa
+			- miejsce, gdzie trzymają klucz
+			- lore dump
+			- jakaś najwyższa matka albo coś
+			- Brauniel buff
+		- ekipa od szeptucha
+			- załoga
+			- planują napad
+			- spotkanie
+			- pozbycie się topielca
 - na nastęną
 	- lvl up 8
-	- świątynia Lathandera
-		- motyw pozbycia się Topiciela
-		- motyw szeptucha
-		- motyw brauniela
-		- może jakiś wybór?
 - na kiedyś
 	- skarbiec
 		- przeklęta kraina
