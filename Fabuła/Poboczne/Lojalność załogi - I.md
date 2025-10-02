@@ -36,3 +36,9 @@
 	- Poradził zdjąć banderę po czym rozpuścił wieści o wydarzeniach w [[Barlianberg]]u
 	- Wyczuł, że są gotowi zdradzić graczy za odpowiednią cenę
 	- Ale nie dogadał się na konkretną kwotę
+
+# Śmierć pierwszej załogi
+- [[Hortus]] wysadził siebię i pół statku w powietrze w [[Gundram]]
+	- Większość załogi, w tym [[Yorkas]], zginęła w wybuchu
+	- Pozostali zostali przesłuchani i zamordowani przez [[Darin]]a
+		- Yorkas, Edmund, Barnavald to imiona zdrajców

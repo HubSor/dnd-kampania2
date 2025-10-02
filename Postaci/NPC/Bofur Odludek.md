@@ -1,6 +1,7 @@
 Stary, zdziadziały i pomylony krasnolud spod [[Gundram]].
 Zarabia na życie prowadząc śmiałków pod [[Vforband]] lub do granicy z [[Kraj Goblinów]].
 Znany z lakonicznej mowy.
+Zmarł, zabity przez [[Wasser]]a.
 
 # Wygląd
 - Bardzo stary krasnolud z zupełnie siwymi włosami

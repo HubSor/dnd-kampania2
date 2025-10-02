@@ -11,3 +11,4 @@ Jeden z 3 kluczy potrzebnych do otwarcia [[Skarbiec]]. Ukryty na dnie [[Vforband
 - Umieścił tam swojego potomka [[Tendral]]a, by go strzegł
 - Ale to sama lokalizacja jest największą przeszkodą
 	- Jaskinie pod [[Vforband]]em są niezwykle niebiezpieczne
+- Zdobyty przez graczy po zabiciu [[Tendral]]a

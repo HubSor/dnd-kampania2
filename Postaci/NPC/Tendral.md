@@ -1,5 +1,6 @@
 Półsmok, syn [[Balagon]]a.
 Strzeże [[Krypta Nieosiągalnego Klucza]] pod [[Vforband]]em.
+Zabity przez drużynę w Krypcie.
 
 # Wygląd
 - Około 3,5 metra wzrostu

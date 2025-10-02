@@ -1,4 +1,5 @@
 Najemnik Tabaxi.
+Wysadził siebię i pół [[Perłowy Książe]] po pojmaniu przez graczy.
 
 # Wygląd
 - Szaroczarny kor w delikatne centki

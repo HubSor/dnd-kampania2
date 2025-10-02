@@ -1,0 +1,25 @@
+# Spotkanie [[Talaran]]a
+- Zwiadowca zamelduje, że widzi sporo odłamków i szczątków statku na wodzie
+	- Wśród nich jest jakiś człek
+- Po przypłynięciu bliżej zobaczą [[Talaran]]a
+	- Poprosić opisać
+	- (Smok [[Talaran]]a będzie pod wodą domyślnie)
+- Z resztek mogą wywnioskować
+	- Średniej wielkości statek handlowy
+	- Jeśli miał coś cennego, to poszło na dno, bo na powierzchni nic nie widać
+		- (Nie było tam nic cennego, płynął prawie pusty)
+		- Można wyciągnąć tylko 10 dni racji i 50 gp materiałów
+# Porwani szkutnicy
+- Znajdują się w osobnej kajucie pod pokładem
+	- Pozbawieni narzędzi
+- 3 krasnoludów szkutników
+	- Ich szefem [[Garkun Lunvukh]]
+	- Poza nim jeszcze Hurdan i Brumme
+		- Jego pomocnicy
+- W pewnym momencie zaczną uderzać w drzwi i domagać sie wypuszczenia
+	- Załogant ostrzeże [[Darin]]a o tym
+	- Domagają się natychmiastowego wypuszczenia z kajuty i zostawienia w porcie w [[Gundram]]
+	- Nie mają co jeść, ani gdzie się załatwić
+	- To nieludzkie warunki i będą dochodzić swoich praw
+- W najgorszym wypadku będą chcieli się bić
+	- #Walka 3x Bandit 1/8 CR

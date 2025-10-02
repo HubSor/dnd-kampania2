@@ -1,4 +1,5 @@
 Pół-elf marynarz-łotr. Szpieguje graczy na rzecz [[Froic]]a.
+Zginął z ręki [[Hortus]]a w wielkiej eksplozji.
 
 
 # Historia

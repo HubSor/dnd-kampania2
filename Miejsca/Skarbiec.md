@@ -15,4 +15,3 @@ Sekretne miejsce, w którym [[Balagon]] ukrył uratowaną część swojego bogac
 
 # Lokalizacja
 - W sercu [[Przeklęta Równina]]
-#TODO

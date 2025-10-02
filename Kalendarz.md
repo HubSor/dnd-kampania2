@@ -77,8 +77,53 @@
 	- Dojście pod [[Vforband]]
 	- Śmierć [[Bofur Odludek]]
 	- Rozpoczęcie eksploracji [[Vforband]]
-- 01-.06.555
+- 02-09.06.555
 	- Eksploracja [[Vforband]]
 	- Odesłanie [[Cregast]] w zaświaty
 	- Wejście do [[Krypta Nieosiągalnego Klucza]]
-	- 
+		- Walka z [[Tendral]]em
+		- Zjedzenie smoczego serca przez [[Verdnir]]a i [[Pijo Junior]]a
+- 10-12.06.555
+	- Wyjście na powierzchnię
+	- Polowanie na sarny
+	- Spotkanie i walka z [[Hortus]]em
+		- Tortury [[Hortus]]a
+- 13.06.555
+	- Powrót do [[Gundram]]
+	- Samobójczy zamach [[Hortus]]a
+	- Śmierć całej załogi
+	- Wynajęcie krasnoludzkiego cieśli do naprawy statku
+	- Spotkanie [[Othelic]]a i [[Karczycho]] pod karczmą "Kryształ"
+- 14.06.555
+	- Odebranie statku
+	- Porwanie kilku krasnoludzkich cieśli
+		- [[Garkun Lunvukh]]
+	- Spotkanie nowej załogi oprychów
+	- Wypłynięcie z [[Gundram]]
+- 15.06.555
+	- Napotkanie [[Akt IX - Powrót na Wyspę Luster]]
+	- Nierozwiązanie zagadki Opiekuna
+	- Śmierć i przemiana [[Wasser]]a i [[Pijo Junior]]a
+- 16-18.06.555
+	- Podróż do [[Eldfield]]
+	- Dołączenie [[Talaran]]a do załogi
+	- Negocjacje z [[Garkun Lunvukh]] i porwanymi szkutnikami
+- 19.06.555
+	- Dołączenie [[Balladino]] do załogi
+	- Zwiady [[Eldfield#Świątynia Lathandera]]
+		- Spotkanie [[Ojciec Cornelius]]
+		- Umówienie spotkania z wyższym kapłanem na 20.06 18:00
+	- Pierwsze spotkanie z [[Alex]]em
+	- Oszukanie celniczki w porcie
+- 20.06.555
+	- Drugie spotkanie i narada z [[Alex]]em
+	- Zakupy u [[Aedelric]]a
+	- Wielka dywersja w świątyni
+		- Śmierć [[Prezbiter Rogholm]] i kilku cywili
+		- Pozorowana walka [[Alex]] i [[Darin]]
+		- Załoga [[Znajoma Kurtyzana]] została na górze
+		- Gracze zeszli na dół do [[Eldfield#Piwnica]]
+		- Porwanie ogłuszonego [[Ojciec Cornelius]]
+	- Otwarcie drzwi do [[Eldfield#Sakratorium]]
+	- Walka z golemami
+	- Zdobycie [[Bezpieczny Klucz]]

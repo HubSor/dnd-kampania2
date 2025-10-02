@@ -1,5 +1,5 @@
 - Stolica
-	- Wolna Przystań
+	- [[Wolna Przystań]]
 		- Założona jako porto otwarty dla każdego przybysza i każdego towaru
 - Ustrój
 	- Luźna unia państw-miast

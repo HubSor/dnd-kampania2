@@ -20,8 +20,14 @@ Potężny zły duch z wymiaru Fey.
 - Stał się bardzo potężny po wyssysaniu mocy przez stulecia od anioła [[Brauniel]]a
 - Dzięki pomocy [[Verdnir]]a, [[Brauniel]]owi udało się zbiec
 - Stoczył z nim pojedynek, po którym uciekł w nieznanym kierunku
+- [[Verdnir]] i [[Voanir]] tropili go aż do zachodnich wybrzeż [[Nimros]]
+- Uciekł do [[Sosnowe Wybrzeże]], skąd zaczął planować dalsze ruchy i szerzyć swoje wpływy
 
 # Cele
 - W ramach zemsty na Lathanderze, planuje zniszczyć jego kult
-- Przejmując potężne magiczne artefakty, chce zabić jak najwięcej jego aniołów
-- Nie spieszy się z realizacją planów, ale atak [[Brauniel]]a wymusił jego ruchy
+	- Przejmując potężne magiczne artefakty, chce zabić jak najwięcej jego aniołów
+	- Nie spieszy się z realizacją planów, ale atak [[Brauniel]]a wymusił jego ruchy
+- Opętał obiecującego kapitana z [[Unia Wolnych Portów]] - [[Alex]]a
+	- Wyprawił go do [[Eldfield]] w celu desakracji tamtejszej świątni Lathandera
+	- Spodziewał się też, że [[Voanir]] tam przybędzie, o co sam zadbał
+	- Chce dostać artefakty ze świątyni w [[Eldfield]] i w mrocznym rytuale pochłonąć ich moc

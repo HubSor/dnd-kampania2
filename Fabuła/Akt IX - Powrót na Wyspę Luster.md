@@ -106,31 +106,42 @@
 		- "Zostali tylko godni... Znajcie łaskę swojego Pana..."
 
 # Buffy od [[Ag'dreran]]a
+- Pogłębienie opętania
+	- [[Darin]]owi pojawi się znamię
+	- [[Olimpijczyk]]owi i [[Voanir]]owi
+		- Czujecie, jakby wasza pamięć nie była jedynym źródłem wiedzy, z którego możecie korzystać
+			- Wasze myśli mogą płynąć po niewidzialnej macce, do zatopionej skarbnicy wiedzy
+			- Zaraz potem wracają do was, ale wiecie, że Topielec może was znowu zaprosić do swojej skarbnicy wiedzy
+		- Macie ułatwienia na testy związane z [[Ag'dreran]]em i podobnymi historiami
 - [[Darin]]
 	- Jego ręce stają się nasączone żywiołową mocą
 	- Ataki w zwaciu biją piorunowy, grzmotowy albo lodowy dmg
 - [[Voanir]]
 	- Raz dziennie możesz poprosić [[Ag'dreran]]a o wizję, da ci losowy kawałek wiedzy związany z problemem
 - [[Verdnir]]
+	- [[Ag'dreran]] spyta "SPRZECIWIASZ MI SIĘ, A JEDNAK ZDAJESZ MOJE PRÓBY. DECYDUJ, CZY BĘDZIESZ SŁUŻYĆ?"
+		- Jeśli tak, dostanie buff i znamię
+		- Jeśli nie "GODZIEN JESTEŚ ŻYCIA, NAWET JEŚLIŚ KRNĄBRNY. BĘDĘ CZEKAŁ, GDY TWÓJ OBECNY PAN CIĘ PORZUCI."
 	- Poprzez kontakt wzrokowy umiesz wywołać straszne wizje o sobie u rozmówcy
 	- Ułatwienie na zastraszaniu, wywołanie przerażenia albo podobny efekt
 - [[Olimpijczyk]]
 	- Twoja broń ulepsza się
-		- +1 do dmg i ataku oraz +1d6 lodowego dmg
-- [[Pijo Junior]]
-	- Uczysz się Ray of Frosta
-	- +2 dmg, gdy go robisz
-- Pogłębienie opętania
-	- [[Darin]]owi, [[Pijo Junior]] i [[Verdnir]]owi pojawiają się znamiona
-	- [[Olimpijczyk]]owi i [[Voanir]]owi
-		- Możecie komunikować się między sobą telepatycznie
+		- +1 do dmg i ataku oraz +1d4 lodowego dmg
 
 # Epilog
-- Jeśli którys z graczy umrze
-	- Może przyjść na następną sesję z nową postacią
-	- Może obudzić się na łodzi, ale będą konsekwencje
-- Pożegnanie [[Wasser]]a
-	- Gdy będą wybierać się na statek, zobaczą machającego im Opiekuna
-	- Ale tym razem będzie wyprostowany
-	- Jego kij będzie też miał muszlę na końcu
-	- Ręka, którą im odmachuje ma 4 ucięte palce
+- [[Ag'dreran]] ogłosi
+	- "Gonicie za smoczą fortuną... I mój skarb tam leży... Zwróćcie to, co zabrał czarny smok... Odwiedźcie Lathandera w jego domu..."
+- Pożegnanie [[Wasser]]a i [[Pijo Junior]]a
+	- Gdy będą wybierać się na statek, zobaczą machającego im starca
+		- Rozpoznajecie w nim Opiekuna
+		- Ale tym razem będzie wyprostowany
+		- Jego kij będzie też miał muszlę na końcu
+		- Ręka, którą im odmachuje ma 4 ucięte palce
+	- Zza jego pleców wyjdzie druga postać
+		- Zaraz potem zacznie przygrywać smutną muzykę na flecie
+- Po powrocie na statek
+	- Ziemia zacznie się trząść, a wyspa zacznie chować się pod wodę
+	- Po paru chwilach, po wyspie nie będzie śladu
+	- Mgła i chmury zaczną się rozrzedzać
+	- Załoga zacznie się budzić
+- Jest wieczór 15.06.555 na Morzu Środka

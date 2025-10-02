@@ -8,3 +8,6 @@ Jeden z 3 kluczy potrzebnych do otwarcia [[Skarbiec]]. Jest umieszczony w [[Eldf
 	- Pozwolił ludziom z [[Hatamia]] ukraść go i uczynić swoim najważniejszym artefaktem
 - Od tamtej pory Lathander został uznany patronem [[Hatamia]], a jego posąg umieszczono w największej świątyni w [[Eldfield]]
 - Niedługo później [[Balagon]] poległ, a Lathander zdobył wielkie uznanie
+- Wierni nazywają ten przedmiot "Boskim Światłem"
+- Od lat jest ukryty w [[Eldfield#Sakratorium]] i dostępny tylko najzagorzalszym wiernym
+- Ponoć wywołuje wizje wspaniałej krainy, wielkiego bogactwa i szczęścia w najwierniejszych

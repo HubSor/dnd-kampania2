@@ -1,4 +1,0 @@
-- [[Bezpieczny Klucz]] był w świątyni w [[Eldfield#Świątynia Lathandera]]
-- Obecnie jest tam iluzja
-- Dopiero co został skradziony przez sługusa [[Szepczący]]
-- #TODO

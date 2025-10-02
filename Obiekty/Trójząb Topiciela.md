@@ -6,5 +6,8 @@
 
 # Historia
 - Jeden z najpotężniejszych artefaktów [[Ag'dreran]]a
+- Wykonał i używał go pierwszy sługa [[Ag'dreran]]a
+	- Oraz wielu sługów od tamtego czasu
+	- Przesiąknięty esencją [[Ag'dreran]]a do cna
 - [[Balagon]] zdobył go w szczycie panowania od jednego ze sługów Topiciela
 - Od tamtej pory [[Ag'dreran]] szuka godnych sługów do odebrania tego trójzębu

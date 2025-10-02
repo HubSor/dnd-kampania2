@@ -26,3 +26,14 @@
 - [[Wasser]] odciął sobie 4 palce lewej dłoni i uzyskał przebaczenie [[Ag'dreran]]a
 - [[Verdnir]] sprzeciwił się mu i ma status wroga
 	- [[Brauniel]] zachęca go do sprzeciwienia się Topielcowi
+
+# [[Akt IX - Powrót na Wyspę Luster]]
+- [[Wasser]] i [[Pijo Junior]] polegli w próbie i zostali nowymi strażnikami Wyspy
+- [[Voanir]] i [[Olimpijczyk]] weszli na nowy poziom
+	- Dostęp do skarbnicy wiedzy
+- [[Darin]] otrzymał znamię pierwszy raz
+- [[Verdnir]] został pozbawiony nagrody, gdyż nie służyć
+
+# [[Talaran]]
+- [[Talaran#Backstory]]
+- Ma Piętno, ale do tej pory był uśpionym sługą

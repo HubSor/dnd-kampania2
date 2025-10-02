@@ -1,5 +1,6 @@
 - Stolica
-	- Eldfield
+	- [[Eldfield]]
+		- Miastem rządzi Najwyższy Prezbiter 
 - Ustrój
 	- Oligarchia
 	- Rządzi senat, do którego wybiera się przez nominację

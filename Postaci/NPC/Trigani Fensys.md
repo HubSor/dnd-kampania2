@@ -1,7 +1,7 @@
 Kobieta leśny gnom barbarzyńca.
 Ok. 110 lat.
 "Trigani Nieokiełznana"
-
+Zginęła na Wyspie Luster.
 
 # Wygląd
 - Wysoka jak na gnomkę (1,1m)
@@ -27,3 +27,4 @@ Ok. 110 lat.
 - Wyrzucona za burtę i wciągnięta na pokład poczas spotkania [[Akt V - Wyspa Luster]]
 	- Prawie się wtedy utopiła
 	- Potem zniknęła i słuch o niej zaginął
+- Jej duchy walczyły przeciw graczom na Wyspie Luster

@@ -8,6 +8,8 @@
 		- Kuchnia
 	- Dolny podpokład
 		- Ładownia
+- Znacznie uszkodzony w wyniku wybuchu kuli ognia [[Hortus]]a
+	- Naprawiony przez [[Garkun Lunvukh]], ale niezbyt dokładnie
 - Statystyki
 	- Załoga
 		- 16 osób (1 oficer + 6 graczy + 9 marynarzy)

@@ -1,22 +1,27 @@
 #TODO
 - na teraz
-	- jedzenie serca półsmoka
-	- back to barlianberg?
-	- świątynia lathandera
-		- opis miasta
-		- wielka świątynia
-			- 2 piętrowa
-			- miejsce, gdzie trzymają klucz
-			- lore dump
-			- jakaś najwyższa matka albo coś
-			- Brauniel buff
-		- ekipa od szeptucha
-			- załoga
-			- planują napad
-			- spotkanie
-			- pozbycie się topielca
+	- poszukiwanie wyjścia z piwnicy
+	- jakieś konsekwencje ten masakry
+	- ojciec kornelius wake up
+	- co robił alex w międzyczasie
+	- flow ponapadowe
+	- szeptuch
+		- posłaniec topielca po drodze
+		- wzmagające się szepty
+		- sosnowe wybrzeże opis
+		- przebieg rytuału
+		- walka
+			- rytuał w tle
+			- niewidzialni oponenci?
+		- reakcja na przybycie
+			- swojego podopiecznego
+			- podopiecznego brauniela
 - na nastęną
-	- lvl up 8
 - na kiedyś
+	- szpiedzy z Nimros lub Banku, bo stracili kontakt
 	- skarbiec
 		- przeklęta kraina
+			- mapa średnioskalowa
+			- mroczne elfy
+			- ślady po wielkiej bitwie?
+	- kapłani z Barlianbergu runda 3

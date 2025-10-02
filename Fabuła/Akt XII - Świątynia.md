@@ -1,0 +1,61 @@
+# Po naradzie u [[Alex]]a
+- [[Alex]] weźmie na stronę [[Verdnir]]a i [[Voanir]]a
+	- Ale nie będzie mówił bardzo cicho, więc reszta może słyszeć
+	- "Jeśli nasza praca się powiedzie, możecie popłynąć za mną w stronę [[Unia Wolnych Portów]] do naszego wspólnego znajomego"
+	- "Gdyby udało się wam znaleźć artefakt związany z Lathanderem, bardzo by was wynagrodził za przyniesienie mu go"
+	- "Popłyniemy na 2 statki. Wystarczy, że będziecie za mną płynąć"
+# Objawienie [[Brauniel]]a
+- Gdy tylko [[Verdnir]] postawi stopę w [[Eldfield#Świątynia Lathandera]]
+	- Zobaczy swojego patrona unoszącego się pod kopułą świątyni
+		- Jego anielska, łysa twarz jest przeorana bliznami
+		- Szata splamiona czarną krwią i porwana
+	- [[Brauniel]] przywita go
+	- Powie, że tutaj, w domenie jego Pana, może mu się pokazać na oczy bez trudu
+	- Opowie o pierwszym konflikcie z [[Szepczący]]m
+		- [[Szepczący#Historia]]
+		- [[Brauniel#Historia]]
+	- Potem opowie, czego dowiedział się po uwolnieniu się z niewoli
+		- Zasięgnął języka u innych aniołów i półbóstw
+		- [[Szepczący#Cele]]
+		- Najpewniej [[Szepczący]] chce ukraść miejscowy artefakt
+		- Czczony od czasów pokonania [[Balagon]]a
+		- Nie podoba mu się to, bo sdestabilizuje to wiarę w regionie, ale jeśli doprowadzi to do pokonania [[Szepczący]], niech tak się stanie
+	- Ześle błogosławieństwo, na swojego wiernego sługę
+		- 20 temp HP
+	- Podziękuje, że wyparł się [[Ag'dreran]]a w jego imię 
+
+# Spotkanie z [[Prezbiter Rogholm]]
+- Odwołane z powodu śmierci [[Prezbiter Rogholm]]
+- 20.06.555 o 18:00
+	- [[Prezbiter Rogholm]] wraz z [[Ojciec Cornelius]] przyjdą do świątyni z ulicy
+	- Klękną przy jednym z klęczników pod malowidłem Lathandera
+	- Zaczną przed godzinę się modlić, szepcząc pod nosem cicho modlitwy
+- Gdy zaczepią ich gracze
+	- [[Prezbiter Rogholm]] z chęcią wysłucha ich potrzeb
+	- Skojarzy hasło "klucza w Lathandera dłoni"
+	- Zrozumie powiązanie ze smokiem
+	- Jeśli będą chcieli więcej wiedzieć, może wrócić z wiedzą z [[Eldfield#Sakratorium]]
+		- Pójdzie do jednych drzwi
+		- Skinie człowiekowi przy wejściu
+		- Po pół godzinie powróci z wiekowym tomem [[Księga - Upadek Smoczego Tyrana]]
+		- Przeczyta zawartość graczom [[Księga - Upadek Smoczego Tyrana#Treść]]
+		- (Perswazja lub opłata) Może się z nią rozstać
+	- Wspomni o okrągłym i świecącym "Boskim Świetle" ([[Bezpieczny Klucz]])
+	- Poradzi graczom, że dla wielu wiernych kluczem do nowego życia, do odrodzenia, są modlitwy i sakramenty udzielane w tej świątyni
+		- Zaproponuje udzielenie im błogosławieństwa i całonocne modły
+		- Wielu pielgrzymów wraca odrodzonych
+	- (Perswazja) Może zaprowadzić ich przed oblicze "Boskiego Światła"
+# Po napadzie
+- W czasie, gdy gracze zeszli do [[Eldfield#Piwnica]]
+	- [[Alex]] i załoga pełnili rolę stróżów prawa
+	- Zabarykadowali główne wejście do świątyni
+	- Ewakuowali w miarę możliwości okolicę z cywili
+	- Przed drzwiami [[Eldfield#Świątynia Lathandera]] zostali załoganci [[Alex]]a i strażnicy
+- Gdy tylko gracze wystawią nogę z [[Eldfield#Sakratorium]]
+	- [[Voanir]] otrzyma mentalną wiadomość
+		- Kobiecy głos
+		- "Mówi [[Aninyel]]. Główne drzwi zabarykadowane. Obstawione przez strażników. Jest inne wyjście z piwnicy. [[Dybek]] zaprowadzi was do statku."
+	- 
+- [[Alex]] zaproponuje popłynięcie do [[Unia Wolnych Portów]]
+	- Zwłaszcza przypomni [[Verdnir]]owi i [[Voanir]]owi ich rozmowę z wcześniej
+	- Nie będzie ich zmuszał siłą, ale będzie mu zależało
