@@ -1,27 +1,20 @@
 #TODO
 - na teraz
-	- poszukiwanie wyjścia z piwnicy
-	- jakieś konsekwencje ten masakry
-	- ojciec kornelius wake up
-	- co robił alex w międzyczasie
-	- flow ponapadowe
-	- szeptuch
-		- posłaniec topielca po drodze
-		- wzmagające się szepty
-		- sosnowe wybrzeże opis
-		- przebieg rytuału
-		- walka
-			- rytuał w tle
-			- niewidzialni oponenci?
-		- reakcja na przybycie
-			- swojego podopiecznego
-			- podopiecznego brauniela
 - na nastęną
-- na kiedyś
-	- szpiedzy z Nimros lub Banku, bo stracili kontakt
+	- labirynt skalny
+		- siedziba enkhrak
+		- szczelina
+		- mikstura
+		- sprzęt galvandosa
+			- żrąco odporne elementy
+		- warzenie mikstury
+	- krater
+		- ślady po wielkiej bitwie
 	- skarbiec
-		- przeklęta kraina
-			- mapa średnioskalowa
-			- mroczne elfy
-			- ślady po wielkiej bitwie?
-	- kapłani z Barlianbergu runda 3
+		- kluczyk mały zniknie i obudzi smoka
+		- smok najpierw pojawi się jako człowiek?
+		- wykorzystać zdalne granie
+			- dungeona na ślepo?
+			- zagadka graficzna?
+	- epilog
+		- jak grupę zapamięta historia

@@ -1,4 +1,4 @@
-- Kecz/brygantyna
+- Kecz/brygantyna/fregata
 - Nazwany na cześć [[Olimpijczyk]]
 - Pomieszczenia
 	- Kajuta kapitana na pokładzie

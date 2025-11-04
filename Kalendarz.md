@@ -41,7 +41,7 @@
 		- [[Darin]] przed walką zabija [[Froic]]a
 		- Wielka walka ze strażnikami i gladiatorami
 	- Ucieczka przez [[Miasto Nimros]]
-	- Odpłynięcie z [[Nimros]]
+	- Odpłynięcie z [[Miasto Nimros]]
 - 14-16.05.555
 	- Rejs na wschód
 - 17-20.05.555
@@ -127,3 +127,42 @@
 	- Otwarcie drzwi do [[Eldfield#Sakratorium]]
 	- Walka z golemami
 	- Zdobycie [[Bezpieczny Klucz]]
+	- Ucieczka z [[Eldfield]] z pomocą załogi [[Alex]]a
+		- Pozostawienie [[Ojciec Cornelius]]
+		- Wzięcie wersalki z [[Eldfield#Sakratorium]]
+- 21-24.06.555
+	- Rejs do [[Sosnowe Wybrzeże]] za [[Znajoma Kurtyzana]]
+	- Studiowanie [[Księga - Upadek Smoczego Tyrana]]
+- 25.06.555
+	- Przybycie do [[Sosnowe Wybrzeże]]
+	- Spotkanie [[Szepczący]]
+		- Kuszenie graczy
+		- Wielka walka z [[Szepczący]]
+		- Udany rytuał niszczący [[Bezpieczny Klucz]]
+		- Pokonanie [[Szepczący]]
+	- Pakt [[Voanir]]a z [[Brauniel]]em
+	- Walka z załogą [[Znajoma Kurtyzana]]
+		- Śmierć [[Alex]]a
+		- Porwanie i ucieczka [[Dybek]]
+	- Śmierć [[Aninyel]]
+	- Zatopienie [[Znajoma Kurtyzana]]
+- 25-27.06.555
+	- Rejs do [[Wolna Przystań]]
+- 28.06.555
+	- Przybycie do [[Wolna Przystań]]
+	- Negocjacje [[Balladino]] z [[Satorpius]]em
+	- Spotkanie [[Tatuażysta Jacek]]
+	- Próba negocjacji i zwiady u [[Lomnig]]a
+- 29.06.555
+	- Nocny napad na kuźnie [[Lomnig]]a
+		- Śmierć [[Lomnig]]a
+		- Ulepszenie łuku [[Talaran]]a przez [[Brumme]]go
+		- Ulepszenie katany [[Olimpijczyk]]
+	- Bójka z ludźmi [[Bill Łamak]]a
+	- Bunt [[Voanir]]a przeciw [[Darin]]owi
+		- Śmierć [[Brumme]]go
+		- Bójki wewnątrz załogi
+	- Wypłynięcie z [[Wolna Przystań]] w kierunku [[Lagenbach]]
+- 30.06.555
+	- Dalsze sprzeczki pomiędzy graczami
+	- Ucieczka [[Balladino]] ze statku w stronę [[Sosnowe Wybrzeże]]

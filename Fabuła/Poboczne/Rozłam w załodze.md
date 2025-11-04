@@ -1,0 +1,59 @@
+# Ucieczka [[Balladino]]
+- [[Balladino]] uciekł z [[Perłowy Książe]] wyczarowując sobie skrzydła
+- Zaczął lecieć w stronę najbliższego lądu
+	- Okolice [[Sosnowe Wybrzeże]] w [[Unia Wolnych Portów]]
+	- W połowie drogi zobaczył małą osadę rybacką [[Arkala]]
+		- (Percepcja DC 15, czy zobaczy norki)
+	- Teren
+		- Wybrzeża kamienne
+		- Zaraz za nimi teren się lekko podnosi i zaczynają się lasy
+- Jeśli gracze nie będą za nim podążać
+	- [[Kapitan Fuentar]] ich dopadnie po niedługim czasie
+	- [[Balladino]] zobaczy z daleka zbliżający się okręt
+	- Będzie mógł dołączyć do akcji
+- Potrzebuje zużyć jeszcze jedno użycie Fly, żeby dolecieć do lądu
+- Reszta graczy widzi, jak powoli się oddala, aż jest tylko niewielkim punktem na horyzoncie
+	- Ale przez lunetę widać go dobrze
+
+# Wiadomość od [[Ag'dreran]]a
+- [[Darin]], [[Talaran]], [[Olimpijczyk]] otrzymają wiadomość od [[Ag'dreran]]a
+	- "PAMIĘTAJCIE O CELU... W SMOCZYM SZTOSIE I MÓJ SKARB LEŻY... KTO WAM PRZESZKODZI, PAŚĆ MUSI..."
+- [[Voanir]] będzie słyszał te słowa, ale będą jakby przytłumione, przygłuszone
+	- Zaraz potem na ręce pojawi mu się złotymi literami
+	- "Nie słuchaj tego! Topielec na manowce się tylko sprowadzi. Gdy to wszystko się skończy, z pomocą brata poszukaj wybawienia od tej klątwy. Być może ten smoczy sztos pomoże znaleźć sposób?"
+
+# Przybycie do [[Arkala]]
+- [[Balladino]] będzie mógł wylądować w samej wiosce lub na brzegu
+- Mieszkańcy [[Arkala]] podejdą do niego gościnnie
+	- Ale będą chcieli wiedzieć, jakie ma zamiary
+	- Pomyślą, że ma jakiś związek z [[Dybek]]
+	- Zawołają [[Rommi Leśniak]]a
+		- Będzie gościnny
+		- Jeśli [[Balladino]] pozwoli sobie na zbyt wiele, poprosi o rekompensatę
+- Ostatnie zmiany
+	- [[Rommi Leśniak]] lub inni wieśniacy będą zdziwieni ostatnimi wydarzeniami
+		- 2 dni temu ledwo żywy kenku do nich przyszedł
+		- Teraz drakoński bard
+		- Parę dni temu las się trochę uspokoił
+	- Będzie się dało wyciągnąć od nich opowieści o [[Szepczący]]
+		- Parę tygodni temu las się zrobił mało gościnny
+		- Nawet jednego myśliwego coś w lesie porwało, bo nie wrócił
+		- Musieli mocno ograniczyć zbieranie grzybów, ziół i polowania
+		- Zdarzało się nawet, że dziki i wilcy pod samą wioską chodzili
+		- Paru wieśniaków na koszmary narzekało
+			- Że niby drzewa ich napadają
+		- Żadne modły do Sylwanusa nie pomagały
+		- Już mieli po kapłana jakiego posyłać
+		- Ale parę dni temu się uspokoiło trochę
+- W wiosce w jednej z chat leczy się [[Dybek]]
+	- Mieszkańcy zaprowadzą go do niego, jeśli poprosi
+	- [[Dybek]] najpierw pomyśli, że przyszli go ścigać dalej
+		- Ale da się łatwo przekonać [[Balladino]], bo akurat on nie chciał mu krzywdy zrobić
+	- [[Dybek]] jest obandażowany i mocno osłabiony
+		- Pogruchotali go gracze
+		- Uciekając, w lesie musiał uciekać przed wilkami i zrobił sobie krzywdę
+		- Teraz odpoczywa tutaj od 2 dni
+- Jeśli gracze przypłyną statkiem
+	- Dadzą radę jakoś przycumować
+	- [[Rommi Leśniak]] wyjdzie im na powitanie i spyta o zamiary
+	- Wieśniacy będą bardzo potulni i przelęknieni

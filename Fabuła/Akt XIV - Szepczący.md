@@ -1,0 +1,167 @@
+# Spotkanie [[Szepczący]]
+- Gdy tylko [[Darin]] posłucha się lub oprze głosom, zza jednego z menhirów wyjdzie dziwna postać
+	- Niewysoka i chuda, odziana w długą szatę jakby z gałęzi i liści
+	- Z głowy wyrasta jej wielkie poroże
+	- Zamiast głowy jest czaszka
+		- Ni ludzka ni zwierzęca, coś pomiędzy
+	- Pomimo, że jest dzień, postać jest zawsze skryta w cieniu
+	- Nie widać jej ramion
+	- Porusza się powoli i płynnie, jakby sunąc w powietrzu
+- [[Szepczący]] przemówi
+	- Mówi szeptem, ale jakby 10 różnych głosów mówiło naraz
+	- "Przybyli... Sługa Lasu, Słudzy Głębin i Sługa Światła... Przynoszą Boskie Światło i Smoczy Klucz..."
+	- Zrobi dosyć długą pauzę patrząc się na graczy
+	- Powie różne rzeczy różnym osobom w jednym czasie
+		- Gracze niech usłyszą słowa oddzielnie, ale reakcje niech zrobią przy wszystkich
+		- [[Verdnir]]owi
+			- "Sługo Światła... Tu jest twój kres... Zmów ostatni pacierz..."
+			- Na te słowa Strażnik zbliży się powoli do [[Verdnir]]a
+		- [[Voanir]]owi
+			- [[Voanir]]ze... Dopełnij przeznaczenia.... Porzuć morskiego pana i wróć do łask... Chroń rytuał..."
+			- WIS Save DC 20
+				- Uda się i [[Bezpieczny Klucz]] nie jest na ołtarzu
+					- [[Voanir]] jest zobowiązany odebrać klucz i umieścić na ołtarzu
+				- Uda się i [[Bezpieczny Klucz]] jest na ołtarzu
+					- [[Voanir]] czuje wielkie posłuszeństwo wobec [[Szepczący]] i czeka na rozkazy
+				- Nie uda się
+					- [[Voanir]] przeciwstawia się szeptom
+					- Za 2 tury ponowna próba
+		- [[Balladino]]
+			- "Potężny Drakonie... Ofiaruj swą krew menhirom... Pomóż w rytuale... Zostaniesz wynagrodzony...."
+		- [[Talaran]], [[Olimpijczyk]], [[Darin]]
+			- "Słudzy Głębin... Zgładźcie waszego towarzysza, Sługę Światła... Weźcie udział w rytuale... Ofiarujcie krew menhirom... Zostaniecie wynagrodzeni, jeśli porzucicie Morskiego Pana"
+	- Poczeka chwilę i zacznie się walka
+# Walka
+- #Walka
+- 1. faza - Rytuał
+	- Zegar 5 tur na przerwanie rytuału
+		- Zniszczenie menhirów
+		- Lub zadanie min. 10 HP [[Szepczący]] w środku w sferze
+	- Przeciwnicy
+		- Strażnik Lasu CR 5
+		- 2x Awakened Tree CR 2
+		- 2x Giant Boar CR 2
+- 2. faza - [[Szepczący]]
+	- "Nie chcieliście służyć... Zrobicie za nawóz..."
+	- Aktywuje się po ukończeniu lub przerwaniu rytuału
+	- Przeciwnicy
+		- Szepczący CR 10-12
+		- 2x Awakened Tree CR 2
+- Jeśli [[Szepczący]] zginie
+	- Jego ciało rozpadnie się na stos gałęzi i czaszkę jelenia
+		- Ostatni szept "Nic nie ginie..."
+		- Stanie kilka chwil absolutnej ciszy
+		- Pośród tego stosu pulsuje złocisty przedmiot
+			- Serce [[Szepczący]], zamienione w jażący się złocisty kamień, idealnie w kształcie serca
+			- Gorący w dotyku
+			- (Funkcjonalnie [[Bezpieczny Klucz]] + bonusy do testów)
+		- Ziemia pod tym stosem stanie się czarna, ale rośliny urosną trochę
+		- Po paru chwilach dźwięki znowu nastaną
+			- Ptaki zaczną ćwierkać
+			- Będzie atmosfera spokoju, a nie groźnego oczekiwania
+		- Roślinność nie będzie tak gęsta i złowroga
+	- [[Voanir]] dozna objawienia ([[Verdnir]] też będzie to widział)
+		- Przestanie słyszeć szepty, pierwszy raz od miesięcy
+		- Poczuje się słaby i nie będzie mógł używać żadnej ze swoich zdolności
+		- [[Brauniel]] pokaże się mu
+		- "Służyłeś dzielnie światłu, nawet będąc związany z przeklętym bytem. Czy zechcesz to czynić w zgodzie ze swym patronem? Czy dołączysz do brata?"
+		- Jeśli się zgodzi
+			- [[Brauniel]] oficjalnie będzie jego patronem
+			- Odzyska moce
+		- Jeśli nie
+			- Nie bedzie miał mocy
+			- Będzie mógł je odzyskać poprzez pakt z inną potężną istotą, np. [[Ag'dreran]]em
+				- [[Ag'dreran]] zażąda wysoką cenę
+					- (Odcięcie palców, utrata panowania, wyrzucenie magicznego przedmiotu do morza)
+# Rytuał
+- [[Szepczący]] chce odprawić rytuał skutkujący zniszczeniem artefaktu Lathandera ([[Bezpieczny Klucz]]) i wchłonięciem jego mocy
+- Jeśli mu się uda
+	- Stanie się potężniejszy
+	- Właściwości [[Bezpieczny Klucz]] wchłonie jego serce
+		- Złoty blask będzie delikatnie bił z "serca" postaci
+	- Jego celem stanie się znalezienie [[Skarbiec]]
+		- W ten sposób położy ręcę na tylu magicznych przedmiotach, że zrobi kolejny rytuał, żeby przemienić świat w wielką knieję
+		- Wykorzysta do tego graczy, ale będzie chciał ich zabić
+	- Jeśli gracze chcieli go powstrzymać, będzie dalej walczył
+	- Wynagrodzi graczy, którzy się z nim sprzymierzyli
+		- Indywidualna nagroda dla każdego
+- Miejsce
+	- Odprawienie go w miejscu przesiąkniętym mocą [[Szepczący]] przyspiesza go
+	- [[Sosnowe Wybrzeże#Krąg]] nadaje się do tego idealnie
+- Przebieg
+	- Zajmuje 5 rund w walce
+		- Z każdą kolejną [[Bezpieczny Klucz]] będzie powoli pękał
+	- Dobrowolne wylanie krwi na menhir może przyspieszyć rytuał
+	- Wielka mroczna moc jest naciskana na artefakt, powoli go krusząc
+- Ochrona
+	- [[Szepczący]] rzuci dookoła ołtarza ulepszoną wersję Globe of Invulnerability
+		- Blokuje efekty zaklęć
+		- Blokuje wejście wszystkich istot
+		- (Bardzo trudne testy na przełamanie DC 25)
+		- Magiczna esencja, widoczna gołym okiem, płynie z menhirów do sfery
+	- Ochrona jest podtrzymywana przez 8 menhirów
+		- Każdy z nich można wyłączyć
+			- Niszcząc go (15 HP, 16 AC)
+			- Błogosławiąc go
+			- Przemieszczając go
+			- Usuwając z niego magię
+		- Gdy wszystkie będą zniszczone, sfera rozprasza się
+		- Zniszczenie każdego z menhirów obniża test na przełamanie bariery o 1 DC
+
+# Konfrontacja z [[Alex]]em
+- POV [[Alex]]a
+	- Wierzył, że [[Verdnir]] i [[Voanir]] służą [[Szepczący]]
+	- Miał nadzieję, że cała załoga dołączy do jego służby
+	- Chciał zdać raport swojemu panu i zapytać o następne kroki
+		- Ale wiedział, że najpierw musi poczekać na graczy
+		- Wiedział, że mogą nie wyjść z tego żywi
+		- Miał nadzieję, że [[Szepczący]] przyjmie artefakt i graczy
+	- W pewnym momencie poczuł nasilenie szeptów, niektóre nawet wołały o pomoc
+		- Postanowił wyruszyć na pomoc swojemu Panu
+		- Dojdzie do [[Sosnowe Wybrzeże#Krąg]] po jakiejś godzinie
+		- Albo spotka się z graczami w połowie ścieżki do przystani
+- Spotkanie
+	- [[Alex]] i załoga będą zdenerwowani
+		- Będzie podejrzewał, co się stało
+	- Spyta, co się stało
+	- Będzie zszokowany i wściekły
+		- Jakiekolwiek zniechęcenie go do boju DC 20
+	- "Pan Lasu dał mi karierę, dał mi własny statek, dał mi cel w życiu... Kim bym się stał, gdybym tego go za to nie pomścił!?"
+	- Potencjalnie #Walka
+		- [[Łapa]] Goliath Gladiator CR 6
+		- [[Aninyel]] Mage CR 6
+		- [[Dybek]] Rogue Kengu CR 4
+		- [[Alex]] Warlock of the Archfey CR 3 (Ale tak naprawdę CR 1)
+- Potencjalny loot
+	- 5d100 gp
+	- Drewniany naszyjnik z wystruganym porożem
+	- Niewielki pęk kluczy
+
+# Wypłynięcie z [[Sosnowe Wybrzeże]]
+- Przed wyruszeniem z portu, [[Dybek]] się wybudzi
+	- Powie kobiecym głosem "Bądźmy rozsądni. Co chcecie za moją wolność?"
+	- Nie będzie się wyrywać
+	- Co może zaoferować
+		- 250 gp ze statku / majątku [[Alex]]a
+		- Rękawice Bojowe +1
+	- Co chce
+		- Zostać zostawionym na pokładzie [[Znajoma Kurtyzana]]
+	- Rekrutacja
+		- Będzie oporny (DC 15 albo mnóstwo siana)
+- [[Znajoma Kurtyzana]] będzie dalej zacumowana w przystani
+	- Loot
+		- 5d100 gp
+		- Kluczyk znaleziono na ciele [[Alex]]a pozwoli otworzyć kilka skrzyń na [[Znajoma Kurtyzana]]
+			- 5d100 gp
+		- Rękawice Bojowe +1
+- [[Othelic]] spyta o kurs
+	- Jeśli to będzie [[Miasto Nimros]]
+		- Otrzeże kapitana o możliwych konsekwencjach
+		- Najpewniej ich tam szukają
+		- Zapoponuję zmianę bandery
+	- Jeśli to będzie [[Przeklęta Równina]]
+		- Zaproponuje zatrzymanie się w [[Lagenbach]] lub okolicach
+			- Będzie tam mniejszy ruch i jest to z dala od stolicy
+			- Można stamtąd wynająć łódź i podpłynąć w górę rzeki
+			- Dalej można podróżować szlakiem handlowym z [[Drakonia]], a potem pieszo do samej [[Przeklęta Równina]]
+- Pierwsze 2 dni podróży miną spokojnie

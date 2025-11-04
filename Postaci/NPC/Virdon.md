@@ -1,0 +1,1 @@
+Niziołek majordom i zarządca artefaktów [[Satorpius]]a.

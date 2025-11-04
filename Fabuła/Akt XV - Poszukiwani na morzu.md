@@ -1,0 +1,81 @@
+
+# Spotkanie [[Kapitan Fuentar]]
+- Zwiadowca da znać [[Othelic]]owi, że widzi statek za nimi na kursie kolizyjnym
+	- Statek pod banderą [[Hatamia]]
+	- (Testy na Percepcję po więcej szczegółów)
+		- Będzie to [[Czerwony Pokutnik]]
+		- Będzie poruszał się zauważalnie szybciej od statku graczy
+		- Żagle będą wydęte, pomimo niskiego wiatru
+- Jeśli statek zbliży się na ok. 400-500 m
+	- Gracze usłyszą krzyki przebijające się wśród fal
+	- Głos donośny, w jakiś sposób wzmociony i ukierunkowany
+	- "W IMIĘ PANA ŚWIATŁA, ZWOLNIJCIE OKRĘT! POBOŻNI LUDZIE NIE MAJĄ NIC DO UKRYCIA, A NIEGODNE SZUMOWINY UCIEKAJĄ OD PAŃSKIEGO ŚWIATŁA!"
+	- W przypadku braku reakcji
+		- "INNOWIERCY I GRZESZNICY! TO OSTATNIE OSTRZEŻENIE! STAWCIE SIĘ POD SĄD BOŻY, ALBOWIEM ON NADSZEDŁ. ALBO POZNAJDZIE PALĄCĄ DŁOŃ NAJGORLIWSZEGO SŁUGI!"
+
+# Walka morska
+- 1 ft - 1 metr w skali świata
+	- Statki zaczynają ok. 400 ft od siebie
+- Poruszanie się
+	- Max 100 ft w linii prostej - [[Perłowy Książe]]
+		- [[Czerwony Pokutnik]] 125 ft
+	- Skręty obniżają tą wartość
+		- Min 50 ft [[Perłowy Książe]]
+		- Min 60 ft [[Czerwony Pokutnik]]
+	- Skręty muszą być po okręgu (min 30 ft promienia), a nie w miejscu
+- Strzelanie
+	- Na pokładzie [[Czerwony Pokutnik]] jest zamontowana balista
+		- Zasięg 200 ft
+		- Nie może strzelać do tyłu
+		- 1/2 na trafienie
+			- 1/4 na trafienie członka załogi, potem rzut d8
+				- 1-7 gracz załogi alfabetycznie
+				- 8 inny załogant
+			- W przeciwnym wypadku bełt wbija się w burtę i spowalnia statek o 10 ft
+			- Po 8 strzałach mogą szybko zatonąć 
+	- Na pokładzie [[Perłowy Książe]] jest folgierz
+		- Zasięg 150 ft
+		- Zamocowany po lewej burcie
+		- 2/3 na trafienie
+			- 1/4 na trafienie członka załogi
+				- Umiera jeden marynarz wtedy
+			- W przeciwnym wypadku kula uderza w burtę i spowalnia statek o 5 ft
+			- Po 12 strzałach może zatonąć
+- Tury
+	- Inicjatywa [[Darin]]a vs inicjatywa [[Kapitan Fuentar]]a
+	- Zrobienie czegoś ponad program wymaga testów
+	- Dać graczom szansę robienia czegoś
+	- Tura to ok. 30s
+	- Strzał podczas zakrętu lub gdy przeciwnik zakręca jest z utrudnieniem
+# Abordaż
+- Gdy gracze będą blisko drugiego statku
+	- 2 postaci w jasnych długich szatach zaczną melodyjnie odprawiać modły wokół postaci w ciężkiej zbroi
+	- Zaraz potem postać powiększy się znacznie, do ok. 3m wzrostu
+- Zasady
+	- Zobrazować pozycję statków na mapce walki
+	- Załoga [[Perłowy Książe]] uproszczona
+		- Każdy pomniejszy wróg ma 1/3 szansy, że będzie związany walką z marynarzem [[Perłowy Książe]]
+			- Jeśli będzie na tamtym pokładzie
+			- Jeśli nie będzie już związany walką z graczami
+			- Traci wtedy turę
+			- 1/2 szansy na utratę 1d6 HP
+	- #Walka 
+		- [[Kapitan Fuentar]] Fallen Paladin CR 8
+		- 2x Priest CR 2
+		- 10x Sailor CR 1/4
+- Loot
+	- Kamerton Krykacza
+		- Działa we wskazanym kierunku
+		- 3 wypowiedzi dziennie
+	- 10d100 gp
+	- Bandera [[Hatamia]]
+	- Marynarze, którzy przeżyli + 4 spod pokładu
+	- 6x woda święcona
+	- 50x prowiant
+- Jeśli gracze się poddadzą
+	- [[Kapitan Fuentar]] oskarży ich o kradzież świętych relikwi z [[Eldfield]]
+	- [[Ojciec Cornelius]] pełen żalu będzie pytał dlaczego to zrobili
+	- [[Kapitan Fuentar]] opowie, jak [[Ojciec Cornelius]] od Lathandera otrzymał możliwość ich śledzenia
+	- [[Kapitan Fuentar]] zarządzi przeszukanie statku
+	- Ostatecznie uzna, że to wystarczy na egzekucję i będzie chciał zgładzić załogę
+	- Jak tu nie będzie walki to nie wierzę w ludzi

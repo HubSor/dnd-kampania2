@@ -1,0 +1,33 @@
+- Fregata [[Kapitan Fuentar]]a pod banderą [[Hatamia]].
+- Pomieszczenia
+	- Kajuta kapitana na pokładzie
+	- Górny podpokład
+		- Kajuty załogi
+		- 2 małe klatki
+		- Kuchnia
+	- Dolny podpokład
+		- Ładownia
+- Statystyki
+	- Załoga
+		- 20 osób (1 oficer + 6 graczy + 13 marynarzy)
+	- Wymiary
+		- 40m x 10m
+		- Do tego długi dziób
+	- Średnia prędkość
+		- Na godzinę
+			- 6 węzła
+			- 7 mile
+			- 11 km
+		- Dziennie (20h rejsu)
+			- 140 mile
+			- 220 km
+	- Pojemność
+		- 35 t
+		- 65 000 lbs
+		- 125 skrzyń
+		- 50 osób bez przeludnienia
+
+# Wygląd
+- Dwumasztowa uniwersalna fregata
+	- Podobna do [[Perłowy Książe]]
+- Na większych żaglach jest namalowane wielkie, złote słońce

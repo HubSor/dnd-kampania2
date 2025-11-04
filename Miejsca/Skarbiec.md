@@ -3,7 +3,7 @@ Sekretne miejsce, w którym [[Balagon]] ukrył uratowaną część swojego bogac
 # Historia
 - Rękami zniewolonych [[Balagon]] zbudował Skarbiec i ukrył go przed światem
 	- Zabił wszystkich budowniczych
-	- Ukrył tam ok. 1/3 pierwotnej fortuny]]
+	- Ukrył tam ok. 1/3 pierwotnej fortuny
 - Aby otworzyć skarbiec, potrzeba 3 kluczy
 	- Każdy z nich został zabezpieczony w inny sposób
 		- [[Nieosiągalny Klucz]]

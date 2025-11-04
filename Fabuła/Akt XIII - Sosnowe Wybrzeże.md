@@ -1,0 +1,86 @@
+# Rejs do [[Sosnowe Wybrzeże]]
+- Rejs 420 mil od [[Eldfield]]
+	- 4,5 dnia
+	- Przybycie rano 25.06, jeśli wypłyną wieczorem 20.6
+- Cały czas gracze płyną za [[Znajoma Kurtyzana]]
+	- Trzymają się kilkaset metrów za slupem
+	- Nie muszą wytyczać trasy
+	- Nie mogą rozwinąć pełnej prędkości
+- Widzą z daleka sporo statków
+	- Głównie pomniejszych jednostek rybackich
+	- Kilka średnich handlowych
+- [[Voanir]] słyszy szepty
+	- Podobnie jak w porcie w [[Eldfield]]
+	- Gdy odwraca się na południowy wschód, szepty się nasilają
+	- Czujesz się jak pewnego rodzaju kompas
+
+# Przybycie do [[Sosnowe Wybrzeże]]
+- [[Sosnowe Wybrzeże#Z daleka]]
+- Jest bardzo pochmurny dzień, słońca nigdzie nie widać
+- [[Znajoma Kurtyzana]] poprowadzi [[Perłowy Książe]] do przystani w jaskini
+	- [[Sosnowe Wybrzeże#Przystań w jaskini]]
+- Po zacumowaniu w skromnej przystani
+	- [[Alex]] poprowadzi graczy tunelem
+	- Poprosi o niehałasowie, gdyż las lubi ciszę
+	- Tunel
+		- Niezbyt długi, może 50m
+		- Cały obrośnięty korzeniami
+- Przybycie do chatek
+	- Graczom ukażą się [[Sosnowe Wybrzeże#Chatki]]
+	- [[Alex]] powie, że tutaj on i jego załogą poczekają na nich
+		- Najpierw Pan Lasu przyjmie graczy, gdyż chce ich wynagrodzić
+		- (Jeśli przyznają się do artefaktu)
+			- Na pewno będzie chciał też zobaczyć ukradzioną relikwię
+		- Gdy wrócą, będzie jego kolej
+		- Ma nadzieję, że to tylko początek owocnej współpracy
+		- Muszą poczekać na Strażnika Lasu, który ich zaprowadzi
+- Spotkanie Strażnika Lasu
+	- Po parunastu minutach usłyszą głośne kroki oraz trzeszczenie drzew
+	- Zobaczą wysoką postać Strażnika
+		- Ok. 2m
+		- Humanoidalny drzewiec
+		- Zamiast kończyn ma gałęzie
+		- Zamiast tarczy nosi kawałek pnia
+		- W jednej ręce gruby sęk jak maczuga
+		- Korpus niczym pień drzewa
+			- W nim 2 otwory, w któych świecą się żółte światła, jak oczy
+		- Porośnięty hubą i mchem
+		- Z każdym krokiem słychać skrzypienie drewna i kory
+		- WRZUCIĆ ZDJĘCIE
+	- Strażnik wskaże maczugą na graczy i obróci się w stronę lasu
+
+# Droga w głąb lasu
+- [[Sosnowe Wybrzeże#Las]]
+- Droga
+	- Rośliny rozstępują się przed Strażnikiem, nawet drzewa zdają się delikatnie odsuwać
+	- Tuż za graczami znowu się zasklepiają, stanowiąc gęstą barierę
+	- Idą tak przez godzinę
+	- Słychać tylko szum i skrzypienie drzew na wietrze
+	- Nie słychać żadnych zwierząt
+- [[Voanir]]
+	- Szepty nabierają na sile
+	- Teraz czujesz się jakby ciągle tłum osób szeptał do ciebie
+	- Jest to bardzo deprymujące
+	- (WIS Save DC 15) albo Exhaust 1 (disadvantage tylko na ability checki)
+
+# Dotarcie do Kręgu
+- [[Sosnowe Wybrzeże#Krąg]]
+- Po ok. godzinie wędrówki w ciszy, gracze dochodzą do Kręgu
+	- Pierwsza polana w tym lesie, jaką widzą
+	- Gęsta roślinność niczym ściana, odgradza Krąg od lasu 
+	- Nie widać nikogo
+	- Strażnik podejdzie do Kręgu i stanie na uboczu, za jednym z menhirów
+- Gracze mają dłuższą chwilę na eksplorację
+	- Ołtarz jest pusty
+	- Las jest cichy, ale delikatnie pulsuje
+- Głośne szepty dosięgają [[Darin]]a
+	- "POŁÓŻ KLUCZ NA OŁTARZU, POŁÓŻ BOSKIE ŚWIATŁO W ŚRODKU KRĘGU"
+	- WIS Save DC 20
+		- Jeśli nie uda się
+			- [[Darin]] wbrew własnej woli powoli wyciągnie [[Bezpieczny Klucz]] z sakwy i położy na ołtarzu
+			- [[Ag'dreran]] powie mu w głowie
+				- "GŁUPCZE, NIE SŁUCHAJ SIĘ LEŚNEGO DIABŁA"
+				- Głos ledwo słyszalny, znacznie słabszy nić wcześniej
+		- Jeśli uda się
+			- Ręka [[Darin]]a powędruje do torby, ale oprze się głosom
+- Zaraz potem las przestanie wydawać jakiekolwiek dźwięki, zapadnie nienaturalna cisza

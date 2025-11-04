@@ -1,5 +1,6 @@
 Wysoka elfka czarodziejka z załogi [[Alex]]a.
 Mage 6 CR
+Zabita przez [[Darin]]a.
 
 # Historia
 - Uciekła z [[Amhrahil]], by studiować w [[Arrenberg]]u

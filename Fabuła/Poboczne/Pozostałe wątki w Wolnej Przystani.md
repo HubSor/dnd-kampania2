@@ -1,0 +1,41 @@
+# Wykuwanie broni w kuźni [[Lomnig]]a
+- [[Lomnig]] po śmierci okłamał graczy
+	- Nie można założyć 2 run na jedną broń
+	- Tylko legendarni arcymistrzowie krasnoludzcy dokonali tej sztuki
+	- (Przy bardzo wysokich rzutach pozwolić graczom)
+- Runy
+	- Zielona znajduje się w łuku [[Talaran]]a
+	- Niebieska została zniszczona w kuźni
+	- Gracze mają przy sobie jeszcze 2 runy
+		- Fioletową i zielona
+		- (Dają +1 i jakiś mały efekt do broni)
+- Wymaga 3 osób
+	- Jedna operuje miechem
+	- Druga operuje piecami i przełącznikami
+	- Trzecia fizycznie łączy broń z runą
+
+# Reakcja na hałasy
+- [[Lomnig]] próbował uciec od graczy
+	- Narobił przy tej okazji mnóstwo hałasu
+	- Krzyczał z bólu i wołał o pomoc i krzyczał o złodziejach
+- W pewnym momencie ktoś głośno 3 razy zastukał w drzwi
+	- Potem nastąpi krzyk "LOMNIG, JESTEŚ TAM? LOMNIG, CO TO ZA HAŁASY?"
+- Jest to jeden z ludzi [[Bill Łamak]]a, który pełni wtedy wartę w okolicy
+	- Gburowato wyglądający człowiek z pochodnią
+- Jak go obejść
+	- Można go zwieść udając [[Lomnig]]a, ale test jest b. trudny (DC 20)
+	- Można przekupić
+	- Jeśli nie będzie odwiedziony, pobiegnie szybko po wsparcie
+		- Wróci z jeszcze 4 chamami i wywalą szybko drzwi, ale jeden zostanie na zewnątrz
+	- Spróbuje pojmać graczy i zanieść [[Bill Łamak]]owi
+- Jeśli gracze uciekną i nie pobiegną od razu do statku
+	- [[Bill Łamak]] z ekipą będą czekali na nich w porcie
+		- Bardzo liczna banda zbirów i chamów
+	- [[Bill Łamak]] przedstawi się i zarząda rekompensaty
+		- [[Lomnig]] grzecznie płacił znaczny haracz
+- Potencjalna #Walka
+	- Gladiator CR 5 ([[Bill Łamak]])
+	- 2x Veteran CR 3
+	- 2x Spy CR 1
+	- 6x Thug CR 1/2
+	- 4x Scout CR 1/2

@@ -14,7 +14,7 @@
 	- Pozbawieni narzędzi
 - 3 krasnoludów szkutników
 	- Ich szefem [[Garkun Lunvukh]]
-	- Poza nim jeszcze Hurdan i Brumme
+	- Poza nim jeszcze Hurdan i [[Brumme]]
 		- Jego pomocnicy
 - W pewnym momencie zaczną uderzać w drzwi i domagać sie wypuszczenia
 	- Załogant ostrzeże [[Darin]]a o tym

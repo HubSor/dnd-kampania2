@@ -1,4 +1,5 @@
 Jeden z 3 kluczy potrzebnych do otwarcia [[Skarbiec]]. Jest umieszczony w [[Eldfield#Świątynia Lathandera]].
+Wchłonięty w mrocznym rytuale przez [[Szepczący]].
 # Wygląd
 - Owalny, złoty kryształ wielkości dłoni
 - Delikatnie świeci w ciemności
@@ -11,3 +12,8 @@ Jeden z 3 kluczy potrzebnych do otwarcia [[Skarbiec]]. Jest umieszczony w [[Eldf
 - Wierni nazywają ten przedmiot "Boskim Światłem"
 - Od lat jest ukryty w [[Eldfield#Sakratorium]] i dostępny tylko najzagorzalszym wiernym
 - Ponoć wywołuje wizje wspaniałej krainy, wielkiego bogactwa i szczęścia w najwierniejszych
+
+# Zniszczenie
+- [[Szepczący]] odebrał go [[Darin]]owi i rozpoczął na nim mroczny rytuał
+- Rytuał zniszczył fizyczny obiekt
+- Jego właściwości zostały wchłonięte przez [[Szepczący]], dając mu dodatkową moc

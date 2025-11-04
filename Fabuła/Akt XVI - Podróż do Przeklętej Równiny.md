@@ -1,0 +1,125 @@
+# Podróż morska
+- 120/130 mil ~ 193/215 km ~ 250 stóp dziennie
+- Bez przeszkód
+# Podróż lądem
+- 4 mile / 6 km na godzinę
+- 30 mil / 48 km dziennie 
+- Rzeką 2 razy szybciej ~ 60 mil / 96 km dziennie
+	- [[Perłowy Książe]] czy też [[Czerwony Pokutnik]] nie nadaje się do rzecznej żeglugi
+
+# Przybycie do miasta w [[Nimros]]
+- PRZYPOMNIEĆ O PROWIANCIE
+- Na tablicy ogłoszeń będzie można znaleźć ogłoszenie poszukujące [[Darin]]a
+	- Poszukiwany żywi
+	- Doprowadzić do posterunku straży
+	- Nagroda 100 gp
+	- Poszukiwany za morderstwo, rozruby i konszachty z zagranicznymi siłami
+	- Być może w towarzystwie załogi
+	- Portret przedstawia łysego, roześmianego człowieka z glewią
+- Nie od razu miejscowi skojarzą z ogłoszeniem
+	- Minie parę godzin
+	- Kilku miejscowych po cichu wskaże go strażnikom
+	- Strażnicy w liczbie 2-4 podejdą i rozkażą się poddać
+		- (Łatwi do zastraszenia)
+- W wypadku skrajnej eskalacji
+	- Sporo strażników
+	- Jakiś miejscowy kapłan
+	- Kilku elitarnych łuczników / weteranów
+	- Ewentualnie po prostu kilka godzin wolnej ręki po zastraszeniu miejscowych
+- Potencjalni szpiedzy
+	- Jeśli załoga nie będzie się kryć
+	- Kilku niepozornych chłopów podążających za graczami 
+- [[Othelic]] zaproponuję dyskrecję
+	- Jeśli gracze nie zmienią bandery
+	- Zapyta o zamiary
+		- Pomimo, że miał nie zadawać pytań
+	- Zaproponuje, że może odbić od portu, żeby nie wyglądało to podejrzanie
+	- Tydzień w zamtuzach i karczmach to dostatecznie dużo, potem chłopaki nie chcą w ogóle wypływać
+	- Jakiś umówiony sygnał na powrót?
+
+# Podróż rzeczna
+- W [[Lagenbach]] lub innej portowej miejscowości łatwo wynająć barkę
+	- 5 gp per osoba per dzień
+	- Bez prowiantu
+- Gracze mogą łatwo spotkać [[Gregor Koch]]a
+	- Zgodzi się bez problemu na przewóz
+	- Będzie chciał jeszcze poszukać innych pasażerów
+		- Żeby pełny załadunek zrobić
+		- Będzie się go dało z tego wyperswadować złotem
+- Podróż
+	- [[Gregor Koch]] zgodzi się wysadzić ich na przecięciu ze szlakiem handlowym na równinie
+	- 3 dni spokojnego rejsu
+	- Teren
+		- Najpierw dosyć wzgórzyście i chłodno
+			- Lasy iglaste, mgły i deszcze
+		- Potem coraz równiej i cieplej
+		- Na koniec już praktycznie trawiasta równina
+			- Z rzadka jakieś zagajniki albo wzniesienia
+
+# Śledzeni
+- Jeśli gracze nie zachowają absolutnej ostrożności
+	- Np. zawsze przebrania i fałszywe imiona
+- Śledziciele
+	- 3 przeciętnie wyglądająych chłopów
+	- Proste ubrania
+	- Mało bagażu, pojedyncze torby
+	- Podejrzanie bogaci, ale się z tym kryją
+	- Nie chcą mówić o celu podróży
+	- Trzymają się razem i obserwują często graczy
+	- W cholewach mają sztylety
+	- 2 z nich ma donosić do urzędników [[Nimros]]
+		- [[Lord Frank Pott]]
+		- Mają co jakiś czas zostawiać znaki w umówionych miejscach
+	- 1 z nich dodatkowo donosi [[Bank Winifredów]]
+		- Wyposażony w Sending Stone
+- Możliwe sytuacje
+	- Inni pasażerowie na barce
+	- Mniejsza łódź płynąca za barką po rzece
+	- Wędrowcy z osłem na szlaku
+- Konsekwencje
+	- Stopień śledzenia determinuje trudność spotkania z oddziałem rycerzy na szlaku
+
+# Spotkanie z rycerzami
+- Idąc w stronę [[Przeklęta Równina]], graczy spotka oddział wojskowy z [[Nimros]]
+	- Wszyscy konno, z kilkoma wierzchami na zapas
+	- Przewodzi im [[Sir Wilhelm Ebelhart]]
+	- Niekórzy z nich to rycerze, odziani w ciężkie zbroje
+- (Brak śledzenia)
+	- Nie mają pojęcia, kim są gracze
+	- Zatrzymają się z trywialnego powodu
+		- Bo zobaczą [[Talaran]]a i Denara
+		- Żeby spytać, czy nie widzieli wojskowego obozu
+			- Szukają pewnego oddziału w tej okolicy
+	- Będzie to tylko kilku rycerzy
+	- Potencjalna #Walka 
+		- 4x Warhorse CR 1/2
+		- 3x Knight CR 3
+		- 1x Experienced Knight CR 4
+- (Słabe śledzenie)
+	- Będą szukać po prostu podejrzanych ludzi, a gracze na takich będą wyglądać
+	- Wezmą graczy na spytki
+		- Dosyć łatwo ich oszukać
+		- Mogą ich aresztować
+	- Wśród nich jeden mag
+	- Potencjalna #Walka 
+		- 5x Warhorse CR 1/2
+		- 3x Knight CR 3
+		- 1x Experienced Knight CR 4
+		- 1x Mage CR 6
+- (Dobre śledzenie)
+	- Z daleka rozpoznają graczy
+	- Od razu otoczą ich
+	- [[Sir Wilhelm Ebelhart]] wyrecytuje rozkaz aresztowania i nie da szansy na negocjacje
+	- Wśród nich wielu rycerzy i mag
+	- Potencjalna #Walka 
+		- 6x Warhorse CR 1/2
+		- 4x Knight CR 3
+		- 1x Experienced Knight CR 4
+		- 1x Mage CR 6
+- Loot
+	- Zależy od trudności
+	- Zestaw do wystawiania lub fałszowania dokumentów
+	- Ciężkie zbroje
+	- Długie miecze
+	- 10x prowiant
+	- Sporo golda

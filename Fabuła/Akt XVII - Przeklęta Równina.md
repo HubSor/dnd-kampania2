@@ -1,0 +1,126 @@
+# Podróżowanie po mapie
+- 1 hex ~ 4km
+- Przejście 2 hexów ~ 2h
+- Po trudnym terenie liczyć podwójnie
+- Sterować graczami, by najpierw trafili
+	- Wieża
+	- Jezioro
+	- Labirynt
+# Opuszczona wieża
+- Zrujnowane lokum [[Galvandos]]a
+- Wygląd
+	- Wyrastająca ponad horyzont jak samotna igła
+	- Zrobiona z kamienia
+	- 3 piętra
+	- Pogrążona w ruinie
+		- Wybite szyby
+		- Mnóstwo dziur w dachu, podłodze czy ścianach
+		- Drewniane elementy mocno uszkodzone
+- Rozkład
+	- Parter to było niegdyś piętro gościnne
+	- Pierwsze to sypialnia
+	- Drugie to pracownia, z której najmniej zostało
+- Co można znaleźć w środku
+	- Jeszcze większą ruinę niż widać z zewnątrz
+	- Wszystkie meble w ruinie: połamane albo rozkładające się
+	- Same rozkładające się okładki z książek
+		- Strony były wyrwane
+		- Tytuły wskazują na dzieła alchemiczne, zielarskie i magorzemieślnicze
+	- Mnóstwo rozbitych i uszkodzonych przyrządów i narzędzi
+		- (Investigation) to części aparatury do ważenia mikstur
+	- Fragment jakiejś receptury wyryty na ścianie niedbale
+		- Wspomina o wydzielinie z `tenebris luto` , magmie i zkwaszonej wodzie
+		- Nie jest napisane, co dalej z tym zrobić
+	- (Testy Investigation DC 15) Powyrywane strony z dziennika
+		- "Dzień 344. Prace nad neutralizacją toksycznej mgły dalej nieskuteczne. Być może zbadanie okazu `tenebris luto` okaże się pomocne."
+		- "Dzień 365. Próba schwytania `tenebris luto` okazała się nieskuteczna. Podróż do jeziora była wielką pomyłką. Obawiam się reakcji tubylców."
+		- "Dzień 56. Ukończyłem budowę swojej wieży. Nie znalazłem lepszego miejsca niż tutaj. Skalny labirynt jest chyba nawiedzony albo zamieszkany. A przy jeziorze zbyt łatwo spotkać toksyczne mazie. Pora zneutralizować tą toksyczną mgłę i zobaczyć, co kryje"
+		- "Dzień 422. Dzień 18 oblężenia. Opadam z sił. Niedługo tubylcy zniszczą wieżę lub przełamią moją obronę. Porozumiewają się dziwnym, gardłowym językiem. Mam nadzieję, że moi następcy nie skończą jak ja. [[Galvandos]]."
+		- "Dzień 254. Jestem pewny, że tubylcy mnie widzieli. Nie jestem pewny, czy wiedzą, że ja też ich widziałem. Zamiary nieznane, lepiej trzymać się z daleka."
+		- "Dzień 418. Dzień 14 oblężenia. Tubylcy dysponują potężniejsza magią niż myślałem. [[Przeklęta Równina]] musiała przyznać im możliwości magiczne. Obawiam się, że długo mi nie zostało."
+		- "Dzień 401. Widzę coraz więcej tubylców w pobliżu mojej wieży. Próby nawiązania kontaktu nie powiodły się. Najlepiej będzie przygotować się na walkę."
+
+# Jezioro
+- Z daleka widać okolicę bardziej zamgloną niż inne
+	- Inny rodzaj mgły niż toksyczny wyziew ze środka
+	- Czuć dużą wilgość, ale i mocny kwasowy odór
+- Wiele gejzerów w okolicy
+	- Bez ostrzeżenia wyrzucają mnóstwo gorącej, żrącej pary w powietrze z głośnym sykiem
+	- Niektóre są duże, ale niektóre są raptem małą szczeliną w skale gruntowej
+	- Przez nie, w okolicy jest bardzo gorąco
+- Akwen
+	- Raczej zbiór luźno powiązanych jeziorek
+	- Każde jest płytkie i otoczone skałami
+	- Nie widać żadnego życia
+	- Woda
+		- Piekielnie gorąca i żrąca
+		- Mętna
+		- Zupełnie nieruchoma
+- Mazie
+	- Najłatwiej zwabić je naruszając nieruchomą taflę wody
+		- Wtedy całą chmarą napadają ofiary
+	- Potrafią też śledzić przybyszy
+		- Potem atakują, gdy zbierze się ich dostatecznie dużo
+- #Walka
+	- 2x Black Pudding (`tenebris luto`) CR 4
+	- 2x Ochre Jelly CR 2
+	- 2x Gelatinous Cube CR 2
+	- Ewentualnie dodać więcej
+	- Woda
+		- Wejście lub zaczęcie tury w wodzie zadaje 2d6 acid
+	- Co turę losowe 2 gejzery wybuchają jak gejzery
+		- Zadając 4d8 acid
+	- Z każdej mazi zostaje mała kałuża żrącego płynu
+# Labirynt skalny
+- Wygląd z daleka
+	- Widać teren upstrzony wysokimi i ostrymi skałami z daleka
+	- Wyrasta niczym gęsty last
+	- Na skałach czasem coś się błyszczy
+- Wygląd z bliska
+	- Skały układają się niczym labirynt
+	- Czasami pomiędzy nimi są szczeliny na palec, a czasami można przejść
+	- Niektóre przejścia wyglądają jakby płynęła kiedyś tam woda
+	- Inne wyglądają jakby były zrobione ludzką ręką
+		- (Percepcja) można zobaczyć nawet ślady po kilofie
+- Eksploracja labiryntu
+	- [[Skalny Labirynt.png]]
+	- Groby
+		- Kilkanaście małych stosów kamieni
+		- W każdy z nich wbity kij
+		- Kije obleczone szmatami, niektóre z nich pokrwawione
+	- Zagubione instrumenty
+		- Kilka kawałków metalowych na ziemi
+		- (Investigation) to części sprzętu [[Galvandos]]a
+	- Szczelina
+		- Wąska szpara pomiędzy skałami
+		- Widać przez nią kryjówkę [[Enk'hrak]]
+			- #TODO
+		- Używając odpowiednio dużej siły, można ją wyłamać, by dało się przejść
+	- Atak [[Enk'hrak]]
+		- (Rzuty na skradanie) kilku [[Enk'hrak]] śledzi graczy chodząc górą skał
+		- Napadną na graczy, odgradzając im drogę, skąd przyszli
+		- #Walka
+			- #TODO
+	- [[Enk'hrak]] uciekający przed graczami
+		- (Rzut na skradanie z utrudnieniem)
+			- Jeśli nie wyjdzie, gracze zobaczą postać [[Enk'hrak]] szybko czmychającą po skałach w stronę centrum
+	- Kwarcowe kryształy
+		- Na ziemi leżących kilka błyszczących kryształów
+		- (Investigation)
+			- To one spowodowały te błyski widziane z daleka
+	- Kryjówka [[Enk'hrak]]
+		- Wygląd
+			- #TODO
+		- Reakcja na graczy
+			- Jeśli zobaczą wcześniej, #Walka
+			- Jeśli nie, #TODO
+		- Warzenie mikstury
+			- Przyrządy [[Galvandos]]a
+			- #TODO
+
+# Centralny krater
+- Spowity gęstym toksycznym wyziewem, który uniemożliwia podróż
+	- Chyba, że przyrządziło
+- Teren dookoła niego jest bardzo nierówny i skalisty
+- Skrywa w sobie wejście do [[Skarbiec]]
+	- #TODO

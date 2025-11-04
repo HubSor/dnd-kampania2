@@ -55,7 +55,37 @@
 	- [[Voanir]] otrzyma mentalną wiadomość
 		- Kobiecy głos
 		- "Mówi [[Aninyel]]. Główne drzwi zabarykadowane. Obstawione przez strażników. Jest inne wyjście z piwnicy. [[Dybek]] zaprowadzi was do statku."
-	- 
-- [[Alex]] zaproponuje popłynięcie do [[Unia Wolnych Portów]]
-	- Zwłaszcza przypomni [[Verdnir]]owi i [[Voanir]]owi ich rozmowę z wcześniej
-	- Nie będzie ich zmuszał siłą, ale będzie mu zależało
+- [[Dybek]] będzie czekał pod oknem w piwnicy
+	- Okno będzie zakratowane, ale bez szyby
+	- Przed nim, na dworze ustawionych jest kilka skrzyń, zasłaniających [[Dybek]], patrzącego do środka
+	- Można wyłamać kratę (Atletyka DC 15)
+	- Gdy tylko gracze wyjdą, [[Dybek]] wyda z siebie 3 okrzyki mewy
+		- 2 krótkie, jeden długi
+		- Umówiony znak do [[Alex]]
+- Pomiędzy oknem a uliczą będzie kilkanaście metrów otwartej przestrzeni patrolowanej przez strażników
+	- [[Dybek]] wyposażony w kulki dymne
+		- Da znać graczom, że posiada je
+- Po przejściu w uliczkę poboczną, jest już spokojnie, a po paru minutach na ulicy normalnie są ludzie
+
+# Jeśli [[Ojciec Cornelius]] się obudzi
+- Nastąpi to następnego poranka lub jeśli gracze go ocucą
+- Będzie zdezorientowany
+	- Pamięta piekło w świątyni
+	- Złą magię, którą odpędza
+	- Ogień wydobywający się z podłogi
+- Gdy dowie się, co zrobili gracze
+	- Rzuci na nich klątwę
+		- "PANIE MÓJ, POKORNY SŁUGA CIĘ BŁAGA. ZEŚLIJ KLĄTWĘ NA TYCH BLUŹNIERCÓW. NIECHAJ BOSKA SPRAWIEDLIWOŚĆ ICH DOSIĘGNIE. NIECHAJ ICH ŻYCIE OBRÓCI SIĘ W PROCH. NIECHAJ ICH NIEBIAŃSKI OGIEŃ SPOPIELI. O TO CIĘ PROSI TWÓJ SŁUGA OSTATNIM ODDECHEM."
+	- To ułatwi innym sługom Lathandera zlokalizowanie ich
+	- Wszyscy gracze poza [[Verdnir]]em poczują się niespokojnie, jakby ktoś ich obserwował, ale zawsze spoza ich pola widzenia
+
+# Spotkanie z [[Alex]]em
+- [[Dybek]] będzie nalegał na poczekanie na [[Alex]]a i resztę załogi [[Znajoma Kurtyzana]] w konkretnym zaułku
+- Po parunastu minutach [[Alex]] przyjdzie tam samemu
+	- Powie, że [[Aninyel]] i [[Łapa]] już poszli do portu
+		- Ale przed tem [[Aninyel]] zapuściła trochę prawdziwego ognia do świątyni, co zajmie strażników
+	- Spyta, jak poszło w krypcie
+	- Zaproponuje popłynięcie za nim do [[Unia Wolnych Portów]]
+		- Zwłaszcza przypomni [[Verdnir]]owi i [[Voanir]]owi ich rozmowę z wcześniej
+		- Nie będzie ich zmuszał siłą, ale będzie mu zależało
+- Droga do portu i na statki będzie bez problemów

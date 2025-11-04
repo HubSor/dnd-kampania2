@@ -1,0 +1,1 @@
+Małe miasto w [[Nimros]], przy granicy z [[Drakonia]].

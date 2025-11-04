@@ -1,5 +1,6 @@
 Goliat łotr z załogi [[Alex]]a.
 Goliath Gladiator CR 6
+Zmarł zabity przez graczy.
 
 # Historia
 - Nazwany tak, gdyż jeszcze nikt go w siłowaniu na rękę nie pokonał

@@ -3,6 +3,7 @@ Człowiek kapitan-łotr z [[Unia Wolnych Portów]].
 Kapitan [[Znajoma Kurtyzana]].
 Sługa [[Szepczący]].
 Warlock of the Archfey 4 CR.
+Zmarł zabity w walce z graczami.
 # Historia
 - Pochodzi z [[Wolna Przystań]]
 - Od małego służył na statkach
