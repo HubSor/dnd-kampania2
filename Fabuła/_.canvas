@@ -94,7 +94,7 @@
 		{"id":"ab091e40b850f033","type":"text","text":"Podróż do [[Przeklęta Równina]] cz. 3\n\n\n- [[Przeklęta Równina#Brama]]\n- [[Przeklęta Równina#Wygląd]]","x":16320,"y":-450,"width":475,"height":243,"color":"4"},
 		{"id":"05dcd1a8b5d86a91","type":"text","text":"Sesja 19 13.07.2025","x":16988,"y":-640,"width":220,"height":50,"color":"1"},
 		{"id":"7bfb4ee6013ee10c","type":"file","file":"Miejsca/Ratlev.md","x":15780,"y":41,"width":475,"height":629},
-		{"id":"e4ea308671450d13","type":"text","text":"Skarbiec [[Balagon]]a\n\n- ","x":17401,"y":-429,"width":475,"height":200,"color":"4"},
+		{"id":"e4ea308671450d13","type":"text","text":"Skarbiec [[Balagon]]a\n\n- [[Akt XVIII - Skarbiec Balagona#Wejście]]\n- ","x":17401,"y":-429,"width":475,"height":200,"color":"4"},
 		{"id":"ca8748e4db6f08cc","type":"text","text":"Podróż do [[Przeklęta Równina]] cz. 2\n- 07.07.555 22:00 w obozie pod [[Ratlev]]\n\t- Tuż po przesłuchaniu i zabiciu rycerzy\n- [[Akt XVI - Podróż do Przeklętej Równiny#Podsumowanie szpiegowania]]\n\t- Nie mówić graczom","x":15780,"y":-482,"width":475,"height":308,"color":"4"},
 		{"id":"5dcef2f3213a5c52","type":"text","text":"Podróżowanie po [[Przeklęta Równina]]\n\n- [[Akt XVII - Przeklęta Równina#Podróżowanie po mapie]]\n- [[Akt XVII - Przeklęta Równina#Opuszczona wieża]]\n- [[Akt XVII - Przeklęta Równina#Jezioro]]\n- [[Akt XVII - Przeklęta Równina#Labirynt skalny]]\n- [[Akt XVII - Przeklęta Równina#Centralny krater]]","x":16860,"y":-456,"width":475,"height":255,"color":"4"}
 	],
@@ -234,6 +234,7 @@
 		{"id":"8ca9b6797c5c79b6","fromNode":"05dcd1a8b5d86a91","fromSide":"bottom","toNode":"ca8748e4db6f08cc","toSide":"top"},
 		{"id":"e63134d1dd04bfd3","fromNode":"ca8748e4db6f08cc","fromSide":"bottom","toNode":"7bfb4ee6013ee10c","toSide":"top"},
 		{"id":"65d8ce20dce74fa5","fromNode":"5dcef2f3213a5c52","fromSide":"right","toNode":"e4ea308671450d13","toSide":"left"},
-		{"id":"9003530f5704300a","fromNode":"ca8748e4db6f08cc","fromSide":"bottom","toNode":"c27192806e1fc217","toSide":"top"}
+		{"id":"9003530f5704300a","fromNode":"ca8748e4db6f08cc","fromSide":"bottom","toNode":"c27192806e1fc217","toSide":"top"},
+		{"id":"356500eae5943762","fromNode":"e4ea308671450d13","fromSide":"bottom","toNode":"13a3aa20112b4f9f","toSide":"top"}
 	]
 }

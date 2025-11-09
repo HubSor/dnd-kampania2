@@ -178,4 +178,4 @@
 	- Chyba, że przyrządziło się miksturę
 - Teren dookoła niego jest bardzo nierówny i skalisty
 - Skrywa w sobie wejście do [[Skarbiec]]
-	- #TODO
+	- [[Akt XVIII - Skarbiec Balagona#Wejście]]
