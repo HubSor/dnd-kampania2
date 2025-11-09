@@ -1,20 +1,15 @@
 #TODO
 - na teraz
-- na nastęną
-	- labirynt skalny
-		- siedziba enkhrak
-		- szczelina
-		- mikstura
-		- sprzęt galvandosa
-			- żrąco odporne elementy
-		- warzenie mikstury
-	- krater
-		- ślady po wielkiej bitwie
+	- ratlev
+		- uporządkować wątek szpiegowski
+		- kontakty banku w mieście
+		- opis miasta
 	- skarbiec
 		- kluczyk mały zniknie i obudzi smoka
-		- smok najpierw pojawi się jako człowiek?
-		- wykorzystać zdalne granie
-			- dungeona na ślepo?
-			- zagadka graficzna?
+		- drzwi do otwarcia
+		- jezioro kwasu
+		- walka ze smokiem
 	- epilog
 		- jak grupę zapamięta historia
+		- co ze statkiem zostawionym w lagenbach
+		- co znajdą w skarbcu

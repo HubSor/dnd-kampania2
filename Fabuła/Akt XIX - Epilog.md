@@ -1,0 +1,1 @@
+Ograbić przewoźnika po kampanii

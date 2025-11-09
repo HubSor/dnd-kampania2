@@ -166,3 +166,29 @@
 - 30.06.555
 	- Dalsze sprzeczki pomiędzy graczami
 	- Ucieczka [[Balladino]] ze statku w stronę [[Sosnowe Wybrzeże]]
+	- Przybycie [[Balladino]] do [[Arkala]] i spotkanie [[Dybek]]
+	- Konfrontacja graczy w [[Arkala]]
+	- Śmierć [[Dybek]]
+- 31.06.555
+	- Konfrontacja z [[Kapitan Fuentar]] na morzu
+	- Zatopienie [[Czerwony Pokutnik]]
+	- Śmierć [[Ojciec Cornelius]] i [[Kapitan Fuentar]]
+- 31.06-04.07.555
+	- Rejs do [[Lagenbach]]
+- 05.07.555
+	- Przybycie do [[Lagenbach]]
+	- Zakupienie prowiantu u Masarza Reymunda
+	- Wynajęcie krypy od [[Gregor Koch]]a
+	- Początek rejsu w głąb [[Nimros]]
+	- Pozostawienie [[Perłowy Książe]] w porcie z załogą
+- 06.07.555
+	- Zdemaskowanie, przesłuchanie 2 śledzących pasażerów
+		- Odkrycie, że śledzili dla [[Nimros]] i [[Bank Winifredów]]
+- 07.07.555
+	- Zmuszenie trzeciego szpiega do wysłania wiadomości kamieniem
+	- Zabicie trzeciego szpiega
+	- Zapłacenie [[Gregor Koch]] za zostawienie łodzi w pobliżu
+	- Desant w pobliżu [[Ratlev]]
+	- Zastawienie pułapki na śledzących
+	- Walka i pokonanie [[Sir Wilhelm Ebelhart]] i jego rycerzy
+		- Przesłuchanie ocalałych

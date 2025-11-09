@@ -29,7 +29,7 @@
 	- Mnóstwo rozbitych i uszkodzonych przyrządów i narzędzi
 		- (Investigation) to części aparatury do ważenia mikstur
 	- Fragment jakiejś receptury wyryty na ścianie niedbale
-		- Wspomina o wydzielinie z `tenebris luto` , magmie i zkwaszonej wodzie
+		- Wspomina o wydzielinie z `tenebris luto` , magmie, krwi i zakwaszonej wodzie
 		- Nie jest napisane, co dalej z tym zrobić
 	- (Testy Investigation DC 15) Powyrywane strony z dziennika
 		- "Dzień 344. Prace nad neutralizacją toksycznej mgły dalej nieskuteczne. Być może zbadanie okazu `tenebris luto` okaże się pomocne."
@@ -64,12 +64,15 @@
 - #Walka
 	- 2x Black Pudding (`tenebris luto`) CR 4
 	- 2x Ochre Jelly CR 2
-	- 2x Gelatinous Cube CR 2
-	- Ewentualnie dodać więcej
+	- Po każdej rundzie dodawać po jednym kolejnym oozie
+		- Potem można po 2
 	- Woda
 		- Wejście lub zaczęcie tury w wodzie zadaje 2d6 acid
+			- Ale nie maziom
 	- Co turę losowe 2 gejzery wybuchają jak gejzery
 		- Zadając 4d8 acid
+			- Ale nie maziom
+		- rzucić 2 2d14 i liczyć od lewej od góry
 	- Z każdej mazi zostaje mała kałuża żrącego płynu
 # Labirynt skalny
 - Wygląd z daleka
@@ -84,6 +87,11 @@
 		- (Percepcja) można zobaczyć nawet ślady po kilofie
 - Eksploracja labiryntu
 	- [[Skalny Labirynt.png]]
+	- Zasady
+		- Nie pokazywać graczom mapki
+		- Mówić tylko, że stoją na skrzyżowaniu
+		- 10 kroków to godzina
+		- Zachęcić do robienia notatek
 	- Groby
 		- Kilkanaście małych stosów kamieni
 		- W każdy z nich wbity kij
@@ -94,33 +102,80 @@
 	- Szczelina
 		- Wąska szpara pomiędzy skałami
 		- Widać przez nią kryjówkę [[Enk'hrak]]
-			- #TODO
+			- [[Akt XVII - Przeklęta Równina#Kryjówka Enk'hrak]]
 		- Używając odpowiednio dużej siły, można ją wyłamać, by dało się przejść
-	- Atak [[Enk'hrak]]
-		- (Rzuty na skradanie) kilku [[Enk'hrak]] śledzi graczy chodząc górą skał
-		- Napadną na graczy, odgradzając im drogę, skąd przyszli
-		- #Walka
-			- #TODO
 	- [[Enk'hrak]] uciekający przed graczami
 		- (Rzut na skradanie z utrudnieniem)
 			- Jeśli nie wyjdzie, gracze zobaczą postać [[Enk'hrak]] szybko czmychającą po skałach w stronę centrum
+	- Kawałek zaoranej ziemi
+		- Tutaj jest trochę gleby, a nie same skały
+		- W tej glebie są jakieś zaschnięte roślinki
+		- (Natura) To jakiś rodzaj toksycznych ziół
 	- Kwarcowe kryształy
 		- Na ziemi leżących kilka błyszczących kryształów
 		- (Investigation)
 			- To one spowodowały te błyski widziane z daleka
 	- Kryjówka [[Enk'hrak]]
-		- Wygląd
-			- #TODO
-		- Reakcja na graczy
-			- Jeśli zobaczą wcześniej, #Walka
-			- Jeśli nie, #TODO
-		- Warzenie mikstury
-			- Przyrządy [[Galvandos]]a
-			- #TODO
+		- [[Akt XVII - Przeklęta Równina#Kryjówka Enk'hrak]]
+
+## Kryjówka [[Enk'hrak]]
+- Wygląd
+	- Namioto-chaty zrobione z jakichś płacht i patyków
+	- Kilka takich ruder stoi przy wyjściu z jaskini
+	- Kilka [[Enk'hrak]] odzianych w szmaty chodzi z pałkami
+	- Mały ruch, względny spokój
+	- Prowizorycza "kuchnia" pod namiotem
+		- Kocioł na palenisku
+		- Obok niego kilka garnków, łyżek i podobnych
+	- W jaskini
+		- Dużo więcej takich prowizorycznych kwater
+		- Większa sala z kamiennymi ławami
+		- Prowizoryczna farma grzybów jaskiniowych
+		- Małe źródełko wody
+			- Mniej toksyczna niż gdzie indziej
+			- Narzędzia [[Galvandos]]a użyte do filtrowania wody
+- Reakcja na graczy
+	- Jeśli zobaczą wcześniej
+		- Paru [[Enk'hrak]] naskoczy na graczy ze skał z zaskoczenia
+		- #Walka
+			- 3x [[Enk'hrak]] Warrior
+			- 3x [[Enk'hrak]] Mage
+	- Jeśli nie
+		- Będą uciekać w panice w głąb jaskini
+			- Schowają się w sporej komnacie i zagrodzą wejście głazem
+		- Paru odważnych spróbuje przeszkodzić im drogę
+			- Dosyć łatwo ich zastraszyć
+			- Też uciekną w jaskinię, jeśli gracze łatwo sobie poradzą
+			- Potencjalna #Walka
+				- 2x [[Enk'hrak]] Warrior
+				- 2x [[Enk'hrak]] Mage
+- Warzenie mikstury
+	- Składniki
+		- Czarna maź
+		- Zakwaszona woda
+		- Krew
+		- Mnóstwo gorąca (np. magma)
+	- Wystarczy zmieszać i poczekać aż przestanie reagować
+		- Do odcedzania potrzebne przyrządy [[Galvandos]]a
+		- Ale ostatecznie można ostrożnie powybierać z kotła chochlą
+			- Wtedy mocniejsze efekty uboczne
+	- Jedna porcja to parę łyków
+	- Wyjdzie tyle porcji, ile krwi
+		- Reszta wywaru po prostu osiądzie na dnie jako osad
+	- Efekty
+		- (Odgadnięcie wymaga testów Arcany, Natury lub Survivalu)
+		- Smakuje obrzydliwie i pali w gardło
+		- Początkowo wywołuje zawroty głowy
+		- Po paru chwilach przestaje się czuć kwas w powietrzu
+		- Niewrażliwość na kwas do końca dnia
+	- Częściowy sukces
+		- Strata paru hp
+		- Częściowa utrata zmysłów
+		- Utrata owłosienia
 
 # Centralny krater
 - Spowity gęstym toksycznym wyziewem, który uniemożliwia podróż
-	- Chyba, że przyrządziło
+	- Chyba, że przyrządziło się miksturę
 - Teren dookoła niego jest bardzo nierówny i skalisty
 - Skrywa w sobie wejście do [[Skarbiec]]
 	- #TODO

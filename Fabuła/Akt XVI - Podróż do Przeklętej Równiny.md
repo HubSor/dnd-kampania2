@@ -123,3 +123,6 @@
 	- Długie miecze
 	- 10x prowiant
 	- Sporo golda
+
+# Podsumowanie szpiegowania
+- 
