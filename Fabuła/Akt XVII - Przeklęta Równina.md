@@ -1,6 +1,6 @@
 # Podróżowanie po mapie
 - 1 hex ~ 4km
-- Przejście 2 hexów ~ 2h
+- Przejście 1 hexa ~ 1h
 - Po trudnym terenie liczyć podwójnie
 - Sterować graczami, by najpierw trafili
 	- Wieża
@@ -149,29 +149,31 @@
 			- Potencjalna #Walka
 				- 2x [[Enk'hrak]] Warrior
 				- 2x [[Enk'hrak]] Mage
-- Warzenie mikstury
-	- Składniki
-		- Czarna maź
-		- Zakwaszona woda
-		- Krew
-		- Mnóstwo gorąca (np. magma)
-	- Wystarczy zmieszać i poczekać aż przestanie reagować
-		- Do odcedzania potrzebne przyrządy [[Galvandos]]a
-		- Ale ostatecznie można ostrożnie powybierać z kotła chochlą
-			- Wtedy mocniejsze efekty uboczne
-	- Jedna porcja to parę łyków
-	- Wyjdzie tyle porcji, ile krwi
-		- Reszta wywaru po prostu osiądzie na dnie jako osad
-	- Efekty
-		- (Odgadnięcie wymaga testów Arcany, Natury lub Survivalu)
-		- Smakuje obrzydliwie i pali w gardło
-		- Początkowo wywołuje zawroty głowy
-		- Po paru chwilach przestaje się czuć kwas w powietrzu
-		- Niewrażliwość na kwas do końca dnia
-	- Częściowy sukces
-		- Strata paru hp
-		- Częściowa utrata zmysłów
-		- Utrata owłosienia
+
+# Warzenie mikstury
+- Składniki
+	- Czarna maź
+	- Zakwaszona woda
+	- Krew
+	- Mnóstwo gorąca (np. magma)
+- Wystarczy zmieszać i poczekać aż przestanie reagować
+	- Do odcedzania potrzebne przyrządy [[Galvandos]]a
+	- Gracze mają kamień do rozpalania
+	- Ale ostatecznie można ostrożnie powybierać z kotła chochlą
+		- Wtedy mocniejsze efekty uboczne
+- Jedna porcja to parę łyków
+- Wyjdzie tyle porcji, ile krwi
+	- Reszta wywaru po prostu osiądzie na dnie jako osad
+- Efekty
+	- (Odgadnięcie wymaga testów Arcany, Natury lub Survivalu)
+	- Smakuje obrzydliwie i pali w gardło
+	- Początkowo wywołuje zawroty głowy
+	- Po paru chwilach przestaje się czuć kwas w powietrzu
+	- Niewrażliwość na kwas do końca dnia
+- Częściowy sukces
+	- Strata paru hp
+	- Częściowa utrata zmysłów
+	- Utrata owłosienia
 
 # Centralny krater
 - Spowity gęstym toksycznym wyziewem, który uniemożliwia podróż
@@ -179,3 +181,6 @@
 - Teren dookoła niego jest bardzo nierówny i skalisty
 - Skrywa w sobie wejście do [[Skarbiec]]
 	- [[Akt XVIII - Skarbiec Balagona#Wejście]]
+
+# Następny sen [[Darin]]a
+Darin leży na swoim posłaniu, budzą go przerażające odgłosy rozszalałych bestii. Wybiega z namiotu i z każdej strony zaczynają atakować go demoniczne stwory. Podbiegają one do niego sekwencyjnie, jeden za drugim i każdego pokonuje on z łatwością i satysfakcją. Niektórym ucina głowy, innym rozpłatuje klatki piersiowe i łamie kończyny. Czujesz się silny, mocny i niepokonany. W końcu pokonuje ostatnią bestię. Przez moment łapie oddech, po czym odwraca się i widzi pozostawioną przez siebie górę trupów. Jego oczy nie spotykają jednak widoku ciał demonów, lecz towarzyszy z jego załogi - Oliego, Talara, Voanira, Verdnira, Balladino, Pijo i Wassera. W jednej chwili wszystkie ciała otwierają oczy, skierowują nienawistny wzrok wprost na niego i chórem wykrzykują "MORDERCA".

@@ -15,11 +15,92 @@
 	- Widać ślady kolorów w środku
 	- Po prostu wysoki i długi korytarz wijący się naturalnie
 	- Po paru minutach marszu jest rozwidlenie
+	- (Dobry rzut na percepcję) Słychać odległe dźwięki harpy
 
 # Rozwidlenie
 - Duża naturalna komora jaskini
-- Dwoje 
-# Drzwi do [[Skarbiec]]
-- 
+- 2 wielkie portale naprzeciwko siebie
+	- W jednym wielkie (10m) wrota
+		- Wygląd
+			- Każde zrobione z wielkiego kawałka kamienia
+			- Na środku kamienny okrąg jakieś 2m nad ziemią
+			- W okręgu 3 półkuliste wgłębienia
+		- Otwarcie
+			- [[Darin]] stojąć przed drzwiami poczuje przyciągania
+			- To [[Bezpieczny Klucz]] i [[Nieosiągalny Klucz]] w jego torbie będą się aż wyrywać do przodu
+			- Po umieszczeniu w drzwiach, zaczną świecić jasno, tak jak gdy je znaleźli
+			- Będzie bardzo ciężko je wyciągnąć
+		- Zabezpieczenia
+			- Drzwi są magiczne
+			- Nie da się ich otworzyć bez [[Zapomniany Klucz]]
+			- Nie da się za nie teleportować
+	- W drugim brak drzwi, dalsze przejście wgłąb groty
+		- (Jeśli mikstura przestanie działać) Silny smród toksycznych wyziewów
+		- Dalsze podziemne przejście, podobne do tego, którym przyszli
+		- (Przed aktywacją [[Zapomniany Klucz]]) Słychać wyraźnie, że harpa gra stamtąd
+		- (Po aktywacji [[Zapomniany Klucz]]) Ślad miedzianych okruchów prowadzi w tamtą stronę
+- [[Zapomniany Klucz#Aktywacja atrapy]]
+	- Kiedy gracz spróbuje go użyć, lub kiedy wybiorą drogę
+	- Po tym jak się rozsypie
+		- Przez chwilę będzie bez zmian
+		- Potem będzie słuchać głośny łoskot
+		- Harpa ucichnie
+		- (Dobry test na percepcję) Będzie słychać bulgotanie i szuranie o kamień
 
-# Komnata [[Balagon]]a
+# Komnata Snu
+- Wygląd
+	- Duża hala
+	- Niegdyś musiało tu być podziemne jezioro
+	- Zamiast wody, duży akwen wypełniony kwasem
+		- Mocno bulgoczący, niczym wielka zupa
+	- Gęsty toksyczny opar ogranicza widoczność
+		- (Jeśli mikstura nie działa) Ostre kłucie w gardło i nos, ale lepiej niż na zewnątrz
+	- Dużo cieplej, niż w pozostałych miejscach
+	- W suficie muszą być szczeliny i dziury, którymi ten wyziew ucieka
+	- Poza jeziorem jest też spory kawałek kamiennego brzegu
+		- Duży głaz leżący na ziemi
+		- (Nie widać tego) pod nim resztki harpy
+		- Malutka dziura na klucz w jaskinnej skale
+			- W niej atrapa [[Zapomniany Klucz]]
+- Po przyjściu graczy
+	- Dać im chwilę na coś
+- Spotkanie z [[Balagon]]em
+	- Z jednego miejsca będą większe bulgoty się wydobywać
+	- Po chwili masywna postać zacznie się z niego wyłaniać
+		- Gigantyczny, ponad 20 metrowy smok
+		- Czarny jak noc, z przenikliwymi zielonymi ślepiami
+		- Cały dymi, spowity żrącym kwasem
+		- Z szyji zwisa mu prawdziwy [[Zapomniany Klucz]]
+			- Na naszyjniku zrobionym z czarnego łańcucha
+	- Głośny pomruk, niczym gruchot metalu o kamień będzie się z niego rozbrzmiewał
+	- "PODZIWIAJCIE!!! PAN POWRÓCIŁ!!!"
+		- Następnie rozłoży skrzydła pokazując ogrom swojej sylwetki
+	- Przyjrzy się graczom, przeskakując bardzo szybko wzrokiem po każdym
+		- Zatrzyma się na [[Voanir]]ze i jego zbroi
+		- Źrednice mu się zwężą, a szyja zacznie robić się coraz jaśniejsza
+		- CHWILA DLA GRACZY NA REAKCJE
+	- #Walka
+		- Gracze moga ustawić tokeny gdzie są, w granicach rozsądku
+		- 1x Custom Ancient Black Dragon CR ~15-20
+			- Ma tyle HP ile potrzebuje, ~350-500
+		- Dodać jego akcje legendarne do walki jako dummy tokeny z ustawioną inicjatywą
+		- Stanie w kwasie
+			- Wejście lub zaczęcie w nim tury kosztuje 2d6 acid damage
+			- Trudny teren
+			- Swimming speed, chyba że naprawdę przy brzegu
+
+
+# [[Skarbiec]]
+- Spora jaskinna komnata, wypełniona po brzegi złotem i innymi cennościami
+- Stosy monet i kryształów rozmiaru samego [[Balagon]]a
+- Wartość
+	- Kilkadziesiąt milionów gp
+	- Około 300 bardziej lub mniej magicznych przedmiotów
+		- (Test investigation) wśród nich [[Trójząb Topiciela]]
+		- Niektóre z nich są przedmiotami wspominanymi w legendach wielu ludów
+	- Dostatecznie, żeby
+		- Zmontować dużą prywatnę armię
+		- Zamówić dużą flotę
+		- Wybudować wielki pałac lub miasto
+		- Ale nie starczy, żeby zrobił to każdy z graczy niezależnie
+

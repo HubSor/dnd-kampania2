@@ -192,3 +192,20 @@
 	- Zastawienie pułapki na śledzących
 	- Walka i pokonanie [[Sir Wilhelm Ebelhart]] i jego rycerzy
 		- Przesłuchanie ocalałych
+	- Nocleg w lesie
+- 08.07.555
+	- Wznowienie podróży u [[Gregor Koch]]a spod [[Ratlev]]
+	- Zabicie [[Gregor Koch]]a po nieudanych negocjacjach
+	- Rozpoczęcie pieszej podróży w stronę [[Przeklęta Równina]]
+	- Koszmary nawiedzają [[Darin]]a
+- 09.07-10.07.555
+	- Dalsza podróż w stronę [[Przeklęta Równina]] po równinach
+	- Dalsze koszmary [[Darin]]a
+- 11.07.555
+	- Wkroczenie na [[Przeklęta Równina]]
+	- Napotkanie [[Przeklęta Równina#Brama]]
+	- Zbadanie wieży [[Galvandos]]a [[Akt XVII - Przeklęta Równina#Opuszczona wieża]]
+- 12.07.555
+	- Znalezienie [[Akt XVII - Przeklęta Równina#Labirynt skalny]]
+	- Napotkanie i pokojowa interakcja z [[Enk'hrak]]
+	- 

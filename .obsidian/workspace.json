@@ -45,9 +45,9 @@
               "state": {
                 "file": "Fabuła/_.canvas",
                 "viewState": {
-                  "x": 18129.64180082701,
-                  "y": 298.8320612085857,
-                  "zoom": -1
+                  "x": 5548.856877620006,
+                  "y": 333.75923931804175,
+                  "zoom": 3.3306690738754696e-16
                 }
               },
               "pinned": true,
@@ -56,78 +56,48 @@
             }
           },
           {
-            "id": "a64a859081bd9a37",
+            "id": "bc6175bd7a5ad517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miejsca/Przeklęta Równina.md",
+                "file": "Fabuła/Akt XVII - Przeklęta Równina.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Przeklęta Równina"
+              "title": "Akt XVII - Przeklęta Równina"
             }
           },
           {
-            "id": "606f8ba4d1253c06",
+            "id": "2a863eead9cf955d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frakcje/Enk'hrak.md",
+                "file": "Fabuła/Akt IX - Powrót na Wyspę Luster.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Enk'hrak"
+              "title": "Akt IX - Powrót na Wyspę Luster"
             }
           },
           {
-            "id": "a32b984cad263cc1",
+            "id": "96ee0d3d2bbe5032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obiekty/Klucze/Nieosiągalny Klucz.md",
+                "file": "Fabuła/Poboczne/Lojalność załogi - I.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nieosiągalny Klucz"
-            }
-          },
-          {
-            "id": "2d9e2a4fcfbd5759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obiekty/Klucze/Zapomniany Klucz.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Zapomniany Klucz"
-            }
-          },
-          {
-            "id": "124f950fb6caa3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obiekty/Klucze/Zapomniany Klucz.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Zapomniany Klucz"
+              "title": "Lojalność załogi - I"
             }
           }
         ]
@@ -162,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,47 +223,48 @@
   },
   "active": "dcb7955b4305001c",
   "lastOpenFiles": [
-    "Fabuła/_.canvas",
-    "Obiekty/Klucze/Zapomniany Klucz.md",
-    "Miejsca/Skarbiec.md",
-    "Obiekty/Klucze/Nieosiągalny Klucz.md",
-    "Miejsca/Przeklęta Równina.md",
-    "Frakcje/Enk'hrak.md",
-    "Obiekty/Klucze/Bezpieczny Klucz.md",
+    "Fabuła/Poboczne/Lojalność załogi - I.md",
+    "Postaci/NPC/Zerin.md",
+    "Postaci/NPC/Zumnus Gorlandar.md",
+    "Postaci/NPC/Yorkas.md",
+    "Postaci/NPC/Yinzeiros.md",
+    "Postaci/NPC/Virdon.md",
+    "Postaci/NPC/Ur-Tuluk.md",
+    "Postaci/NPC/Trigani Fensys.md",
+    "Postaci/NPC/Tendral.md",
+    "Postaci/NPC/Tatuażysta Jacek.md",
+    "Postaci/NPC/Szepczący.md",
+    "Postaci/NPC/Sir Wilhelm Ebelhart.md",
+    "Postaci/NPC/Satorpius.md",
+    "Postaci/NPC/Rommi Leśniak.md",
+    "Postaci/NPC/Rammaros.md",
+    "Postaci/NPC/Othelic.md",
+    "Postaci/NPC/Ojciec Cornelius.md",
+    "Postaci/NPC/Kylmar Odważny.md",
+    "Postaci/NPC/Lomnig.md",
+    "Postaci/NPC/Kapitan Fuentar.md",
+    "Postaci/NPC/Karczycho.md",
+    "Fabuła/Akt III - Turniej gladiatorów.md",
+    "Postaci/NPC/Aedelric.md",
+    "Postaci/NPC/Froic.md",
     "TODO.md",
     "Fabuła/Akt XVII - Przeklęta Równina.md",
-    "Postaci/NPC/Sir Wilhelm Ebelhart.md",
-    "Obrazki/Mapa Przeklętej Równiny Blank.png",
-    "Obrazki/Mapa Przeklętej Równiny Blank 2.png",
-    "Obrazki/Mapa Przeklętej Równiny.png",
-    "Pomysły.md",
-    "DM/Wydarzenia podróży morskiej.md",
-    "Fabuła/Poboczne/Śledzący graczy.md",
-    "Miejsca/Ratlev.md",
-    "Miejsca/Bank Winifredów.md",
-    "Postaci/NPC/Gregor Koch.md",
-    "Postaci/NPC/Lord Frank Pott.md",
-    "Fabuła/Akt XV - Poszukiwani na morzu.md",
-    "Miejsca/Lagenbach.md",
-    "Obiekty/Pojazdy/Czerwony Pokutnik.md",
-    "Fabuła/Poboczne/Rozłam w załodze.md",
-    "Miejsca/Arkala.md",
-    "Postaci/NPC/Rommi Leśniak.md",
-    "Obrazki/Skalny Labirynt 2.png",
+    "Fabuła/_.canvas",
     "Obrazki/Skalny Labirynt.png",
-    "Postaci/NPC/Dybek.md",
-    "Obrazki/Map The Blank 2025-11-03T16_17_14.278Z.png",
-    "Postaci/NPC/Galvandos.md",
-    "Fabuła/Poboczne/Lojalność załogi - II.md",
+    "Obrazki/Pękata Helena.png",
+    "Obrazki/Perłowy Książe.png",
+    "Obrazki/Morskie Bractwo.png",
+    "Obrazki/Mapa Przeklętej Równiny Blank 2.png",
+    "Obrazki/Mapa Przeklętej Równiny Blank.png",
+    "Obrazki/Mapa Przeklętej Równiny.png",
+    "Obrazki/Helligbror.svg",
+    "Obrazki/Andrash.png",
+    "Obrazki/Skalny Labirynt 2.png",
     "Fabuła/Poboczne/Niepotwierdzony 360469.crdownload",
     "Fabuła/Poboczne",
-    "nimros.png",
-    "Obrazki/Perłowy Książe.png",
-    "Obrazki/Perłowy Książe.jpg",
     "Obrazki/Niepotwierdzony 71715.crdownload",
     "Obiekty/Pojazdy",
     "Fabuła/Gotowe Questy",
-    "Obrazki/Pękata Helena.png",
     "Obiekty/Klucze",
     "DM/Untitled.canvas",
     "Untitled.canvas",

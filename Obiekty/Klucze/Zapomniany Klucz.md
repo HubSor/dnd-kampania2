@@ -22,3 +22,7 @@ Jeden z 3 kluczy potrzebnych do otwarcia [[Skarbiec]]. Atrapa znajduje się w [[
 	- Można prześledzić, gdzie lecą
 		- Zostawiają za sobą delikatny metaliczny i błyszczący ślad
 		- Ślady prowadzą do wielkiego jeziora kwasu
+- Klucz poleci do wielkiej magicznej harpy
+	- Zmaterializuje się tam
+	- Wejdzie w dziurę przy skalnym mechaniźmie
+	- Mechanizm zrzuci wielki głaz na harpę, uciszając ją

@@ -1,5 +1,6 @@
 Kenku łotr z załogi [[Alex]]a.
 Rogue Kenku CR 4.
+Zabity przez [[Balladino]] w [[Arkala]].
 
 # Historia
 - Nazwany tak, gdyż z reguły dybie na czatach

@@ -1,15 +1,6 @@
 #TODO
-- na teraz
-	- ratlev
-		- uporządkować wątek szpiegowski
-		- kontakty banku w mieście
-		- opis miasta
-	- skarbiec
-		- kluczyk mały zniknie i obudzi smoka
-		- drzwi do otwarcia
-		- jezioro kwasu
-		- walka ze smokiem
-	- epilog
-		- jak grupę zapamięta historia
-		- co ze statkiem zostawionym w lagenbach
-		- co znajdą w skarbcu
+ogarnąć notatki
+
+balladino pokonany łatwo oddaje trójząb, pegaz odlatuje ze złotem
+darin unieszkodliwiony
+voanir i verdnir vs oli, darin i talar

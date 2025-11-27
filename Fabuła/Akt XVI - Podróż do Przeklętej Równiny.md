@@ -125,4 +125,33 @@
 	- Sporo golda
 
 # Podsumowanie szpiegowania
-- 
+- 3 chłopów chciało śledzić graczy
+	- 1 z nich (Adam) śledził na rzecz [[Bank Winifredów]] i miał kamień do kontaktu
+		- Kompani podejrzewali to, ale oficjalnie był z nimi
+		- Wysyłał regularne wiadomości kamieniem do [[Bank Winifredów]] w [[Miasto Nimros]]
+	- 2 z nich (Bernard i Cyryl) śledziło na rzecz szeroko pojętego wywiadu [[Nimros]]
+		- Po prostu wpadli na poszukiwanych łotrów
+	- Każdy z nich został zabity
+	- Bernard został zmuszony do użycia kamienia
+		- Nie miało to dla niego żadnego sensu
+	- Bernard i Cyryl mieli udać się do [[Ratlev]] i zostawić tam znaki
+		- Nie wiedzieli o tym, ale miały trafić do [[Sir Wilhelm Ebelhart]]a
+- Siatki [[Bank Winifredów]] i wywiadu [[Nimros]] są połączone
+	- Przynajmniej w sprawie [[Darin]]a i [[Olimpijczyk]]a
+	- [[Bank Winifredów]] dostał wiadomość od graczy, że są pod [[Ratlev]]em
+		- Ta wiadomość potem trafiłą do [[Sir Wilhelm Ebelhart]]
+- [[Sir Wilhelm Ebelhart]] był w tym czasie w okolicy [[Ratlev]]
+	- Miał pod ręką paru rycerzy z jego oddziału
+		- Lojalnych mu
+		- Wiedzieli, że to w miare rutynowe patrole
+	- Po otrzymaniu wiadomości, zebrał z [[Ratlev]]a Ormusa
+		- Nie informował rycerzy, po co
+		- Wydał rozkazy tylko do szukania obozowiska niedaleko miasta
+- [[Sir Wilhelm Ebelhart]] i Ormus zostali pokonani przez graczy
+	- Rycerze nie zdradzili zbyt wiele, bo niewiele widzieli
+	- Powiedzieli, że [[Darin]] to drobny przestępca
+	- [[Sir Wilhelm Ebelhart]] i Ormus padli zanim dali się przesłuchać
+- [[Bank Winifredów]] ma teraz niewielkie możliwości
+	- [[Sir Wilhelm Ebelhart]] był mocnym pionkiem na ich planszy
+	- Na pewno rzucą się teraz na [[Perłowy Książe]] w [[Lagenbach]]
+		- Już wiedzą albo zaraz się dowiedzą, że tam jest
