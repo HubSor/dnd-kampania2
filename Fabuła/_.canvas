@@ -99,7 +99,8 @@
 		{"id":"f5025a08ad6f3db2","type":"text","text":"Epilog\n\n- [[Akt XVIII - Skarbiec Balagona#Skarbiec]]\n- [[Akt XIX - Epilog#Po śmierci Balagon a]]\n- [[Akt XIX - Epilog#Wiadomość od Ag'dreran a]]","x":17942,"y":-428,"width":475,"height":200,"color":"4"},
 		{"id":"6cf731cdc156fd9a","type":"file","file":"Frakcje/Enk'hrak.md","x":17401,"y":41,"width":475,"height":629},
 		{"id":"957aa8d92feec98f","type":"text","text":"Po kampanii\n\n- Wrzucić mapę labiryntu\n- Zaktualizować i spushować notatki","x":18481,"y":-428,"width":475,"height":200,"color":"4"},
-		{"id":"c78dc83aebb8f924","type":"text","text":"Sesja 20 19.11.2025","x":18609,"y":-640,"width":220,"height":50,"color":"1"}
+		{"id":"c78dc83aebb8f924","type":"text","text":"Sesja 20 19.11.2025","x":18609,"y":-640,"width":220,"height":50,"color":"1"},
+		{"id":"3a9fbf2d56594459","x":19000,"y":41,"width":475,"height":629,"type":"file","file":"Fabuła/Akt XX - Po zdobyciu skarbu.md"}
 	],
 	"edges":[
 		{"id":"8f5fa96d169da73d","fromNode":"d93d413a98cb6799","fromSide":"right","toNode":"19dd4a1154171878","toSide":"left"},
@@ -246,6 +247,7 @@
 		{"id":"2ae4837b4d880d7a","fromNode":"c78dc83aebb8f924","fromSide":"bottom","toNode":"e4ea308671450d13","toSide":"top"},
 		{"id":"84e1056491afb903","fromNode":"c78dc83aebb8f924","fromSide":"bottom","toNode":"5dcef2f3213a5c52","toSide":"top"},
 		{"id":"4700c029c68fe931","fromNode":"f5025a08ad6f3db2","fromSide":"right","toNode":"957aa8d92feec98f","toSide":"left"},
-		{"id":"dff26aa5fae8e908","fromNode":"c78dc83aebb8f924","fromSide":"bottom","toNode":"957aa8d92feec98f","toSide":"top"}
+		{"id":"dff26aa5fae8e908","fromNode":"c78dc83aebb8f924","fromSide":"bottom","toNode":"957aa8d92feec98f","toSide":"top"},
+		{"id":"9426408f0d531cff","fromNode":"f5025a08ad6f3db2","fromSide":"bottom","toNode":"3a9fbf2d56594459","toSide":"top"}
 	]
 }

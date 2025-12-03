@@ -208,4 +208,19 @@
 - 12.07.555
 	- Znalezienie [[Akt XVII - Przeklęta Równina#Labirynt skalny]]
 	- Napotkanie i pokojowa interakcja z [[Enk'hrak]]
-	- 
+- 13.07.555
+	- Eksploracja [[Akt XVII - Przeklęta Równina#Jezioro]]
+	- Walka z maziami i zdobycie ich wydzielin
+- 14.07.555
+	- Ważenie mikstury w [[Akt XVII - Przeklęta Równina#Labirynt skalny]] u [[Enk'hrak]]
+	- Eksploracja ich siedziby przez [[Balladino]]
+- 15.07.555
+	- Eksploracja centrum [[Przeklęta Równina]], dzięki mocy mikstury antytokstycznej
+	- Znalezienie wejścia do [[Skarbiec]]
+	- Spotkanie i walka z [[Balagon]]em
+	- Zdobycie bogactw [[Balagon]]a
+		- W tym [[Trójząb Topiciela]], który podzielił drużynę
+	- Kłótnie i konflikty o
+		- [[Trójząb Topiciela]]
+		- Sny zsyłane [[Darin]]owi przez [[Voanir]]a
+	- Rozejście się drużyny w niełatwym rozejmie
